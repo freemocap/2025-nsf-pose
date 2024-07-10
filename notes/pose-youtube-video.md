@@ -68,4 +68,7 @@ NSF generally does not like to support international stuff ('conferences are a p
 - https://youtu.be/GDugWxxq5xY?si=n3RmNIDVrVuY1Qmb&t=1277
 "A lot of folks  create a non-profit in the course of a Phase 2 award" 
 
-Letters are important 
+- Letters are important 
+- They don't dictate which license to use
+  - They do want a **clear description of why the license was chosen**
+  - 
