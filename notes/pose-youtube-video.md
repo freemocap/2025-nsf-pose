@@ -71,4 +71,5 @@ NSF generally does not like to support international stuff ('conferences are a p
 - Letters are important 
 - They don't dictate which license to use
   - They do want a **clear description of why the license was chosen**
-  - 
+
+- Use NSF Public award search  
