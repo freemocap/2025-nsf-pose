@@ -67,3 +67,5 @@ NSF generally does not like to support international stuff ('conferences are a p
 ## Q&A 
 - https://youtu.be/GDugWxxq5xY?si=n3RmNIDVrVuY1Qmb&t=1277
 "A lot of folks  create a non-profit in the course of a Phase 2 award" 
+
+Letters are important 
