@@ -25,4 +25,13 @@
   - is there a community of users,
   - is there a community of developers
 - Must provide a detailed **project plan to support community drvien distributed development and deplolyment of successful open source tools in *operational environments***, must include: 
-  - Community Outreach Plan
+  - **Community Outreach Plan** that outlines activities to
+    - engage the intendeded intellectual content developer community that will further develop and maintain the tech, and
+    - identify user communities and/or organizations that will serve as early adopters
+- Phase 2 props must: 
+  - describe **current context** and **long-term vision** and **impact** of proposed OSE
+  - well-developed cohesive plan for building an OSE including:
+    - ecosystem establishment/growth
+    - organzational governance structure
+    - framework for continuous development, integration, and deployment of tech
+    - methods for evaluating OSE's effectiveness
