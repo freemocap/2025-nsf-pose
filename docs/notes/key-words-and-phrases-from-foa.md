@@ -24,4 +24,5 @@
   - is the product robust,
   - is there a community of users,
   - is there a community of developers
-- Must provide a detailed **project plan to support community drvien distributed development and deplolyment of successful open source tools in *operational environments***
+- Must provide a detailed **project plan to support community drvien distributed development and deplolyment of successful open source tools in *operational environments***, must include: 
+  - Community Outreach Plan
