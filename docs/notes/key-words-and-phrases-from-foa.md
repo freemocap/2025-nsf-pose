@@ -60,3 +60,5 @@
     - mentoring
     - managing
     - mediating disputes
+    - 
+> OSE's are an important alternative to more common for-profit technology companies and offer several key   strengths: they are well suited to multidisciplinary efforts aimed at solving large-scale problems; they  engender a sense of ownership among all participants and encourage contributions from new technical disciplines as the OSE evolves; and they avoid costs, delays, and disputes that frequently arise in  circumstances where proprietary solutions are developed. OSEs encourage rapid prototyping in moving value  from the conception to execution phases, serving as important catalysts for innovation.
