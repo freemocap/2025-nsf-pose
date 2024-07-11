@@ -39,4 +39,24 @@
     - activities to ensure **security** and **privacy**
     - actvities to build the community
     - activities to sustain the ecosystem
-  - 
+  
+  ## Introduction
+  - an  OSE is a **self-sustaining** organization that enables the...
+    - ongoing
+    - distributed
+    - asynchronous...
+  - ...development  of an OS product
+  - OSE Key components:
+    - leadership team responsible for:
+      - governance
+      - management
+    - **intellectual content developers**
+      - a **decentralized** and **open** network devs
+      - who are committed to the **vision** of the OSE and contribute their time and XP to develop and maintain the core product
+    - **users** who's needs guide the evolution of the project
+  - OS Community building depends on elements like: 
+    - recruitment
+    - motivation
+    - mentoring
+    - managing
+    - mediating disputes
