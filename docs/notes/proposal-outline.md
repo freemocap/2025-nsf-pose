@@ -364,7 +364,7 @@ ___
 
 2. Does the proposal clearly describe the **long-term vision** for the OSE, including **potential partnerships and sustainability**?
 
-3. Does the proposal provide convincing evidence that a substantial user base exists, or could be built, for the open-source product that will be the subjectof the OSE?
+3. Does the proposal provide convincing evidence that a **substantial user base exists**, or could be built, for the open-source product that will be the subjectof the OSE?
 
 4.  Does the proposal justify the OSE within the current technological landscape and present a strong case that an OSE is the best approach for generating impact?
 
