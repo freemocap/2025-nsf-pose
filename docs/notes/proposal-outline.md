@@ -360,9 +360,9 @@ ___
 ### POSE Solicitation Specific Review Criteria
 #### **Phase I proposals** will be evaluated on the basis of the following solicitation-specific review criteria {We're Phase 2, so we're expected to hit these too}:
 
-1. Does the proposal present a convincing case that the OSE will address an issue of significant societal or national importance that is not currently being  adequately addressed?
+1. Does the proposal present a convincing case that the OSE will address an **issue of significant societal or national importance** that is not currently being  adequately addressed?
 
-2. Does the proposal clearly describe the long-term vision for the OSE, including potential partnerships and sustainability?
+2. Does the proposal clearly describe the **long-term vision** for the OSE, including **potential partnerships and sustainability**?
 
 3. Does the proposal provide convincing evidence that a substantial user base exists, or could be built, for the open-source product that will be the subjectof the OSE?
 
