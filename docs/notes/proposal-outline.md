@@ -230,3 +230,72 @@ ___
     -  **Long-term vision** for the proposed OSE, 
     -  The **specific societal or national need(s)** that the OSE will address, and 
     -  Anticipated broader impacts of the OSE.
+
+- **Budget stuff** (See [page 10 of FOA PDF](../../2024_NSF_POSE_foa_nsf23556.pdf))
+
+## Supplementary Documents
+
+## Letters of Collaboration (Required)
+- A minimum of three and up to **five letters of collaboration** from third-party users or contributors of the open-source product must be uploaded as Supplementary Documents. 
+- These letters of collaboration must be **from current users or contributors** (who are not directly related to the proposing team) of the open-source
+product that is the subject of the proposed OSE.
+- Each letter writer should clearly describe how they have contributed and will continue to contribute to the development of an OSE. 
+- These letters do not have to conform to the standard format specified in the PAPPG. In addition to the above information, each letter of collaboration (not to exceed two pages) must include the name of the letter writer, current affiliations (institution or place of employment), and relationship to the members of the proposing team.
+
+## List of Project Personnel, Collaborators, and Partner Organizations (required)
+- Provide current, accurate information for all personnel and organizations involved in the project. NSF staff will use this information in the merit review process to manage reviewer selection. The list must include all:
+  -  PIs, 
+  -  co-PIs, 
+  -  Senior Personnel, 
+  -  paid/unpaid consultants, 
+  -  collaborators (including everyone who has provided a letter of collaboration), 
+  -  subawardees, 
+  -  postdocs, and 
+  -  project-level advisory committee members. 
+-  This list should be numbered and include (in this order):
+   -   Full name, 
+   -   Organization(s), and 
+   -   Role in the project, 
+   -   each item separated by a semi-colon. 
+   -   Each person listed should start a new numbered line. 
+   -   For example:
+
+```
+1. Mary Smith; XYZ University; PI
+2. John Jones; University of PQR Non-Profit; Senior Personnel
+3. Jane Brown; XYZ University; Letter of Collaboration
+4. Bob Adams; ABC Community College; Paid Consultant
+5. Susan White; DEF Corporation; Unpaid Collaborator
+6. Tim Green; ZZZ University; Subawardee
+```
+## Data Management Plan (required):
+- In accordance with the guidance in the PAPPG, proposals must include a **Data Management Plan** of:
+  -  no more than **two pages** \
+  -  details in the Data Management Plansection in Research.gov or as a Supplementary Document in Grants.gov). 
+  -  The Data Management Plan must be substantive and specific to the project and should address all project-relevant aspects of:
+     -   security
+     -   data privacy. 
+ -   In addition to addressing how the project will conform to NSF's policy on the **dissemination** and **sharing** of research results
+ -   **The Data Management Plan should address the following topics if they are relevant to the project:**
+     - **Security:**
+       -  The project must describe a security plan if the OSE will collaboratively develop and/or release any artifacts, including (without limitation): 
+          - source code in any form,
+          - languages or formats, 
+          - hardware instruction sets,  hardware designs or specifications, 
+          - scientific methodologies, models, or processes,
+          - manufacturing processes or process specifications, 
+          - material formulations, and/or 
+          - data. 
+        - The plan should discuss the access control mechanisms that are planned for both users and content developers, and the specific mechanisms that will be in place to ensure:
+          -  (i)quality, 
+          -  (ii) secure modification, integration, and release of content (e.g., secure software development methodologies, policies for patching known security vulnerabilities), 
+          -  (iii) chain of custody.
+       -  **Handling of Sensitive Data:**
+          -   If the project involves sensitive data, the plan must discuss the method of data collection and identification of harms that
+could arise from its collection or inadvertent dissemination, techniques that will be used to protect the privacy of individuals and organizations
+associated with the data and plans to request IRB and/or IACUC approval for data collection, aggregation, and analysis if applicable. Methods for
+providing other users with controlled access to datasets and the time period during which data will be available, and policies for authorizing access to
+the data and techniques (including security protections) that will be used to prevent the unauthorized dissemination of the data should also be
+discussed
+
+ > additional information on the Dissemination and Sharing of Research Results, see: https://www.nsf.gov/bfa/dias/policy/dmp.jsp.
