@@ -357,3 +357,51 @@ To identify which projects to support, NSF relies on a **merit review** process 
 (blah blah blah, see FOA re Intellectual Merit and Broader Impacts)
 
 
+### POSE Solicitation Specific Review Criteria
+**Phase I **proposals will be evaluated on the basis of the following solicitation-specific review criteria {We're Phase 2, so we're expected to hit these too}:
+  1. Does the proposal present a convincing case that the OSE will address an issue of significant societal or national importance that is not currently being  adequately addressed?
+
+  2. Does the proposal clearly describe the long-term vision for the OSE, including potential partnerships and sustainability?
+
+  3. Does the proposal provide convincing evidence that a substantial user base exists, or could be built, for the open-source product that will be the subjectof the OSE?
+
+  4.  Does the proposal justify the OSE within the current technological landscape and present a strong case that an OSE is the best approach for generating impact?
+
+  5. Does the proposal present clear plans for discovering the ecosystem within which the OSE will be operating?
+
+  6. Does the proposal present a credible plan for exploring the establishment of a sustainable organizational structure?
+
+  7. Does the proposal present a credible plan to develop a strategy for building a community of contributors?
+
+  8. Does the proposing team have the required expertise and experience to undertake the Phase I activities described in the solicitation?
+
+  9. Will NSF support serve as a critical catalyst for the establishment of the OSE?
+
+  10. Does the proposal include third-party letters of collaboration from current users of the open-source product that is the subject of the OSE? 
+  
+**Phase II proposals** will be evaluated on the basis of the following solicitation-specific review criteria:
+  1.  Does the proposal present a convincing case that the OSE will address an issue of significant societal or national importance that is not currently being  adequately addressed? 
+  
+  2.  Does the proposal clearly describe the long-term vision for the OSE, including potential partnerships and sustainability?
+  
+  3. Does the proposal provide convincing evidence that a substantial user base exists for the open-source product that will be the subject of the OSE?
+  
+  4. Does the proposal justify the OSE within the current technological landscape and present a strong case that an OSE is the best approach for  generating impact?
+   
+  5.  Does the proposal present a clear and comprehensive description of the ecosystem within which the OSE will be operating along with plans for ongoing ecosystem establishment/growth and discovery?
+   
+  6. Does the proposal present a specific, actionable plan for establishing a sustainable organizational structure?
+  
+  7. Does the proposal present a credible strategy and actionable plan for building a community of contributors and retaining contributors?
+  
+  8. Does the proposal include a clear, detailed licensing approach for the open-source product that is the subject of the OSE?
+  
+  9.  Does the proposal clearly describe a build and test infrastructure, and procedures to address quality control and security of new content?
+  
+  10. Does the proposal present a clear, actionable evaluation plan to measure the success of the OSE with respect to its sustainability goals?
+  
+  11. Does the proposing team have the required expertise and experience to undertake the Phase II activities described in the solicitation?
+  
+  12. Will NSF support serve as a critical catalyst for the establishment and growth of the OSE towards achieving sustainability?
+  
+  13. Does the proposal include third-party letters of collaboration from current users of the open-source technology that is the subject of the OSE?
