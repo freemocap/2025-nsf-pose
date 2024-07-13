@@ -392,18 +392,18 @@ ___
 
 5.  Does the proposal present** a clear and comprehensive description of the ecosystem within which the OSE will be operating** along with **plans for ongoing ecosystem establishment/growth and discovery**?
 
-6. Does the proposal present a specific, actionable plan for establishing a sustainable organizational structure?
+6. Does the proposal present **a specific, actionable plan for establishing a sustainable organizational structure**?
 
-7. Does the proposal present a credible strategy and actionable plan for building a community of contributors and retaining contributors?
+7. Does the proposal present a **credible strategy and actionable plan for building a community of contributors and retaining contributors**?
 
-8. Does the proposal include a clear, detailed licensing approach for the open-source product that is the subject of the OSE?
+8. Does the proposal include **a clear, detailed licensing approach for the open-source product** that is the subject of the OSE?
 
-9.  Does the proposal clearly describe a build and test infrastructure, and procedures to address quality control and security of new content?
+9.  Does the proposal clearly describe **a build and test infrastructure**, and **procedures to address quality control** and **security of new content**?
 
-10. Does the proposal present a clear, actionable evaluation plan to measure the success of the OSE with respect to its sustainability goals?
+10. Does the proposal present **a clear, actionable evaluation plan to measure the success of the OSE** with respect to its **sustainability goals**?
 
-11. Does the proposing team have the required expertise and experience to undertake the Phase II activities described in the solicitation?
+11. Does the **proposing team have the required expertise and experience to undertake the Phase II activities** described in the solicitation?
 
-12. Will NSF support serve as a critical catalyst for the establishment and growth of the OSE towards achieving sustainability?
+12. **Will NSF support serve as a critical catalyst for the establishment and growth of the OSE towards** achieving sustainability?
 
-13. Does the proposal include third-party letters of collaboration from current users of the open-source technology that is the subject of the OSE?
+13. Does the proposal include **third-party letters of collaboration from current users** of the open-source technology that is the subject of the OSE?
