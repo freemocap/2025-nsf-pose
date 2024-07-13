@@ -118,7 +118,7 @@
   
 **In this context the term "external" means external to the founding team**
 
-## Figure 2
+### Figure 2
 ![alt text](image-1.png)
 
 **An OSE supported by POSE, as shown in Figure 2, will comprise three components:** 
