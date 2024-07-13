@@ -331,9 +331,29 @@ for Phase II proposals.**
 > Proposers should also be aware of core strategies that are essential to the fulfillment of NSF's mission, as articulated in Leading the World in Discovery and Innovation, STEM Talent Development and the Delivery of Benefits from Research - NSF Strategic Plan for Fiscal Years (FY) 2022 - 2026. These strategies are integrated in the program planning and implementation process, of which proposal review is one part. NSF's mission is particularly well-implemented through the integration of research and education and broadening participation in NSF programs, projects, and activities 
 >✨✨👉NSF 2024-2026 Strategic Plan -> https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22068 👈✨✨
 
-One of the strategic objectives in support of NSF's mission is to foster integration of research and education through the programs, projects, and activities it
-supports at academic and research institutions. These institutions must recruit, train, and prepare a diverse STEM workforce to advance the frontiers of science
-and participate in the U.S. technology-based economy. NSF's contribution to the national innovation ecosystem is to provide cutting-edge research under the
-guidance of the Nation's most creative scientists and engineers. NSF also supports development of a strong science, technology, engineering, and mathematics
-(STEM) workforce by investing in building the knowledge that informs improvements in STEM teaching and learning.
+One of the strategic objectives in support of NSF's mission is to foster integration of research and education through the programs, projects, and activities it supports at academic and research institutions. 
+
+These institutions must **recruit**, **train**, and **prepare** a diverse STEM workforce to **advance the frontiers of science** and **participate in the U.S. technology-based economy**. 
+
+NSF's contribution to the **national innovation ecosystem** is to provide **cutting-edge research under the guidance of the Nation's most creative scientists and engineers**. NSF also supports development of a **strong science, technology, engineering, and mathematics (STEM) workforce** by investing in building the knowledge that informs improvements in STEM teaching and learning.
+
+NSF's mission calls for the **broadening of opportunities** and **expanding participation** of groups, institutions, and geographic regions that are **underrepresented** in STEM disciplines, which is essential to the health and vitality of science and engineering.
+
+ NSF is committed to this** principle of diversity and deems it central to the programs, projects, and activities it considers and supports**
+
+ ### Merit Review Criteria
+
+The National Science Foundation strives to invest in a **robust and diverse portfolio** of projects that:
+- create new knowledge and 
+- enables breakthroughs in understanding 
+- across all areas of **science** and **engineering** - **research** and **education**. 
+
+To identify which projects to support, NSF relies on a **merit review** process that incorporates consideration of **both the technical aspects** of a proposed project and its **potential to contribute more broadly to advancing NSF's **mission:
+- "to promote the progress of science; 
+- to advance the national health, prosperity, and welfare; 
+- to secure the national defense;
+-  and for other purposes." 
+
+(blah blah blah, see FOA re Intellectual Merit and Broader Impacts)
+
 
