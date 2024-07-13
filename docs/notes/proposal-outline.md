@@ -326,4 +326,6 @@ for Phase II proposals.**
 
 ## NSF PROCESSING AND REVIEW PROCEDURES
 
-###
+(See FOA section VI for details on review procedure)
+
+> Proposers should also be aware of core strategies that are essential to the fulfillment of NSF's mission, as articulated in Leading the World in Discovery and Innovation, STEM Talent Development and the Delivery of Benefits from Research - NSF Strategic Plan for Fiscal Years (FY) 2022 - 2026. These strategies are integrated in the program planning and implementation process, of which proposal review is one part. NSF's mission is particularly well-implemented through the integration of research and education and broadening participation in NSF programs, projects, and activities https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22068
