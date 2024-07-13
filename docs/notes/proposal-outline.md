@@ -368,29 +368,29 @@ ___
 
 4.  Does the proposal **justify the OSE within the current technological landscape** and present a strong case that an OSE is the best approach for generating impact?
 
-5. Does the proposal present clear plans for discovering the ecosystem within which the OSE will be operating?
+5. Does the proposal present clear plans for **discovering the ecosystem** within which the OSE will be operating?
 
-6. Does the proposal present a credible plan for exploring the establishment of a sustainable organizational structure?
+6. Does the proposal present a **credible plan for exploring the establishment of a sustainable organizational structure**?
 
-7. Does the proposal present a credible plan to develop a strategy for building a community of contributors?
+7. Does the proposal present a credible plan to develop a **strategy for building a community of contributors**?
 
-8. Does the proposing team have the required expertise and experience to undertake the Phase I activities described in the solicitation?
+8. Does the **proposing team have the required expertise and experience** to undertake the Phase I activities described in the solicitation?
 
-9. Will NSF support serve as a critical catalyst for the establishment of the OSE?
+9. **Will NSF support serve as a critical catalyst** for the establishment of the OSE?
 
-10. Does the proposal include third-party letters of collaboration from current users of the open-source product that is the subject of the OSE? 
+10. Does the proposal include **third-party letters of collaboration from current users of the open-source product** that is the subject of the OSE? 
   
 #### **Phase II proposals** will be evaluated on the basis of the following solicitation-specific review criteria:
 
-1.  Does the proposal present a convincing case that the OSE will address an issue of significant societal or national importance that is not currently being  adequately addressed? 
+1.  Does the proposal present a convincing case that the **OSE will address an issue of significant societal or national importance** that is not currently being  adequately addressed? 
 
-2.  Does the proposal clearly describe the long-term vision for the OSE, including potential partnerships and sustainability?
+2.  Does the proposal clearly describe the **long-term vision for the OSE**, including **potential partnerships** and **sustainability**?
 
-3. Does the proposal provide convincing evidence that a substantial user base exists for the open-source product that will be the subject of the OSE?
+3. Does the proposal provide convincing evidence that **a substantial user base exists** for the open-source product that will be the subject of the OSE?
 
-4. Does the proposal justify the OSE within the current technological landscape and present a strong case that an OSE is the best approach for  generating impact?
+4. Does the proposal **justify the OSE within the current technological landscape** and present a **strong case that an OSE is the best approach** for  generating impact?
 
-5.  Does the proposal present a clear and comprehensive description of the ecosystem within which the OSE will be operating along with plans for ongoing ecosystem establishment/growth and discovery?
+5.  Does the proposal present** a clear and comprehensive description of the ecosystem within which the OSE will be operating** along with **plans for ongoing ecosystem establishment/growth and discovery**?
 
 6. Does the proposal present a specific, actionable plan for establishing a sustainable organizational structure?
 
