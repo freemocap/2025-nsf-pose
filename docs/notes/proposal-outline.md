@@ -1,12 +1,10 @@
-# Proposal Outline
+# Extracted Key Info from [FOA](../../2024_NSF_POSE_foa_nsf23556.pdf)
 
-## Extracted Key Info from [FOA](../../2024_NSF_POSE_foa_nsf23556.pdf)
-
-### DUE DATE - 👉**5 Sept 2024** 👈 
+## DUE DATE - 👉**5 Sept 2024** 👈 
 - First Thursday of September 
 - 5PM Submitter's Local Time
 
-### Synopsis of program
+## Synopsis of program
 - new technology solutions to problems of national and societal importance
 - open source project shows potential for wide adoption forms basis of a `self-sustaining open-source ecosystem (OSE)`
   - leadership team
@@ -20,7 +18,7 @@
   - increased ocordination of external intellectual content developer
   - more focused route to tech with broad societal impact
  
-### Phase 2 proposals (up to $1.5Million over 24 months)
+## Phase 2 proposals (up to $1.5Million over 24 months)
 - goal to ESTABLISH  a sustainable OSE from an EXISTING and ROBUSTR open source project that 
   - shows promise to meet an emergent societal or national need, and
   - build a community to help develop it
@@ -44,30 +42,30 @@
     - actvities to build the community
     - activities to sustain the ecosystem
   
-  ### 1. (PROGRAM) INTRODUCTION
-  - an  OSE is a **self-sustaining** organization that enables the...
-    - ongoing
-    - distributed
-    - asynchronous...
-  - ...development  of an OS product
-  - OSE Key components:
-    - leadership team responsible for:
-      - governance
-      - management
-    - **intellectual content developers**
-      - a **decentralized** and **open** network devs
-      - who are committed to the **vision** of the OSE and contribute their time and XP to develop and maintain the core product
-    - **users** who's needs guide the evolution of the project
-  - OS Community building depends on elements like: 
-    - recruitment
-    - motivation
-    - mentoring
-    - managing
-    - mediating disputes
-    - 
+## 1. (PROGRAM) INTRODUCTION
+- an  OSE is a **self-sustaining** organization that enables the...
+  - ongoing
+  - distributed
+  - asynchronous...
+- ...development  of an OS product
+- OSE Key components:
+  - leadership team responsible for:
+    - governance
+    - management
+  - **intellectual content developers**
+    - a **decentralized** and **open** network devs
+    - who are committed to the **vision** of the OSE and contribute their time and XP to develop and maintain the core product
+  - **users** who's needs guide the evolution of the project
+- OS Community building depends on elements like: 
+  - recruitment
+  - motivation
+  - mentoring
+  - managing
+  - mediating disputes
+- 
 > "OSE's are an important alternative to more common for-profit technology companies and offer several key   strengths: they are well suited to multidisciplinary efforts aimed at solving large-scale problems; they  engender a sense of ownership among all participants and encourage contributions from new technical disciplines as the OSE evolves; and they avoid costs, delays, and disputes that frequently arise in  circumstances where proprietary solutions are developed. OSEs encourage rapid prototyping in moving value  from the conception to execution phases, serving as important catalysts for innovation.""
 
-### 2. PROGRAM DESCRIPTION
+## 2. PROGRAM DESCRIPTION
 - Key attribute of OSEs is a **distributed development model** in which **external intellectual content developers**  use:
   - Continuous (a) devlopment, (b) integration, and (c) deployment model
   - "Projects lacking this **distributed development aspect** are not well suited to POSE"
@@ -80,7 +78,7 @@
       - "for profit stuff is better for SBIR/STTR"
   - POSE **IS** FOR
     - building on exising, robust, open-source product that has **active users** outside of the founding team
-## Figure 1
+### Figure 1
 ![alt text](image.png)
 
 - **The transition from open-source research or innovation project to an OSE requires an organized and intentional approach that depends on many factors:**
