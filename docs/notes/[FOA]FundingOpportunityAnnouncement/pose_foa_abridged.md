@@ -83,7 +83,7 @@ NSF POSE program seeks to support:
   - POSE **IS** FOR
     - building on exising, robust, open-source product that has **active users** outside of the founding team
 #### Figure 1
-![alt text](image.png)
+![alt text](foa-figure-1.png)
 
 - **The transition from open-source research or innovation project to an OSE requires an organized and intentional approach that depends on many factors:**
     1. The **guiding principles** and **vision** of the founding team, 
@@ -123,7 +123,7 @@ NSF POSE program seeks to support:
 **In this context the term "external" means external to the founding team**
 
 #### Figure 2
-![alt text](image-1.png)
+![alt text](foa-figure-2.png)
 
 **An OSE supported by POSE, as shown in Figure 2, will comprise three components:** 
 1. a distributed community of intellectual content developers from academia, industry and/or the non-profit sector; 
