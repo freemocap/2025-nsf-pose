@@ -201,4 +201,4 @@ ___
 ## PROPOSAL PREPARATION AND SUBMISSION
 ### Proposal preparation
 - Submit through Research.gov
-- Proposal must be PREPARED and SUBMITTED in accordance with the general guidelines contained in the NSF Proposal and Award Policies and Procedures Guide (PAPPG): https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp (Mostly Part 1)
+- Proposal must be PREPARED and SUBMITTED in accordance with the general guidelines contained in the NSF Proposal and Award Policies and Procedures Guide (PAPPG): https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp (Mostly Part 1, chatper 1 and 2)
