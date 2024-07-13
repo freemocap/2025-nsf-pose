@@ -4,7 +4,7 @@
 - First Thursday of September 
 - 5PM Submitter's Local Time
 
-## Synopsis of program
+## NSF POSE PROGRAM DESCRIPTION
 - new technology solutions to problems of national and societal importance
 - open source project shows potential for wide adoption forms basis of a `self-sustaining open-source ecosystem (OSE)`
   - leadership team
@@ -18,7 +18,7 @@
   - increased ocordination of external intellectual content developer
   - more focused route to tech with broad societal impact
  
-## Phase 2 proposals (up to $1.5Million over 24 months)
+### Phase 2 proposals (up to $1.5Million over 24 months)
 - goal to ESTABLISH  a sustainable OSE from an EXISTING and ROBUSTR open source project that 
   - shows promise to meet an emergent societal or national need, and
   - build a community to help develop it
@@ -42,7 +42,8 @@
     - actvities to build the community
     - activities to sustain the ecosystem
   
-## 1. (PROGRAM) INTRODUCTION
+
+### 1. (PROGRAM) INTRODUCTION
 - an  OSE is a **self-sustaining** organization that enables the...
   - ongoing
   - distributed
@@ -65,7 +66,7 @@
 - 
 > "OSE's are an important alternative to more common for-profit technology companies and offer several key   strengths: they are well suited to multidisciplinary efforts aimed at solving large-scale problems; they  engender a sense of ownership among all participants and encourage contributions from new technical disciplines as the OSE evolves; and they avoid costs, delays, and disputes that frequently arise in  circumstances where proprietary solutions are developed. OSEs encourage rapid prototyping in moving value  from the conception to execution phases, serving as important catalysts for innovation.""
 
-## 2. PROGRAM DESCRIPTION
+### 2. PROGRAM DESCRIPTION
 - Key attribute of OSEs is a **distributed development model** in which **external intellectual content developers**  use:
   - Continuous (a) devlopment, (b) integration, and (c) deployment model
   - "Projects lacking this **distributed development aspect** are not well suited to POSE"
@@ -78,7 +79,7 @@
       - "for profit stuff is better for SBIR/STTR"
   - POSE **IS** FOR
     - building on exising, robust, open-source product that has **active users** outside of the founding team
-### Figure 1
+#### Figure 1
 ![alt text](image.png)
 
 - **The transition from open-source research or innovation project to an OSE requires an organized and intentional approach that depends on many factors:**
@@ -118,7 +119,7 @@
   
 **In this context the term "external" means external to the founding team**
 
-### Figure 2
+#### Figure 2
 ![alt text](image-1.png)
 
 **An OSE supported by POSE, as shown in Figure 2, will comprise three components:** 
@@ -146,18 +147,18 @@ functions described above and whose overarching objective is to ensure **sustain
     -   sustainability of OSEs. 
 
 ___
-### Phase 1: Scoping and Planning Activitites
+#### Phase 1: Scoping and Planning Activitites
 (i.e. phase 1 activities we're already expected to have done going into Phase 2)
-#### Ecosystem Discovery: 
-##### Scoping and Planning (phase 1)
+##### Ecosystem Discovery: 
+###### Scoping and Planning (phase 1)
 Include a plan for developing a strategy that: 
 1.  describes methods to **evaluate and justify the need** for the innovation within the current technological landscape; 
 2. explains **why an OSE** is the right approach to further develop the technology; and 
 3. outlines methods to **identify potential users** who will utilize this technology.
-##### Establishment and Expansion (phase 2)
+###### Establishment and Expansion (phase 2)
  Include a **well-developed ecosystem establishment and ongoing discovery strategy** to ensure that the proposed OSE can 
    - effectively grow the open-source product within the current technological landscape, along with specific plans to **identify**, **engage**, and **support** potential **users** and **partners** who will serve as **early adopters** for the product. The inclusion of specific plans to engage **industrial** and **international** **collaborators** are also encouraged
-#### Organization and Governance: 
+##### Organization and Governance: 
 Describe specific activities and their rationale that will identify:
  1. the appropriate:
     1.  organizational, 
@@ -174,14 +175,14 @@ Describe specific activities and their rationale that will identify:
    1.  metrics to assess and evaluate long-term success of the development methodology,
    2.  support for users, 
    3.  on-boarding mechanisms for new contributors/developers.
-#### Continuous Development model
+##### Continuous Development model
 Describe the specific **continuous** **development**, **integration**, and **deployment** methodology and infrastructure that will be employed to enable the **open**, **asynchronous**, and **distributed development** of the open-source product and specific processes for ensuring:
 - quality control,
 - security
 - privacy of new content.
   
-####  Community Building: 
-##### Scoping (Phase 1)
+#####  Community Building: 
+###### Scoping (Phase 1)
 Describe the specific activities to engage potential users and intellectual content developers, including: 
 1.  identification of the specific research and development capabilities required of the potential contributor communities; and 
 2.  mechanisms to engage these communities, e.g.:
@@ -190,9 +191,9 @@ Describe the specific activities to engage potential users and intellectual cont
     3. competitions, 
     4. research coordination networks,
     5. Ideas Labs.
-##### Establishment and growth
+###### Establishment and growth
  Describe a **long-term strategy** for community building to **engage**, **incentivize**, **on-board**, and **support** potential users and content developers who will help in further developing and maintaining the open-source product
-#### Sustainability
+##### Sustainability
 Articulate clear **sustainability** goals of the OSE and an **actionable evaluation plan**, along with **metrics to assess and evaluate success*\\\\\\\\\\
 
 ___
@@ -235,16 +236,16 @@ ___
 
 - **Budget stuff** (See [page 10 of FOA PDF](../../2024_NSF_POSE_foa_nsf23556.pdf))
 
-## Supplementary Documents
+### Supplementary Documents
 
-## Letters of Collaboration (Required)
+#### Letters of Collaboration (Required)
 - A minimum of three and up to **five letters of collaboration** from third-party users or contributors of the open-source product must be uploaded as Supplementary Documents. 
 - These letters of collaboration must be **from current users or contributors** (who are not directly related to the proposing team) of the open-source
 product that is the subject of the proposed OSE.
 - Each letter writer should clearly describe how they have contributed and will continue to contribute to the development of an OSE. 
 - These letters do not have to conform to the standard format specified in the PAPPG. In addition to the above information, each letter of collaboration (not to exceed two pages) must include the name of the letter writer, current affiliations (institution or place of employment), and relationship to the members of the proposing team.
 
-## List of Project Personnel, Collaborators, and Partner Organizations (required)
+#### List of Project Personnel, Collaborators, and Partner Organizations (required)
 - Provide current, accurate information for all personnel and organizations involved in the project. NSF staff will use this information in the merit review process to manage reviewer selection. The list must include all:
   -  PIs, 
   -  co-PIs, 
@@ -270,7 +271,7 @@ product that is the subject of the proposed OSE.
 5. Susan White; DEF Corporation; Unpaid Collaborator
 6. Tim Green; ZZZ University; Subawardee
 ```
-## Data Management Plan (required):
+#### Data Management Plan (required):
 - In accordance with the guidance in the PAPPG, proposals must include a **Data Management Plan** of:
   -  no more than **two pages** \
   -  details in the Data Management Plansection in Research.gov or as a Supplementary Document in Grants.gov). 
@@ -307,7 +308,7 @@ product that is the subject of the proposed OSE.
  > additional information on the Dissemination and Sharing of Research Results, see: https://www.nsf.gov/bfa/dias/policy/dmp.jsp.
  
 
-### **Solicitation-Specific Submission Checklist:**
+#### **Solicitation-Specific Submission Checklist:**
 The following checklist is provided as a reminder of some important items that should be checked before submitting a proposal to this solicitation. For the items marked with "(RWR)," the proposal will be returned without review if the required item is non-compliant at the submission deadline. Note that these are requirements unique to this solicitation; for other return-without-review requirements, see the PAPPG.
 
 - [ ] (RWR) **The last line of the Project Summary must consist of the word "Keywords" followed by a colon and between 2-5 keywords separated by semi-
@@ -321,4 +322,8 @@ and vision of the proposed OSE.
 - [ ] (RWR) **The maximum budget shown on the Cover Sheet and on the budget sheets must not exceed $300,000 for Phase I proposals and $1,500,000
 for Phase II proposals.**
 - [ ] (RWR) A minimum of **three and up to five letters of collaboration from third-party contributors or users of the open-source product must be included** as Supplementary Documents.
-- [ ] (RWR) **A Project Personnel, Collaborators and Partner Organizations list as a Supplementary Document must be included.**
+- [ ] (RWR) **A Project Personnel, Collaborators and Partner Organizations list as a Supplementary Document must be included.*
+
+## NSF PROCESSING AND REVIEW PROCEDURES
+
+###
