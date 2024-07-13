@@ -291,11 +291,32 @@ product that is the subject of the proposed OSE.
           -  (ii) secure modification, integration, and release of content (e.g., secure software development methodologies, policies for patching known security vulnerabilities), 
           -  (iii) chain of custody.
        -  **Handling of Sensitive Data:**
-          -   If the project involves sensitive data, the plan must discuss the method of data collection and identification of harms that
-could arise from its collection or inadvertent dissemination, techniques that will be used to protect the privacy of individuals and organizations
-associated with the data and plans to request IRB and/or IACUC approval for data collection, aggregation, and analysis if applicable. Methods for
-providing other users with controlled access to datasets and the time period during which data will be available, and policies for authorizing access to
-the data and techniques (including security protections) that will be used to prevent the unauthorized dissemination of the data should also be
-discussed
+          -   If the project involves sensitive data, the plan must discuss:
+              - the method of data collection 
+              - identification of harms that could arise from its:
+                   - collection or
+                   - inadvertent dissemination, 
+              - techniques that will be used to protect the privacy of individuals and organizations associated with the data
+              - plans to request IRB and/or IACUC approval for data collection, aggregation, and analysis if applicable. 
+          - Methods for providing other users with controlled access to datasets
+          - the time period during which data will be available
+          -  policies for authorizing access to the data and techniques (including security protections) that will be used to prevent the unauthorized dissemination of the data should also be discussed
 
  > additional information on the Dissemination and Sharing of Research Results, see: https://www.nsf.gov/bfa/dias/policy/dmp.jsp.
+ 
+
+ Solicitation-Specific Submission Checklist:
+To assist proposal preparation, the following checklist is provided as a reminder of some important items that should be checked before submitting a proposal to
+this solicitation. For the items marked with "(RWR)," the proposal will be returned without review if the required item is non-compliant at the submission deadline.
+Note that these are requirements unique to this solicitation; for other return-without-review requirements, see the PAPPG.
+(RWR) The last line of the Project Summary must consist of the word "Keywords" followed by a colon and between 2-5 keywords separated by semi-
+colons. The first keyword must denote the acronym of the directorate that most closely matches the technical topic advanced in the OSE. The
+additional keywords (2-5) must be words (or phrases) that describe the primary intended impact area for the proposed OSE – e.g., "Climate Change",
+or "Healthcare", etc.
+(RWR) The Project Description must have a section labeled "Context of the Open-Source Ecosystem" (or "Context of OSE") that discusses the context
+and vision of the proposed OSE.
+(RWR) The maximum budget shown on the Cover Sheet and on the budget sheets must not exceed $300,000 for Phase I proposals and $1,500,000
+for Phase II proposals.
+(RWR) A minimum of three and up to five letters of collaboration from third-party contributors or users of the open-source product must be included as
+Supplementary Documents.
+(RWR) A Project Personnel, Collaborators and Partner Organizations list as a Supplementary Document must be included.
