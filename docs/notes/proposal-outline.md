@@ -1,6 +1,10 @@
 # Proposal Outline
 
-### Extracted Key words and phrases from [FOA](../../2024_NSF_POSE_foa_nsf23556.pdf)
+## Extracted Key Info from [FOA](../../2024_NSF_POSE_foa_nsf23556.pdf)
+
+### DUE DATE - 👉**5 Sept 2024** 👈 
+- First Thursday of September 
+- 5PM Submitter's Local Time
 
 ### Synopsis of program
 - new technology solutions to problems of national and societal importance
@@ -305,18 +309,18 @@ product that is the subject of the proposed OSE.
  > additional information on the Dissemination and Sharing of Research Results, see: https://www.nsf.gov/bfa/dias/policy/dmp.jsp.
  
 
- Solicitation-Specific Submission Checklist:
-To assist proposal preparation, the following checklist is provided as a reminder of some important items that should be checked before submitting a proposal to
-this solicitation. For the items marked with "(RWR)," the proposal will be returned without review if the required item is non-compliant at the submission deadline.
-Note that these are requirements unique to this solicitation; for other return-without-review requirements, see the PAPPG.
-(RWR) The last line of the Project Summary must consist of the word "Keywords" followed by a colon and between 2-5 keywords separated by semi-
-colons. The first keyword must denote the acronym of the directorate that most closely matches the technical topic advanced in the OSE. The
+### **Solicitation-Specific Submission Checklist:**
+The following checklist is provided as a reminder of some important items that should be checked before submitting a proposal to this solicitation. For the items marked with "(RWR)," the proposal will be returned without review if the required item is non-compliant at the submission deadline. Note that these are requirements unique to this solicitation; for other return-without-review requirements, see the PAPPG.
+
+- [ ] (RWR) **The last line of the Project Summary must consist of the word "Keywords" followed by a colon and between 2-5 keywords separated by semi-
+colons.** The first keyword must denote the acronym of the directorate that most closely matches the technical topic advanced in the OSE. The
 additional keywords (2-5) must be words (or phrases) that describe the primary intended impact area for the proposed OSE – e.g., "Climate Change",
 or "Healthcare", etc.
-(RWR) The Project Description must have a section labeled "Context of the Open-Source Ecosystem" (or "Context of OSE") that discusses the context
+
+- [ ] (RWR) **The Project Description must have a section labeled "Context of the Open-Source Ecosystem" (or "Context of OSE")** that discusses the context
 and vision of the proposed OSE.
-(RWR) The maximum budget shown on the Cover Sheet and on the budget sheets must not exceed $300,000 for Phase I proposals and $1,500,000
-for Phase II proposals.
-(RWR) A minimum of three and up to five letters of collaboration from third-party contributors or users of the open-source product must be included as
-Supplementary Documents.
-(RWR) A Project Personnel, Collaborators and Partner Organizations list as a Supplementary Document must be included.
+
+- [ ] (RWR) **The maximum budget shown on the Cover Sheet and on the budget sheets must not exceed $300,000 for Phase I proposals and $1,500,000
+for Phase II proposals.**
+- [ ] (RWR) A minimum of **three and up to five letters of collaboration from third-party contributors or users of the open-source product must be included** as Supplementary Documents.
+- [ ] (RWR) **A Project Personnel, Collaborators and Partner Organizations list as a Supplementary Document must be included.**
