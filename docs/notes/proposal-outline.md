@@ -194,11 +194,31 @@ Describe the specific activities to engage potential users and intellectual cont
 Articulate clear **sustainability** goals of the OSE and an **actionable evaluation plan**, along with **metrics to assess and evaluate success*\\\\\\\\\\
 
 ___
-**Collaborative Proposals:**
-- POSE proposals are expected to be multi-organizational, 
-- a single organization must serve as the lead and all other organizations as subawardees. \
+
 
 ## PROPOSAL PREPARATION AND SUBMISSION
 ### Proposal preparation
 - Submit through Research.gov
 - Proposal must be PREPARED and SUBMITTED in accordance with the general guidelines contained in the NSF Proposal and Award Policies and Procedures Guide (PAPPG): https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papp (Mostly Part 1, chatper 1 and 2)
+- **Collaborative Proposals:**
+  - POSE proposals are expected to be multi-organizational, 
+  - a single organization must serve as the lead and all other organizations as subawardees. 
+
+### Proposal Content and Structure
+- **Title:** 
+  - Proposal titles must begin with "POSE:" and the Phase followed by a colon ":"), and then the title of the project. 
+    - example: proposal to Phase I would have a title of the form `POSE: Phase I: Title`.
+
+- **Project Summary:** 
+  - **Keywords**:
+    - The last line of the Project Summary must have a prioritized list of -5 keywords that best characterize the technical field and impact area the OSE is Intended to pursue. 
+    - The first keyword must denote the directorate [Biological Sciences (specified as "BIO"), Computer and Information Science and Engineering (CISE), Education and Human Resources (EHR), Engineering (ENG), Geosciences (GEO), Mathematical and Physical Sciences (MPS), or Social, Behavioral and Economic Sciences (SBE)] that most closely matches the technical topic advanced in the OSE. The additional keywords (2-5) must be words (or phrases) that describe the primary intended impact area for the proposed OSE – e.g., "Climate Change", or "Healthcare", etc. 
+    - The list should start with "Keywords:" followed by a list of keywords separated by semi-colons (";").
+
+- **Project Description:** 
+  - Describe the activities to be undertaken in up to 15 pages for Phase II proposals.
+  - The  **"Broader Impacts"** portion must have a **separate** section titled **"Context of OSE"** describing the **context and vision of the proposed OSE**. This required section must include:
+    -  A description of the **guiding principles** 
+    -  **Long-term vision** for the proposed OSE, 
+    -  The **specific societal or national need(s)** that the OSE will address, and 
+    -  Anticipated broader impacts of the OSE.
