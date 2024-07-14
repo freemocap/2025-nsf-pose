@@ -100,9 +100,24 @@ includes a separate Budget Justification that does not exceed five pages.
 
 ___
 ## - [ ]  Facilities, Equipment and Other Resources:
-- [ ] An aggregated description of the internal and external resources (both physical and
-personnel) that the organization and its collaborators will provide to the project, should it
-be funded, has been included.
+- [ ] An aggregated description of the internal and external resources (both physical and personnel) that the organization and its collaborators will provide to the project, should it be funded, has been included.
 - [ ] In-kind contributions intended for use on the project being proposed (such as office/laboratory space, equipment, supplies, employees, students) have been identified, where applicable.
 - [ ] No quantifiable financial information has been provided.
 - [ ] If there are no facilities, equipment or other resources identified, a statement to that effect has been included in this section of the proposal and uploaded into Research.gov or Grants.gov.
+
+___
+## - [ ]  Senior/Key Personnel Documents
+### - [ ]  Biographical Sketch(es):
+  - [ ] A separate Biographical Sketch has been prepared through use of SciENcv and provided for each individual identified as a senior/key person on the project.
+  - [ ] The content described has been prepared in accordance with the instructions and does not contain additional information beyond that specified. Note that there is no longer a page limitation to this section of the proposal.
+  
+### - [ ]  Current and Pending (Other) Support:
+  - [ ] A separate Current and Pending (Other) Support document has been prepared throughuse of SciENcv and provided for each individual identified as a senior/key person on theproject. Each pdf file has been uploaded into Research.gov or Grants.gov.
+  - [ ] The content described has been prepared in accordance with the instructions and does not contain additional information beyond that specified.
+  - [ ] Collaborators and Other Affiliations (COA):
+### - [ ] Special Information and Supplementary Documentation:
+- [ ] A Mentoring Plan (that covers both postdoctoral researchers and graduate students supported on the project), limited to one page, has been included, if required.
+- [ ] A Data Management and Sharing Plan, limited to two pages, has been included.
+- [ ] Letters of collaboration documenting collaborative arrangements of significance to the proposal have been included, if applicable.
+- [ ] Other types of information identified in Chapter II.D.2.i have been included, as appropriate.
+- [ ] Any additional items specified in a relevant program solicitation have been included.
