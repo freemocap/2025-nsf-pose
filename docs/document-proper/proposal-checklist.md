@@ -115,9 +115,26 @@ ___
   - [ ] A separate Current and Pending (Other) Support document has been prepared throughuse of SciENcv and provided for each individual identified as a senior/key person on theproject. Each pdf file has been uploaded into Research.gov or Grants.gov.
   - [ ] The content described has been prepared in accordance with the instructions and does not contain additional information beyond that specified.
   - [ ] Collaborators and Other Affiliations (COA):
-### - [ ] Special Information and Supplementary Documentation:
+
+___
+## - [ ]  Special Information and Supplementary Documentation:
 - [ ] A Mentoring Plan (that covers both postdoctoral researchers and graduate students supported on the project), limited to one page, has been included, if required.
 - [ ] A Data Management and Sharing Plan, limited to two pages, has been included.
 - [ ] Letters of collaboration documenting collaborative arrangements of significance to the proposal have been included, if applicable.
 - [ ] Other types of information identified in Chapter II.D.2.i have been included, as appropriate.
 - [ ] Any additional items specified in a relevant program solicitation have been included.
+
+___
+## - [ ]  Appendices:
+- [ ] Appendices have not been included unless a deviation has been authorized.
+
+___
+## - [ ] Other Types of Proposals:
+- [ ] For other types of proposals (see Chapter II.F), the applicable proposal preparation
+guidance has been followed.
+
+___
+## - [ ] Other Reminders:
+- [ ] If the proposal contains off-campus or off-site research, a plan has been developed for that proposal prior to proposal submission. The plan is not submitted to NSF for review but is maintained in the organizational records (see Chapter II.E.9).
+- [ ] An individual development plan has been developed for each postdoctoral scholar and graduate student who would be receiving substantial support from an NSF award. These plans are not submitted to NSF for review but are maintained in the organizational records (see Chapter VII.B.7).
+- [ ] Prior written approval from the official(s) designated by the relevant Tribal Nation(s) has been obtained for any proposal that may impact the resources or interests of a federal recognized American Indian or Alaska Native Tribal Nation (see Chapter II.E.10).
