@@ -4,5 +4,5 @@
 
 ## [POSE Youtube Video ](notes/pose-youtube-video-notes.md)
 
-## [Key words and phrases from FOA](2024-nsf-pose/key-words-and-phrases-from-foa)
+## [FOA Abridged](./notes/[FOA]FundingOpportunityAnnouncement/pose_foa_abridged.md)
 
