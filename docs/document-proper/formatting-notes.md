@@ -22,3 +22,6 @@ Instructions pulled from [NSF PAPPG (rule book)](/docs/notes/nsf_proposal_and_aw
     1. Data Management and Sharing Plan
 
 - [Additional proposal specific instructions](/docs/notes/funding-opportunity-announcement-foa/pose_foa_abridged.md#solicitation-specific-submission-checklist)
+___
+
+## Project Description Details
