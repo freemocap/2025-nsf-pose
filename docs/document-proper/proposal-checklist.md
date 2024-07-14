@@ -129,12 +129,12 @@ ___
 - [ ] Appendices have not been included unless a deviation has been authorized.
 
 ___
-## - [ ] Other Types of Proposals:
+## - [ ]  Other Types of Proposals:
 - [ ] For other types of proposals (see Chapter II.F), the applicable proposal preparation
 guidance has been followed.
 
 ___
-## - [ ] Other Reminders:
+## - [ ]  Other Reminders:
 - [ ] If the proposal contains off-campus or off-site research, a plan has been developed for that proposal prior to proposal submission. The plan is not submitted to NSF for review but is maintained in the organizational records (see Chapter II.E.9).
 - [ ] An individual development plan has been developed for each postdoctoral scholar and graduate student who would be receiving substantial support from an NSF award. These plans are not submitted to NSF for review but are maintained in the organizational records (see Chapter VII.B.7).
 - [ ] Prior written approval from the official(s) designated by the relevant Tribal Nation(s) has been obtained for any proposal that may impact the resources or interests of a federal recognized American Indian or Alaska Native Tribal Nation (see Chapter II.E.10).
