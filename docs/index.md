@@ -1,12 +1,12 @@
 # 2024 NSF Pose Award submission 
 
 ## Notes and Resources
-1. [Official Resources](./d)
+1. [Official Resources](/docs/notes/official_resources.md)
 
-1. Highlighted PDF [Funding Opportunity Announcment (FOA)](./docs/notes/funding-opportunity-announcement-foa/2024_NSF_POSE_foa_nsf23556.pdf)
-   1. [FOA Abridged](./docs/notes/funding-opportunity-announcement-foa/pose_foa_abridged.md)
+1. [Funding Opportunity Announcment (FOA) - Highlighted PDF](/docs/notes/funding-opportunity-announcement-foa/2024_NSF_POSE_foa_nsf23556.pdf)
+   1. [FOA Abridged](/docs/notes/funding-opportunity-announcement-foa/pose_foa_abridged.md)
 
-1. [POSE Youtube Video ](nsf-pose-youtube-video/pose-youtube-video)
+1. [POSE Youtube Video Notes](/docs/notes/nsf-pose-youtube-video/pose-youtube-video.md)
 
 
 ## Document Proper
