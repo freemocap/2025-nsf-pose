@@ -11,4 +11,4 @@
 ## Document Proper
 
 1. [Formatting Notes](docs/document-proper/formatting-notes)
-2. [Project Description Outline](docs/document-proper/project-description-outline.md "A draft outline of the primary ")
+2. [Project Description Outline](document-proper/project-description-outline.md "A draft outline of the primary ")
