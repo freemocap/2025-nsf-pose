@@ -123,7 +123,8 @@ NSF POSE program seeks to support:
 **In this context the term "external" means external to the founding team**
 
 #### Figure 2
-![alt text](foa-figure-2.png)
+
+![alt text](C:\Users\jonma\github_repos\jonmatthis\2024-nsf-pose\docs\notes\funding-opportunity-announcement-foa\foa-figure-2.png)
 
 **An OSE supported by POSE, as shown in Figure 2, will comprise three components:** 
 1. a distributed community of intellectual content developers from academia, industry and/or the non-profit sector; 
