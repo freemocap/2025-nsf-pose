@@ -8,7 +8,7 @@
         - cohesive community of external content developers
         - broad base of users across academia, industry, govt
 - Proposed OSE
-  - Specific Product
+  - Specific Product/(Living) Artifact
   - Long-term vision
   - Guiding Principles
   - Current context
@@ -50,4 +50,17 @@
   6. ensures security, privacy and reliability of all aspects of the OSE operation
   7. maintains appropriate organizational governance practices.
 
+
+### 
+`from Artifact to Ecosystem`: 
+- Product
+- Governance
+- Documentation
+- Scientist (core maintainers)
+- Onboarding
+- Developer community
+- External Users
+- Distributed Development
+- Defect management (bug fixing)
+- Security/Privacy
 
