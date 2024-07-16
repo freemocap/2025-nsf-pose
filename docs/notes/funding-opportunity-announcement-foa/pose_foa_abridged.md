@@ -124,7 +124,7 @@ NSF POSE program seeks to support:
 
 #### Figure 2
 
-![alt text](C:\Users\jonma\github_repos\jonmatthis\2024-nsf-pose\docs\notes\funding-opportunity-announcement-foa\foa-figure-2.png)
+![alt text](/notes/funding-opportunity-announcement-foa/foa-figure-2.png)
 
 **An OSE supported by POSE, as shown in Figure 2, will comprise three components:** 
 1. a distributed community of intellectual content developers from academia, industry and/or the non-profit sector; 
@@ -332,8 +332,9 @@ for Phase II proposals.**
 
 (See FOA section VI for details on review procedure)
 
-> Proposers should also be aware of core strategies that are essential to the fulfillment of NSF's mission, as articulated in Leading the World in Discovery and Innovation, STEM Talent Development and the Delivery of Benefits from Research - NSF Strategic Plan for Fiscal Years (FY) 2022 - 2026. These strategies are integrated in the program planning and implementation process, of which proposal review is one part. NSF's mission is particularly well-implemented through the integration of research and education and broadening participation in NSF programs, projects, and activities 
->✨✨👉NSF 2024-2026 Strategic Plan -> https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22068 👈✨✨
+> Proposers should also be aware of core strategies that are essential to the fulfillment of NSF's mission, as articulated in Leading the World in Discovery and Innovation, STEM Talent Development and the Delivery of Benefits from Research - NSF Strategic Plan for Fiscal Years (FY) 2022 - 2026. These strategies are integrated in the program planning and implementation process, of which proposal review is one part. NSF's mission is particularly well-implemented through the integration of research and education and broadening participation in NSF programs, projects, and activities
+>
+>✨✨👉NSF 2024-2026 Strategic Plan: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22068 👈✨✨
 
 One of the strategic objectives in support of NSF's mission is to foster integration of research and education through the programs, projects, and activities it supports at academic and research institutions. 
 
