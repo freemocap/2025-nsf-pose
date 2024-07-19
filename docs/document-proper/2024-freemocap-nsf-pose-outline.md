@@ -27,10 +27,25 @@
     - When anyone can use it, everyone benefits
     - Same tool for 0XP as for professional
     - "The [aspirational] goal of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
-#### Current Context
-- Technical landscape
-- Social landscape
-- Current FreeMoCap OSE status
+  - No artificial scarcity
+    - "Knoweldge is free, labor is unbelievable expensive"
+    - Anything that can be duplicated infinitely is free for everyone
+      - Software, documentation, tutorial/educational material, etc
+    - Anything that is finite (or costs us money) can be charged
+      - e.g. server side processing and cloud storage
+      - Sliding scale pay options [HumbleBundleModel] 
+        - Recommended cost relative to break-even. 
+        - Give user option to allocate overage to different programs/departments
+          - (by necessity, the recommendations will be followed if at all possible, adjustments may be made to ensure long term stability of the FMC-Org. 
+          - Its kinda like a voting system, but with money)
+          - Support for: 
+            - New features
+            - Specific projects
+            - Scholarship/community grants program
+            - Unspecified
+        - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
+        
+
 #### Long-term vision
 - Fully integrated FOSS platform for Laser Skeleton research/recording
   - Fully-body mocap
@@ -53,20 +68,27 @@
       - Developmental
     - Robotics
 
-#### Potential impact
-- Lots!
+#### Broader impacts
+#### Current Context
+- Technical landscape
+- Social landscape
+- Need and Gap
+- Current FreeMoCap OSE status
+#### Expected Impact
+- Lots, probably!
+- Describe (short, middle, long) term (plans, potential futures, and resultant impacts)
 
 ### The FreeMoCap Foundation
 - Organizational structure 
   - Worker oriented structure (co-op of some kind)
-    - e.g. Haber, Michael, The New Activist Non-Profits: Four Models Breaking from the Non-Profit Industrial Complex (May 15, 2019). University of Miami Law Review, Vol. 73, 2019, Hofstra Univ. Legal Studies Research Paper No. 2019-07, Available at SSRN: https://ssrn.com/abstract=3388752
+    - e.g. one of these wacky things: 
+      - Haber, Michael, The New Activist Non-Profits: Four Models Breaking from the Non-Profit Industrial Complex (May 15, 2019). University of Miami Law Review, Vol. 73, 2019, Hofstra Univ. Legal Studies Research Paper No. 2019-07, Available at SSRN: https://ssrn.com/abstract=3388752
 - Governance
   - 501c3 incorporation documents and bylaws for org
   - Explicitly crib from numpy or other big project for their gov/docs 
 - Community Engagement 
 - Transparency
 - Finances (e.g. Backyard Brains 'open finances' model)
-- 
     
 
 ### Building the FMC OSE
@@ -181,6 +203,18 @@
     - 
 
 
+#### Continuous Integration and Development
+- Git-flow system
+- Automated test suites (via GitHub Action)
+  - Quick tests  run per commit to PR
+  - Full run per commit to `main`
+- Automated release/versioning on commit to `main`
+- Poly-repo format
+  - Sub-skelly repos mimic structure of core `freemocap` software
+    - Standalone GUI/CLI
+    - `.github/workflows/`: CI/CD
+    - `skelly[slug]/api/`: FastAPI endpoints
+    - `skelly[slug]/docs/`
 
 
 ###  A Fully Developed OSE
@@ -204,3 +238,5 @@
         - Validation of core measurements
         - Resources needed (minimal hardware specs to run minimal, default, and max settings)
     - 
+
+
