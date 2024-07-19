@@ -93,9 +93,9 @@ Describe specific activities and their rationale that will identify:
     3.  privacy or
     4.  ethical concerns of new content
 4. the best methods for sustaining the organizational structure, including:
-1.  metrics to assess and evaluate long-term success of the development methodology,
-2.  support for users,
-3.  on-boarding mechanisms for new contributors/developers.
+   1.  metrics to assess and evaluate long-term success of the development methodology,
+   2.  support for users,
+   3.  on-boarding mechanisms for new contributors/developers.
 
 ### Continuous Integration and Development
 Describe the specific **continuous** **development**, **integration**, and **deployment** methodology and infrastructure that will be employed to enable the **open**, **asynchronous**, and **distributed development** of the open-source product and specific processes for ensuring:
@@ -104,7 +104,7 @@ Describe the specific **continuous** **development**, **integration**, and **dep
 - privacy of new content.
 
 ###  Community Building:
-#### Scoping (Phase 1)
+#### Scoping (Phase 1 - we should have already done )
 Describe the specific activities to engage potential users and intellectual content developers, including:
 1.  identification of the specific research and development capabilities required of the potential contributor communities; and
 2.  mechanisms to engage these communities, e.g.:
