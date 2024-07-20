@@ -14,4 +14,4 @@
 ## Document Proper
 
 1. [Formatting Notes](document-proper/formatting-notes)
-2. [Project Description Outline](notes/funding-opportunity-announcement-foa/foa-abridged-abridged.md "A draft outline of the primary ")
+2. [Project Description Outline](notes/funding-opportunity-announcement-foa/foa-abridged-abridged.md "A draft outline of the primary ") 
