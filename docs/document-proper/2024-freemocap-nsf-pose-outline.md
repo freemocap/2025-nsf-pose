@@ -27,12 +27,26 @@
 
 #### Guiding Principles
 
-- Universal Design
-  - When anyone can use it, everyone benefits
-  - Same tool for 0XP as for professional
-  - "The [aspirational] goal of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
-- No artificial scarcity
-  - "Knoweldge is free, labor is unbelievable expensive"
+##### Universal Design
+- "When anyone can use it, everyone benefits"
+- Same tool for 0XP as for professional
+- "The [aspirational goal] of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
+- **Maintain a True Minimum option**
+  - Understand and maintain an option to run with the barest possible hardware
+  - Focus and maintain a [generic hardware] pipeline as the core path
+    - Using specific proprietary hardware (e.g. stereocams, kinect) can be developed as secondary routes and/or via a plugin system
+    - Clients may request development of a proprietary pipeline, in exchange for funds to support it
+- ** Sustainability through accessibility**
+  - The key to sustainability is a growing, active, diverse, and vibrant userbase
+  - Universal design attracts the widest possible userbase
+  - Education focus:
+    - to avoid [paradox of the active user]
+    - foster long term user relationships
+    - encourage community engagement 
+      - Push user-student into 'zone of proximal development'
+      - Provide easy access to resources (AI, static, community)
+##### No artificial scarcity
+  - "Knowledge is free, labor is unbelievable expensive"
   - Anything that can be duplicated infinitely is free for everyone
     - Software, documentation, tutorial/educational material, etc
   - Anything that is finite (or costs us money) can be charged
@@ -71,11 +85,19 @@
       - Age-related
       - Developmental
     - Robotics
+- Annual conference/workshop/hackathon: `FreeMoCon`
+  - `FreeMoCamp` is like summer camp, this is like `Siggraph`
+  - 
+#### Sustainability Goals
+- Activities
+- Metrics and monitoring
+  - User base 
+  - Community
+  - Software performance
 
 #### Broader impacts
 
-#### Current Context
-
+##### Current Context
 - Technical landscape
 - Social landscape
 - Need and Gap
@@ -127,48 +149,19 @@
   - Global distribution and spread should match popultion density
   - Individual user trajectories
     - Minimize 'bounce' (Single pings)
-    - Maximize 'velocity' (`extracted user growth` non-stagnant, e.g. anti-paradox-of-active-user protocols)
+    - Maximize 'velocity' (`extracted user growth` non-stagnant, e.g. `anti-paradox-of-active-user` protocols)
 - Software quality
   - Generic validation metrics should be strictly monotonically increasing
     - i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time
 
 #### Security and Privacy
 
-- Fully offline local processing
+- Fully offline local processing option
 - Google Cloud Platform for secrets management
 - Matrix homeserver for privacy, security, consistency
 - Full instruction set on how to duplicate infrastructure with documentation and tutorials
 
-#### Community building
-
-- Users
-  - Students
-  - Artists
-  - Scientists
-  - Clinicians
-- Intellectual Content Creators
-  - Software developer
-    - Core
-    - Visualization
-    - Analysis
-  - Creator Users
-    - Artistic
-      - Animation
-      - Video Games
-      - Performance (dance)
-  - Community helpers
-    - Moderation
-    - Troubleshooting and technical support
-    - Encouraging newcomers
-- OS Community building components:
-  - recruitment
-  - motivation
-  - mentoring
-  - managing
-  - mediating disputes
-  - 
-
-#### Activities to Sustain the Ecosystem
+#### Community Engagement
 
 ##### Annual Workshop: FreeMoCamp 💀⛺
 
@@ -221,14 +214,50 @@
     - Anyone can create a **thread** from a top-level message though
     - The idea would be to create spaces where higher XP folk can talk about complicated stuff without distraction [WorkingInPublic]
     - But also LowerXP folk can still see the conversations and ask questions (Maybe make it easy to summon SkellyBot to explain a message/conversation 🤔)
+  -
+#### Community building
+
+- Users
+  - Students
+  - Artists
+  - Scientists
+  - Clinicians
+- Intellectual Content Creators
+  - Software developer
+    - Core
+    - Visualization
+    - Analysis
+  - Creator Users
+    - Artistic
+      - Animation
+      - Video Games
+      - Performance (dance)
+  - Community helpers
+    - Moderation
+    - Troubleshooting and technical support
+    - Encouraging newcomers
+- OS Community building components:
+  - recruitment
+  - motivation
+  - mentoring
+  - managing
+  - mediating disputes
   - 
+
+
 
 #### Continuous Integration and Development
 
 - Git-flow system
-- Automated test suites (via GitHub Action)
-  - Quick tests  run per commit to PR
-  - Full run per commit to `main`
+- Testing and Evaluation 
+  - Automated test suites (via GitHub Action)
+    - Quick tests  run per commit to PR
+    - Full run per commit to `main`
+  - Diagnostics
+    - Same as test suite, but cranking up the base numbers to estimate system processing time and load. 
+    - Maintain accurate assessmenet of minimum, recommended, and maximum hardware requirements
+    - Use to build an automatic runtime resource manager which provides recommended settings for the system it is running on 
+      - This is an accessibilty thing, since we want to be able to clearly understand the TRUE MINIMUM requirements
 - Automated release/versioning on commit to `main`
 - Poly-repo format
   - Sub-skelly repos mimic structure of core `freemocap` software
@@ -253,9 +282,3 @@
   - Defect management
   - Core architecture
   - Community maintenance
-  - Testing and evaluation
-    - Stability (automatic test framework)
-    - Diagnostics
-      - Validation of core measurements
-      - Resources needed (minimal hardware specs to run minimal, default, and max settings)
-  -
