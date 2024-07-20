@@ -1,3 +1,9 @@
+---
+title: 2024 FreeMoCap NSF POSE Proposal Outline
+exports: 
+  - format: pdf
+    template: plain_latex
+---
 # 2024 FreeMoCap NSF POSE
 
 ## **Title**: *POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project*

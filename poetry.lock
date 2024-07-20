@@ -403,6 +403,20 @@ files = [
 ]
 
 [[package]]
+name = "mystmd"
+version = "1.2.9"
+description = "Command line tools for MyST Markdown"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "mystmd-1.2.9-py3-none-any.whl", hash = "sha256:55408477757f7d7d9f07db35e3e81e3d800e79c7df8c8d6b293250da02b56f2a"},
+    {file = "mystmd-1.2.9.tar.gz", hash = "sha256:9cab0dc2b07c4a1c0f5a6bac72f6736b5bf2226dddc7faad076dc7ac93d28770"},
+]
+
+[package.extras]
+execute = ["ipykernel", "jupyter-server"]
+
+[[package]]
 name = "packaging"
 version = "24.1"
 description = "Core utilities for Python packages"
@@ -779,4 +793,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8, <4"
-content-hash = "fe77e067a863607549133913c5f19cb55a65171cec4e16f809a109ef07d410f3"
+content-hash = "b4546aec349114aa30364944d27e10b898b930e0dac6f805e7084e026aea7a7e"

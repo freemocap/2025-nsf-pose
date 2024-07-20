@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.8, <4"
 mkdocs-material = "^9.5.28"
+mystmd = "^1.2.9"
 
 
 [build-system]
