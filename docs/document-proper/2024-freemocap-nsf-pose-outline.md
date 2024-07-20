@@ -47,8 +47,8 @@
       - Push user-student into 'zone of proximal development'
       - Provide easy access to resources (AI, static, community)
 
-##### No artificial scarcity
-
+##### Universal Access
+###### No artificial scarcity
 - "Knowledge is free, labor is unbelievable expensive"
 - Anything that can be duplicated infinitely is free for everyone
 
@@ -67,10 +67,10 @@
         - Scholarship/community grants program
         - Unspecified
     - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
-
 ##### Aggressively open source
 - FOSS as a matter of moral imperative centered on 
   - Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'
+  - See "why open source misses the point"
 #### Long-term vision
 
 - Fully integrated FOSS platform for Laser Skeleton research/recording
