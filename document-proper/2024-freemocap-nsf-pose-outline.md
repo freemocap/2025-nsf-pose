@@ -67,7 +67,6 @@ exports:
 
   - Software, documentation, tutorial/educational material, etc
 - Anything that is finite (or costs us money) can be charged
-
   - e.g. server side processing and cloud storage
   - Sliding scale pay options [HumbleBundleModel]
     - Recommended cost relative to break-even.
@@ -80,10 +79,12 @@ exports:
         - Scholarship/community grants program
         - Unspecified
     - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
+
 ##### Aggressively open source
 - FOSS as a matter of moral imperative centered on 
   - Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'
   - See "why open source misses the point"
+
 #### Long-term vision
 
 - Fully integrated FOSS platform for Laser Skeleton research/recording
