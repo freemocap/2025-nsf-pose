@@ -9,6 +9,14 @@ exports:
 
 ## Project Description
 
+### Introduction
+### Objectives (like specific aims)
+- Make FreeMoCap the best mocap option available
+- Maximize accessibility 
+- Build vibrant community of user/developers
+- Develop implicit educational methods
+- Change the face of education and scientific research
+
 ### The FreeMoCap Project
 
 #### Specific Product/artifact(s)
