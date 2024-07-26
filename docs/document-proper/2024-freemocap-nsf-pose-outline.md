@@ -3,13 +3,36 @@
 ## Introduction
 Gap/Need/Hero statements
 
-## Intellectual Merit
+### Intellectual Merit
 How we will advance knowledge
 
-## Broader Impact
+### Broader Impact
 How we will help the world
 
-## Context of the OSE
+### Context of the OSE
+#### Context
+#### Vision
+- Guiding Principles and Long Term Vision for the OSE
+- Societal or National Need for the OSE
+- Anticipated Broader Impacts of the OSE
+
+## Long Term Vision for
+### The FreeMoCap Project
+  - Technical Capacities 
+  - Infrastructure
+  - Tools and Frameworks
+  - Documentation
+### The FreeMoCap Community
+  - Broad and deep user base
+  - Integrated user/developer interaction
+  - Active, productive, supportive
+  - Covert education
+  - 
+
+
+___ 
+
+# SCRATCH
 - Sociotechnical landscape
 - Technogical context
   - Capacities
