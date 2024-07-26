@@ -1,6 +1,14 @@
 # 2024 NSF Pose Award submission
 
+## Install and run docs server
+Pre-requisites - install `poetry`
+
+```
+poetry shell
+```
+
 ## Document Proper
+
 - [Project Description Outline](/document-proper/2024-freemocap-nsf-pose-outline.md) 👈✨
 
 ## Notes and Resources
@@ -14,4 +22,4 @@
 ## Document Proper
 
 1. [Formatting Notes](document-proper/formatting-notes)
-2. [Project Description Outline](notes/funding-opportunity-announcement-foa/foa-abridged-abridged.md "A draft outline of the primary ") 
+2. [Project Description Outline](notes/funding-opportunity-announcement-foa/foa-abridged-abridged.md "A draft outline of the primary ")
