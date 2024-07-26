@@ -1,11 +1,19 @@
 # 2024 NSF Pose Award submission
 
 ## Install and run docs server
-Pre-requisites - install `poetry`
-
+Pre-requisites - install [poetry](https://python-poetry.org/) 
+Run: 
 ```
 poetry shell
 ```
+
+Run: 
+```
+myst start
+```
+
+Open in browser: http://localhost:3000
+
 
 ## Document Proper
 
