@@ -1,43 +1,58 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% NIH Grant Proposal for the Specific Aims and Research Plan Sections
-% LaTeX Template
-% Version 1.1 (26/12/19)
+\documentclass[11pt]{article} 
+% https://github.com/nsf-open/nsf-proposal-latex-samples/blob/master/nsf-sample-1.tex
+% The Proposal and Award Policies and Procedures Guide
+% (PAPPG: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg)
+% mandates, in Chapter 2, section B.2, that the main text should have a font size no less
+% than 11 points for *most* typefaces (including Computer Modern Roman and Times (new) Roman).
+% 
+% Actually, Helvetica (a.k.a. Arial), Palatino and Courier New can drop
+% to 10 point font size, according to the PAPPG, but be aware:
+% 10-point fonts (whatever the typeface) will promote reader fatigue.
+% Reader fatigue never works to the author's advantage.
 %
-% This template originates from:
-% http://www.LaTeXTemplates.com
 %
-% Original author:
-% Erick Tatro (erickttr@gmail.com) with modifications by:
-% Vel (vel@latextemplates.com)
+% This sample  assumes the pdflatex chain (not the traditional latex | dvips | ps2pdf chain).
+% It should function in the traditional chain if you comment out the hyperref package lines.
+% 
+%\usepackage{times} % uncomment for Times Roman;
+%                   % replace "times" with other font names, as desired. 
+\usepackage{bm} % If you want bold math, but without the bloat of AMS packages
+\usepackage{color} % doh
+\usepackage{hyperref} % LaTeX cross references become hyperlinks in pdf output
+\usepackage{graphicx} % For figure insertion
+%\usepackage{vmargin} % To set page size
+\usepackage[letterpaper,margin=1in]{geometry}
 %
-% Adapted from:
-% J. Hrabe (http://www.magalien.com/public/nih_grants_in_latex.html)
+% Hyperref stuff: WARNING: don't use \href{link}{clickable text} in the Project Description,
+% as Resarch.gov doesn't like it. Likewise, avoid any text containing 
+% http:, https:, mailto:, etc.
 %
-% License:
-% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
 %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
-
-\documentclass[11pt, notitlepage]{article} % Default font size and suppress title page
-
-\usepackage[utf8]{inputenc} % Required for inputting international characters
-\usepackage[T1]{fontenc} % Output font encoding for international characters
-% A note on fonts: As of 2019, NIH allows Arial, Georgia, Helvetica, and Palatino Linotype. Georgia and Arial are commercial fonts so you will need to use XeLaTeX and have them installed on your machine to use them. Palatino & Helvetica are available as free LaTeX packages so select the one you want and comment out the other.
-\usepackage{palatino} % Palatino font
-\linespread{1.05} % A little extra line spread is better for the Palatino font
-%\usepackage{helvet} % Helvetica font
-\renewcommand*\familydefault{\sfdefault} % Use the sans serif version of the font
-
-\usepackage{amsfonts, amsmath, amsthm, amssymb} % For math fonts, symbols and environments
-\usepackage{graphicx} % Required for including images
-\usepackage{booktabs} % Nice rules in tables
-\usepackage{wrapfig} % Required for text to wrap around figures and tables
-\usepackage[labelfont=bf]{caption} % Make figure numbering in captions bold
-\usepackage[top=0.5in,bottom=0.5in,left=0.5in,right=0.5in]{geometry} % Page margins
-\pagestyle{empty} % Suppress headers and footers
-
-\hyphenation{ionto-pho-re-tic iso-tro-pic fortran} % Specifies custom hyphenation points for words or words that shouldn't be hyphenated at all
+%
+% Pseudodot: break up "clickable" strings like "Data.gov" which you can
+% enter as Data\pseudodot{}gov in your file.
+% Use this trick in case research.gov misreads text such as "Data.gov" as a clickable hyperlink
+% (even when it isn't).
+%
+\newcommand{\pseudodot}{{\lower 2.4pt\hbox{$\cdot$}}}
+%\def\pseudodot{{\lower 2.4pt\hbox{$\cdot$}}} %% This is the PlainTeX version.
+%
+% On with the show...
+%
+\begin{document}
+%
+% Remove page numbers---Research.gov will paginate the document instead
+%
+\pagestyle{empty} 
+%
+% Line spacing: 
+% The Proposal and Award Policies and Procedures Guide
+% (PAPPG: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg)
+% mandates, in Chapter 2, section B.2, that the main text should have no more than
+% six lines to the vertical inch. With 72 points per inch, the minimum line skip 
+% would be 12 points.
+%
+\setlength{\baselineskip}{12.6pt} % in text mode
+\setlength{\normalbaselineskip}{12.6pt} % in math mode
