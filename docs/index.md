@@ -1,17 +1,24 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 2024 NSF Pose Award submission
 
-## Commands
+## Document Proper
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+-[Project Description Outline](/document-proper/2024-freemocap-nsf-pose-outline.md) 👈✨
 
-## Project layout
+## Notes and Resources
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1.[Official Resources](notes/official_resources.md)
+
+2.[Funding Opportunity Announcment (FOA) - Highlighted PDF](/notes/funding-opportunity-announcement-foa/2024_NSF_POSE_foa_nsf23556.pdf)
+
+   1.[FOA Abridged](/notes/funding-opportunity-announcement-foa/pose_foa_abridged.md)
+
+3.[POSE Youtube Video Notes](/notes/nsf-pose-youtube-video/pose-youtube-video.md)
+
+4.[NSF Strategic Plan](/notes/)
+
+## Document Proper
+
+1.[Formatting Notes](document-proper/formatting-notes)
+
+2.[Project Description Outline](notes/funding-opportunity-announcement-foa/foa-abridged-abridged.md"A draft outline of the primary ")

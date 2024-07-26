@@ -9,7 +9,7 @@ How we will advance knowledge
 ## Broader Impact
 How we will help the world
 
-## Current Context
+## Context of the OSE
 - Sociotechnical landscape
 - Technogical context
   - Capacities
