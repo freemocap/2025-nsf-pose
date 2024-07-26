@@ -21,13 +21,14 @@ How we will help the world
   - Technical Capacities 
   - Infrastructure
   - Tools and Frameworks
-  - Documentation
+  - Documentation and covert education
+  
 ### The FreeMoCap Community
   - Broad and deep user base
-  - Integrated user/developer interaction
-  - Active, productive, supportive
-  - Covert education
-  - 
+  - Integrating:
+    - User/developer interaction
+    - Scientist/artists interaction
+    - Student/expert interaction
 
 
 ___ 
