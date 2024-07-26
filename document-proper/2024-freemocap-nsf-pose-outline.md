@@ -11,7 +11,31 @@ How we will help the world
 
 ## Current Context
 - Sociotechnical landscape
-  - Technogical context
-  - Social context
-  - Ethical context
+- Technogical context
+  - Capacities
+    - Cutting Edge (Established methods)
+    - Bleeding Edge (Promising advances)
+    - Likely futures 
+  - Related projects
+    - Michael Black 
+    - R. James Cotton 
+    - MMPose
+    - Deeplabcut
+    - etc
+- Social context
+  - Corporate mistrust
+  - Privacy violations
+  - Worker/social exploitation
+- Ethical context
+  - Future conglomoration 
+  - Need for decentralized systems
+    - Clowdstrike outages
+    - Openpose dead-project status
+  - Rise of AI 
+    - Liklihood of future violations
+  - Need for decentralized user-directed  foss 
+  - Inaccessiblity of science and technogy
+  - Growing Gaps 
+    - (See NSF Strategic plans)
+
 
