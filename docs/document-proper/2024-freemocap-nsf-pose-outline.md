@@ -41,10 +41,17 @@ Describe the Ideal Perfect Future vision of...
   - Handle security, privacy of data, codebase,  and user info
   - Paying a core set of maintainer/developers
   - Revenue streams
-    - For Profit sub-entitie(s) - `Skellytech`
-      - B2B connections and sub-licensing of:
-        - Core-software 
-        - Derivative models (co-op data ownership)
+    - For Profit sub-entitie(s) 
+      - `Skellytech`
+        - B2B connections and sub-licensing of:
+          - Core-software 
+          - Derivative models (co-op data ownership)
+        - Any arrangement that does not fall under the 'charitable activities' allowed by 501c3 guidelines
+      - Spin-off companies (FreeMoCap as tech incubator)
+        - Incubator support for FMCF member/students who want to start businesses or organizations based on freemocap related technology and tools
+        - Offer umbrella support (we support them with our org infrastructure, e.g. grant support), or
+        - Launchpad support (pathway to independence)
+        - Offer exit (any time) and re-entry (if possoible) mechanisms
     - Manage grants, both for org (e.g. NSF POSE) and individual research grants for members of FMCF (e.g. R01's and F32's)
     - Selling hardware/cameras
       - first, dropship standard cameras and packages (low-to-high quality)
@@ -61,7 +68,12 @@ Describe the Ideal Perfect Future vision of...
     - Cloud data storage
 
 
-##
+## Proposed actvitities
+Activities to bring us from current status towards the Ideal Perfect status described above
+### Ecosystem establishment and Growth
+### Organization and Governance
+### Continuous Integration and Development Model 
+### Community Building
 ___ 
 
 # SCRATCH
