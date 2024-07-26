@@ -1,20 +1,21 @@
 # 2024 NSF Pose Award submission
 
 ## Install and run docs server
-Pre-requisites - install [poetry](https://python-poetry.org/) 
-Run: 
+
+Pre-requisites - install [poetry](https://python-poetry.org/)
+Run:
+
 ```
 poetry shell
 ```
 
-Run: 
+Run:
+
 ```
-myst start
+mkdocs serve
 ```
 
-Open in browser: http://localhost:3000
-
-
+Open in browser: http://localhost:8000
 
 ## Document Proper
 
