@@ -13,10 +13,15 @@ How we will help the world
 #### Context
 #### Vision
 - Guiding Principles and Long Term Vision for the OSE
+  - Universal Design
+  - Knowledge is Free
+  - No artificial scarcity
 - Societal or National Need for the OSE
 - Anticipated Broader Impacts of the OSE
 
 ## Long Term Vision for
+Describe the Ideal Perfect Future vision of... 
+
 ### The FreeMoCap Project
   - Technical Capacities 
   - Infrastructure
@@ -24,13 +29,39 @@ How we will help the world
   - Documentation and covert education
   
 ### The FreeMoCap Community
-  - Broad and deep user base
-  - Integrating:
-    - User/developer interaction
-    - Scientist/artists interaction
-    - Student/expert interaction
+  - Broad and deep user base, integrating:
+    - User/Developers
+    - Scientist/Artists
+    - Student/Expert
+  - Active social community space where users can share progress and ask questions
+
+### The FreeMoCap Foundation 
+  - 501c3
+  - Indpendently support FreeMoCap Project/Community
+  - Handle security, privacy of data, codebase,  and user info
+  - Paying a core set of maintainer/developers
+  - Revenue streams
+    - For Profit sub-entitie(s) - `Skellytech`
+      - B2B connections and sub-licensing of:
+        - Core-software 
+        - Derivative models (co-op data ownership)
+    - Manage grants, both for org (e.g. NSF POSE) and individual research grants for members of FMCF (e.g. R01's and F32's)
+    - Selling hardware/cameras
+      - first, dropship standard cameras and packages (low-to-high quality)
+      - later, develop custom cameras (including education focused cameras)
+    - Donation drives 
+    - Clients (Contracting from FMC community)
+      - Custom code/software
+      - Project planning and consultation 
+      - Technical support
+      - Direct teaching/training
+    - Annual Workshop (FreeMoCamp)
+    - Annual Conference (FreeMoCon)
+    - Server-side processing
+    - Cloud data storage
 
 
+##
 ___ 
 
 # SCRATCH
