@@ -1,0 +1,1635 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../..">
+      
+      
+        <link rel="next" href="../2024-freemocap-nsf-pose-outline/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.30">
+    
+    
+      
+        <title>POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project - FreeMoCap Foundation 2024 NSF POSE Proposal (Notes Repository)</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.3cba04c6.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#pose-phase-ii-the-free-motion-capture-freemocap-project" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="FreeMoCap Foundation 2024 NSF POSE Proposal (Notes Repository)" class="md-header__button md-logo" aria-label="FreeMoCap Foundation 2024 NSF POSE Proposal (Notes Repository)" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FreeMoCap Foundation 2024 NSF POSE Proposal (Notes Repository)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="FreeMoCap Foundation 2024 NSF POSE Proposal (Notes Repository)" class="md-nav__button md-logo" aria-label="FreeMoCap Foundation 2024 NSF POSE Proposal (Notes Repository)" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    FreeMoCap Foundation 2024 NSF POSE Proposal (Notes Repository)
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2024 NSF Pose Award submission
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Document proper
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Document proper
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#project-description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Description
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Project Description">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#objectives-like-specific-aims" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objectives (like specific aims)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-freemocap-project" class="md-nav__link">
+    <span class="md-ellipsis">
+      The FreeMoCap Project
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The FreeMoCap Project">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#specific-productartifacts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Specific Product/artifact(s)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#guiding-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guiding Principles
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Guiding Principles">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#universal-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universal Design
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#universal-access" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universal Access
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Universal Access">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#no-artificial-scarcity" class="md-nav__link">
+    <span class="md-ellipsis">
+      No artificial scarcity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aggressively-open-source" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aggressively open source
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#long-term-vision" class="md-nav__link">
+    <span class="md-ellipsis">
+      Long-term vision
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sustainability-goals" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sustainability Goals
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#broader-impacts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Broader impacts
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Broader impacts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#current-context" class="md-nav__link">
+    <span class="md-ellipsis">
+      Current Context
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#expected-impact" class="md-nav__link">
+    <span class="md-ellipsis">
+      Expected Impact
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-freemocap-foundation" class="md-nav__link">
+    <span class="md-ellipsis">
+      The FreeMoCap Foundation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#building-the-fmc-ose" class="md-nav__link">
+    <span class="md-ellipsis">
+      Building the FMC OSE
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Building the FMC OSE">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ecosystem-establishment-and-growth-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ecosystem establishment and growth plan
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#organizational-governance-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Organizational governance structure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#methods-for-evaluating-oses-effectiveness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Methods for evaluating OSE's effectiveness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#security-and-privacy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Security and Privacy
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-engagement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community Engagement
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Community Engagement">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#annual-workshop-freemocamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Annual Workshop: FreeMoCamp 💀⛺
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-challenges" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community Challenges
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gamified-documentationsoftware-training" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gamified documentation/software training
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-building" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community building
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#continuous-integration-and-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      Continuous Integration and Development
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a-fully-developed-ose" class="md-nav__link">
+    <span class="md-ellipsis">
+      A Fully Developed OSE
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2024-freemocap-nsf-pose-outline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../formatting-notes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Formatting Notes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../proposal-checklist/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Proposal Checklist
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Notes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Notes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../notes/official_resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Official Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Funding opportunity announcement foa
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Funding opportunity announcement foa
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../notes/funding-opportunity-announcement-foa/2024_NSF_POSE_foa_nsf23556/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NSF 23-556: Pathways to Enable Open-Source Ecosystems (POSE)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../notes/funding-opportunity-announcement-foa/foa-abridged-abridged/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Description
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../notes/funding-opportunity-announcement-foa/pose_foa_abridged/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Extracted Key Info from FOA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nsf pose youtube video
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Nsf pose youtube video
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../notes/nsf-pose-youtube-video/pose-youtube-video/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ./notes/pose-youtube-video
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#project-description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Description
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Project Description">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#objectives-like-specific-aims" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objectives (like specific aims)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-freemocap-project" class="md-nav__link">
+    <span class="md-ellipsis">
+      The FreeMoCap Project
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The FreeMoCap Project">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#specific-productartifacts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Specific Product/artifact(s)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#guiding-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guiding Principles
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Guiding Principles">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#universal-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universal Design
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#universal-access" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universal Access
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Universal Access">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#no-artificial-scarcity" class="md-nav__link">
+    <span class="md-ellipsis">
+      No artificial scarcity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aggressively-open-source" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aggressively open source
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#long-term-vision" class="md-nav__link">
+    <span class="md-ellipsis">
+      Long-term vision
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sustainability-goals" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sustainability Goals
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#broader-impacts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Broader impacts
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Broader impacts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#current-context" class="md-nav__link">
+    <span class="md-ellipsis">
+      Current Context
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#expected-impact" class="md-nav__link">
+    <span class="md-ellipsis">
+      Expected Impact
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-freemocap-foundation" class="md-nav__link">
+    <span class="md-ellipsis">
+      The FreeMoCap Foundation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#building-the-fmc-ose" class="md-nav__link">
+    <span class="md-ellipsis">
+      Building the FMC OSE
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Building the FMC OSE">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ecosystem-establishment-and-growth-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ecosystem establishment and growth plan
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#organizational-governance-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Organizational governance structure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#methods-for-evaluating-oses-effectiveness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Methods for evaluating OSE's effectiveness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#security-and-privacy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Security and Privacy
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-engagement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community Engagement
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Community Engagement">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#annual-workshop-freemocamp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Annual Workshop: FreeMoCamp 💀⛺
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-challenges" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community Challenges
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gamified-documentationsoftware-training" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gamified documentation/software training
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-building" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community building
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#continuous-integration-and-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      Continuous Integration and Development
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a-fully-developed-ose" class="md-nav__link">
+    <span class="md-ellipsis">
+      A Fully Developed OSE
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="pose-phase-ii-the-free-motion-capture-freemocap-project"><em>POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project</em></h1>
+<h2 id="project-description">Project Description</h2>
+<h3 id="introduction">Introduction</h3>
+<h3 id="objectives-like-specific-aims">Objectives (like specific aims)</h3>
+<ul>
+<li>Make FreeMoCap the best mocap option available</li>
+<li>Maximize accessibility </li>
+<li>Build vibrant community of user/developers</li>
+<li>Develop implicit educational methods</li>
+<li>Change the face of education and scientific research</li>
+</ul>
+<h3 id="the-freemocap-project">The FreeMoCap Project</h3>
+<h4 id="specific-productartifacts">Specific Product/artifact(s)</h4>
+<ul>
+<li>FreeMoCap Software</li>
+<li>Poly-repo structure</li>
+<li>Composed of various sub-skelly repos, each of which:<ul>
+<li>Can operate in a standalone format</li>
+<li>Matches general architecture and CI/CD structure of parent <code>freemocap</code> software</li>
+</ul>
+</li>
+<li>Federated datasets</li>
+<li>e.g. Users able to 'donate' their data, while retaining ownership (earning divdends)</li>
+<li>Co-op ML/AI model(s)</li>
+<li>Train our own CNN Tracker and LLM via 'Federated learning' scheme</li>
+<li>Architecture allows any user to train/fine-tune the FMC Base Models using their private data, OPTIONALLY contribute updated model weights to the FMC-Org (e.g. see <a href="https://flower.ai"><code>Flower</code></a>)</li>
+<li>Educational materials and documentation</li>
+<li>Providing best-available educational materials, tutorials, and demos for related areas<ul>
+<li>Tech (e.g. Computer vision, Cameras, CNNs, etc)</li>
+<li>Math (e.g. Linear algebra, timeseries analysis, computational geometry, kinematic/kinetic analysis)</li>
+<li>Visualization (e.g. data visualization, animation, etc)</li>
+<li>Science (e.g. human/animal movement, perception/action, etc )</li>
+</ul>
+</li>
+</ul>
+<h4 id="guiding-principles">Guiding Principles</h4>
+<h5 id="universal-design">Universal Design</h5>
+<ul>
+<li>"When anyone can use it, everyone benefits"</li>
+<li>Same tool for 0XP as for professional</li>
+<li>"The [aspirational goal] of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"</li>
+<li><strong>Maintain a True Minimum option</strong></li>
+<li>Understand and maintain an option to run with the barest possible hardware</li>
+<li>Focus and maintain a [generic hardware] pipeline as the core path<ul>
+<li>Using specific proprietary hardware (e.g. stereocams, kinect) can be developed as secondary routes and/or via a plugin system</li>
+<li>Clients may request development of a proprietary pipeline, in exchange for funds to support it</li>
+</ul>
+</li>
+<li><strong>Sustainability through accessibility</strong></li>
+<li>The key to sustainability is a growing, active, diverse, and vibrant userbase</li>
+<li>Universal design attracts the widest possible userbase</li>
+<li>Education focus:<ul>
+<li>to avoid [paradox of the active user]</li>
+<li>foster long term user relationships</li>
+<li>encourage community engagement</li>
+<li>Push user-student into 'zone of proximal development'</li>
+<li>Provide easy access to resources (AI, static, community)</li>
+</ul>
+</li>
+</ul>
+<h5 id="universal-access">Universal Access</h5>
+<h6 id="no-artificial-scarcity">No artificial scarcity</h6>
+<ul>
+<li>"Knowledge is free, labor is unbelievable expensive"</li>
+<li>
+<p>Anything that can be duplicated infinitely is free for everyone</p>
+</li>
+<li>
+<p>Software, documentation, tutorial/educational material, etc</p>
+</li>
+<li>Anything that is finite (or costs us money) can be charged</li>
+<li>e.g. server side processing and cloud storage</li>
+<li>Sliding scale pay options [HumbleBundleModel]<ul>
+<li>Recommended cost relative to break-even.</li>
+<li>Give user option to allocate overage to different programs/departments</li>
+<li>(by necessity, the recommendations will be followed if at all possible, adjustments may be made to ensure long term stability of the FMC-Org.</li>
+<li>Its kinda like a voting system, but with money)</li>
+<li>Support for:<ul>
+<li>New features</li>
+<li>Specific projects</li>
+<li>Scholarship/community grants program</li>
+<li>Unspecified</li>
+</ul>
+</li>
+<li>Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]</li>
+</ul>
+</li>
+</ul>
+<h5 id="aggressively-open-source">Aggressively open source</h5>
+<ul>
+<li>FOSS as a matter of moral imperative centered on </li>
+<li>Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'</li>
+<li>See "why open source misses the point"</li>
+</ul>
+<h4 id="long-term-vision">Long-term vision</h4>
+<ul>
+<li>Fully integrated FOSS platform for Laser Skeleton research/recording</li>
+<li>Fully-body mocap</li>
+<li>3d Gaze</li>
+<li>Integrated laser skeleton</li>
+<li>Can also serve as a generic Computer Vision platform</li>
+<li>Global community of freemocap student/educators and user/developers</li>
+<li>Economically self-sustaining combination research/software development institute supporting:</li>
+<li>Support and development for core software(s)</li>
+<li>Research in related fields<ul>
+<li>Neuroscience (human and non-human)</li>
+<li>Motor control (mocap)</li>
+<li>Visual/oculomotor neuroscience (eye tracking)</li>
+<li>Developmental studies</li>
+<li>Biomechanics</li>
+<li>Applied clinical research</li>
+<li>Injury rehabilitation</li>
+<li>Gait and posture</li>
+<li>Age-related</li>
+<li>Developmental</li>
+<li>Robotics</li>
+</ul>
+</li>
+<li>Annual conference/workshop/hackathon: <code>FreeMoCon</code></li>
+<li><code>FreeMoCamp</code> is like summer camp, this is like <code>Siggraph</code></li>
+<li></li>
+</ul>
+<h4 id="sustainability-goals">Sustainability Goals</h4>
+<ul>
+<li>Activities</li>
+<li>Metrics and monitoring</li>
+<li>User base</li>
+<li>Community</li>
+<li>Software performance</li>
+</ul>
+<h4 id="broader-impacts">Broader impacts</h4>
+<h5 id="current-context">Current Context</h5>
+<ul>
+<li>Technical landscape</li>
+<li>Social landscape</li>
+<li>Need and Gap</li>
+<li>Current FreeMoCap OSE status</li>
+</ul>
+<h4 id="expected-impact">Expected Impact</h4>
+<ul>
+<li>Lots, probably!</li>
+<li>Describe (short, middle, long) term (plans, potential futures, and resultant impacts)</li>
+</ul>
+<h3 id="the-freemocap-foundation">The FreeMoCap Foundation</h3>
+<ul>
+<li>Organizational structure</li>
+<li>Worker oriented structure (co-op of some kind)<ul>
+<li>e.g. one of these wacky things:</li>
+<li>Haber, Michael, The New Activist Non-Profits: Four Models Breaking from the Non-Profit Industrial Complex (May 15, 2019). University of Miami Law Review, Vol. 73, 2019, Hofstra Univ. Legal Studies Research Paper No. 2019-07, Available at SSRN: https://ssrn.com/abstract=3388752</li>
+</ul>
+</li>
+<li>Governance</li>
+<li>501c3 incorporation documents and bylaws for org</li>
+<li>Explicitly crib from numpy or other big project for their gov/docs</li>
+<li>Community Engagement</li>
+<li>Transparency</li>
+<li>Finances (e.g. Backyard Brains 'open finances' model)</li>
+</ul>
+<h3 id="building-the-fmc-ose">Building the FMC OSE</h3>
+<h4 id="ecosystem-establishment-and-growth-plan">Ecosystem establishment and growth plan</h4>
+<ul>
+<li>Current community</li>
+<li>growth plans/metrics</li>
+</ul>
+<h4 id="organizational-governance-structure">Organizational governance structure</h4>
+<ul>
+<li>FMC Org governance</li>
+<li>Official 501c3 bylaws</li>
+<li>Non-profit coop stuff (from the tiktok guy's references)</li>
+<li>FMC FOSS governance</li>
+<li>explicitly crib from numpy, and other bigg'ns</li>
+<li>Licensing model</li>
+<li>AGPLv3 for all repos owned by FMC-Foundation</li>
+<li>Exclusive sub-licensing rights to SkellyTech<ul>
+<li>SkellyTech handles B2B license agreement, whereby we offer software using non-AGPLv3 license</li>
+<li>Cost dependent on 'distance' from AGPLv3 (AGPL -&gt; GPL -&gt; LGPL -&gt; Apache/MIT -&gt; ... -&gt; Proprietary)</li>
+<li>Can offer sub-license agreement for existing software, or to create custom software solutions</li>
+</ul>
+</li>
+</ul>
+<h4 id="methods-for-evaluating-oses-effectiveness">Methods for evaluating OSE's effectiveness</h4>
+<ul>
+<li>Community growth metrics</li>
+<li>Raw numbers (more users is good)</li>
+<li>Global distribution and spread should match popultion density</li>
+<li>Individual user trajectories<ul>
+<li>Minimize 'bounce' (Single pings)</li>
+<li>Maximize 'velocity' (<code>extracted user growth</code> non-stagnant, e.g. <code>anti-paradox-of-active-user</code> protocols)</li>
+</ul>
+</li>
+<li>Software quality</li>
+<li>Generic validation metrics should be strictly monotonically increasing<ul>
+<li>i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time</li>
+</ul>
+</li>
+</ul>
+<h4 id="security-and-privacy">Security and Privacy</h4>
+<ul>
+<li>Fully offline local processing option</li>
+<li>Google Cloud Platform for secrets management</li>
+<li>Matrix homeserver for privacy, security, consistency</li>
+<li>Full instruction set on how to duplicate infrastructure with documentation and tutorials</li>
+</ul>
+<h4 id="community-engagement">Community Engagement</h4>
+<h5 id="annual-workshop-freemocamp">Annual Workshop: FreeMoCamp 💀⛺</h5>
+<ul>
+<li>Inspirations:</li>
+<li>Neuromatch (for virtual component)</li>
+<li>Cold spring harbor (short term research project/workshop timeline)</li>
+<li>Get an example of a hackathon from the Endurance crew</li>
+<li>In person &amp; Virtual</li>
+<li>Held at YMCA summer camp, or similar<ul>
+<li>All inclusive ticket - lodging and food handled by summer camp facilities</li>
+</ul>
+</li>
+<li>Online component via dedicated Element space (with Slack/Discord bridges)</li>
+<li>ANYONE can view all online materials, and follow along activities (encouraging conversationin public server)</li>
+<li>Paid online participants may engage directly in the dedicated event space, and will get direct engagement with folks at the in-person event (for troubleshooting/planning/etc)</li>
+<li>Pricing<ul>
+<li>Corpo pricing -&gt;  100% standard price (Set high enough to make the lowest pay tiers make sense)</li>
+<li>Academic pricing -&gt; 50% standard price</li>
+<li>Community members (defined by badges and community participation) -&gt; 25% Standard price</li>
+<li>Additional <strong>STEEP</strong> discounts and scholarship programs for students, educators, researchers, artists, etc</li>
+<li>Minimum price w/o scholarship = break-even price per participant</li>
+</ul>
+</li>
+<li>Combination hackathon, training workshop, and scientific conference on 'fully body movement research'</li>
+<li>Participants in teams</li>
+<li>Plan and collect a data set</li>
+<li>Analyze and present results</li>
+<li>Encourage collaboration and data sharing between teams</li>
+<li>Offer training/presentation 'tracks' for<ul>
+<li>Data collection</li>
+<li>Understand and use the core software</li>
+<li>Data analysis</li>
+<li>Analyze and computationally model data</li>
+<li>Data visualization (and animation/art)</li>
+<li>Create visualizations and animations from freemocap data</li>
+</ul>
+</li>
+</ul>
+<h5 id="community-challenges">Community Challenges</h5>
+<ul>
+<li>Offer a prompt for a kind of movement/activity to record</li>
+<li>Community works to record the best entry, submitted via Discord/Element/Freemocap.org<ul>
+<li>Community votes in 'Eurovision style'</li>
+<li>i.e. each member has a fixed number of voting points to distribute among entries</li>
+<li>Maybe <strong>Badges</strong> provide additional voting points?</li>
+</ul>
+</li>
+</ul>
+<h5 id="gamified-documentationsoftware-training">Gamified documentation/software training</h5>
+<ul>
+<li>Offer <strong>Badges</strong> and stuff in discord for milestones, i.e.</li>
+<li>First contact - open the software</li>
+<li>First record - Anything recorded</li>
+<li>First success - Successful recording</li>
+<li>e.g. also calibration, data analysis, PR, etc</li>
+<li>Apply badges in Discord/Element server (associated with a <code>freemocap.org</code> account?)</li>
+<li>Badges offer ability to send 'top level' messages to otherwise view-only channels (i.e technical spaces)<ul>
+<li>Anyone can create a <strong>thread</strong> from a top-level message though</li>
+<li>The idea would be to create spaces where higher XP folk can talk about complicated stuff without distraction [WorkingInPublic]</li>
+<li>But also LowerXP folk can still see the conversations and ask questions (Maybe make it easy to summon SkellyBot to explain a message/conversation 🤔)</li>
+</ul>
+</li>
+<li></li>
+</ul>
+<h4 id="community-building">Community building</h4>
+<ul>
+<li>Users</li>
+<li>Students</li>
+<li>Artists</li>
+<li>Scientists</li>
+<li>Clinicians</li>
+<li>Intellectual Content Creators</li>
+<li>Software developer<ul>
+<li>Core</li>
+<li>Visualization</li>
+<li>Analysis</li>
+</ul>
+</li>
+<li>Creator Users<ul>
+<li>Artistic</li>
+<li>Animation</li>
+<li>Video Games</li>
+<li>Performance (dance)</li>
+</ul>
+</li>
+<li>Community helpers<ul>
+<li>Moderation</li>
+<li>Troubleshooting and technical support</li>
+<li>Encouraging newcomers</li>
+</ul>
+</li>
+<li>OS Community building components:</li>
+<li>recruitment</li>
+<li>motivation</li>
+<li>mentoring</li>
+<li>managing</li>
+<li>mediating disputes</li>
+<li></li>
+</ul>
+<h4 id="continuous-integration-and-development">Continuous Integration and Development</h4>
+<ul>
+<li>Git-flow system</li>
+<li>Testing and Evaluation</li>
+<li>Automated test suites (via GitHub Action)<ul>
+<li>Quick tests  run per commit to PR</li>
+<li>Full run per commit to <code>main</code></li>
+</ul>
+</li>
+<li>Diagnostics<ul>
+<li>Same as test suite, but cranking up the base numbers to estimate system processing time and load.</li>
+<li>Maintain accurate assessmenet of minimum, recommended, and maximum hardware requirements</li>
+<li>Use to build an automatic runtime resource manager which provides recommended settings for the system it is running on</li>
+<li>This is an accessibilty thing, since we want to be able to clearly understand the TRUE MINIMUM requirements</li>
+</ul>
+</li>
+<li>Automated release/versioning on commit to <code>main</code></li>
+<li>Poly-repo format</li>
+<li>Sub-skelly repos mimic structure of core <code>freemocap</code> software<ul>
+<li>Standalone GUI/CLI</li>
+<li><code>.github/workflows/</code>: CI/CD</li>
+<li><code>skelly[slug]/api/</code>: FastAPI endpoints</li>
+<li><code>skelly[slug]/docs/</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="a-fully-developed-ose">A Fully Developed OSE</h3>
+<ul>
+<li>The Product</li>
+<li>Governance</li>
+<li>Documentation</li>
+<li>Core Maintainers</li>
+<li>Onboarding</li>
+<li>Users</li>
+<li>Developers</li>
+<li>Community managers</li>
+<li>Developer Community</li>
+<li>Distributed development model</li>
+<li>Feature development</li>
+<li>Defect management</li>
+<li>Core architecture</li>
+<li>Community maintenance</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
