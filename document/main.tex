@@ -4,6 +4,20 @@
 \input{header}
 
 \begin{document}
+%
+% Remove page numbers---Research.gov will paginate the document instead
+%
+\pagestyle{empty} 
+%
+% Line spacing: 
+% The Proposal and Award Policies and Procedures Guide
+% (PAPPG: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg)
+% mandates, in Chapter 2, section B.2, that the main text should have no more than
+% six lines to the vertical inch. With 72 points per inch, the minimum line skip 
+% would be 12 points.
+%
+\setlength{\baselineskip}{12.6pt} % in text mode
+\setlength{\normalbaselineskip}{12.6pt} % in math mode
 
 % Include body file
 \input{body/body}
