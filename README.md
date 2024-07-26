@@ -26,6 +26,7 @@ Open in browser: http://localhost:3000
 
    1. [FOA Abridged](/notes/funding-opportunity-announcement-foa/pose_foa_abridged.md)
 3. [POSE Youtube Video Notes](/notes/nsf-pose-youtube-video/pose-youtube-video.md)
+4. [NSF Strategic Plan](/notes/)
 
 ## Document Proper
 
