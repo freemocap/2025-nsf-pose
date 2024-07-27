@@ -47,7 +47,6 @@ How we will help the world
     - Clients may request development of a proprietary pipeline, in exchange for funds to support it
   - (see **Evaluation/Diagnostics**)
 
-
 ##### No artificial scarcity
 - **"Knowledge is free, labor is unbelievable expensive"**
 - Anything that can be duplicated infinitely is free for everyone
