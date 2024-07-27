@@ -194,8 +194,11 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
     - Matches general architecture and CI/CD structure of parent `freemocap` software, including:
       - Standalone GUI/CLI
       - `.github/workflows/`: CI/CD via GH Actions, including testing, diagnostics, etc
-      - `skelly[slug]/api/`: FastAPI endpoints
-      - `skelly[slug]/docs/`
+      - `README.md`: Minimally must including ##H2 headings for `Description, Installation, Useage`
+      - `api`: FastAPI endpoints
+      - `docs`: A documentation folder.
+      - `examples`: Example code and scripts for standard use cases
+      - `templates`: Template for add-on/plug-in 
     - Notables: 
       - SkellyCam (cameras)
       - SkellyTracker (2d tracking)
