@@ -313,7 +313,7 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
   - Present: 100% Board (No operating mechanisms that allow for direct community input)
   - Eventual: 50% Board, 50% Community (FMC-F President is tie-breaker)
     - In case of true deadlock FMC-C can Hard Fork, but lets hope it doesn't come to that
-- Staged transition to Community guidance on various core computational constants (of increasing risk)
+- Staged transition to reliance on Community guidance to set various core computational constants (of increasing risk)
   - Community collaboration spotlight winners (Eurovision style voting of 'members', i.e. people with >0XP)
     - Develop and test basic mechanisms of community voting
       - Associated management of communication, moderation, etc
