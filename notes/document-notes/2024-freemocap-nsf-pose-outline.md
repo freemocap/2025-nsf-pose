@@ -144,10 +144,10 @@ How we will help the world
   - **Cloud Services (SkellyCloud)**
     - Offer 'free' tier, tie to open finances, allow community to set primary constants relative to a fixed % of the FMC-F annual budget
     - Server side processing
-    - Mocap data
-    - AI LLM
-  - Cloud storage
-  - Camera hardware
+      - Mocap data
+      - AI LLM
+  - **Cloud storage**
+  - **Camera hardware**
  
 ### Community Focus
  - Emphasize that the core of the FMC-P is the community of users
