@@ -18,9 +18,10 @@ How we will help the world
     - Overhead charges
   - 'Education as a filter' \cite{arrow1970}
     - Need for expansive training methods
-- 
+  - The 'banking model'
 - 'The open source community *is* what the scientific community pretends to be'
   - The problem of cottage industries
+  - The problem of publication (cite that guy's blog)
   - The story of Grease Pencil
 #### Vision
 - Guiding Principles and Long Term Vision for the OSE
@@ -28,25 +29,62 @@ How we will help the world
   - Knowledge is Free
   - No artificial scarcity
 - Societal or National Need for the OSE
+  - Current model not fit for present and future needs
+  - Need alternative models, organizations, infrastructures for science and education
+    - Generative and self sustaining
+      - Von Neumann machine - Sustainibility through replicability 
+  - Two Loops theory of social progress
 - Anticipated Broader Impacts of the OSE
 
 ## Long Term Vision for
 Describe the Ideal Perfect Future vision of... 
 
-### The FreeMoCap Project
-  - Technical Capacities 
-  - Infrastructure
-  - Tools and Frameworks
-  - Documentation and covert education
+### The FreeMoCap Project (FMC-P)
+  (include tables crossing each list with `current`, `in development`, `planned`)
+  - Infrastructure Table:
+      - Technical Capacities 
+      - Infrastructure
+      - Tools and Frameworks
+      - Documentation and covert education
   
-### The FreeMoCap Community
-  - Broad and deep user base, integrating:
+### The FreeMoCap Community (FMC-C)
+  - Broad and deep user base, integrating (<3d space):
     - User/Developers
     - Scientist/Artists
     - Student/Expert
-  - Active social community space where users can share progress and ask questions
+    - Any definable vector 
+      - `Mentorship` vector
+        - Defined as another user's UserStateVector (USV)
+      - `Community` vector
+        - Defined as median USV of users within a given community (with XP level > `threshold`)
+  - Nurture long term user support, measured (consentually) via interactions with software and community spaces
+    - Model as a trajectory though the 3d space defined above
+      - User state on each level: 
+        - Proficiency
+        - Interest
+        - Experience
+      - Mis-matches define 'gentle pressure' vectors
+      - PID controller with stochastic noise encouraging exploration into 'zones of proximal development' (ZoPD)
+    - Active social community space where users can share progress and ask questions
+    - Simulacrum support - AI assistant (SkellyBot)
+      - AI modeled to provide a SIMULATION of real human support 
+      - Explicitly AI at all times, intended to provide infinitely duplicable simulation of replicable text based emotional labor
+      - ReadTheManualBot (RTFM-bot)
+        - Goals:
+          - Primary: Help them learn and run the software
+          - Secondary: Avoid 'paradox of active user' (offer quicker paths to victory)
+        - RAG model
+          - Docs (FreeMoCap Technical Docs)
+          - Logs (User current and past logs, Github Issues, Server `Help Requests` channel)
+          - Images (e.g. from cameras, videos, or screenshots)
+          - Data (`npy`, `csv`, `sql`, `json`, with helper readers)
+      - WouldYouLikeToKnowMoreBot (WYLTKM-Bot)
+        - RAG model
+          - Docs (FreeMoCap Educational Docs, blog, YT transcripts, Server chat records)
+          - Wikipedia
+          - Search Engine Request (SerPAPI)
 
-### The FreeMoCap Foundation 
+### The FreeMoCap Foundation (FMC-F)
   - 501c3
   - Indpendently support FreeMoCap Project/Community
   - Handle security, privacy of data, codebase,  and user info
