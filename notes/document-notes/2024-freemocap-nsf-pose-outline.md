@@ -66,7 +66,8 @@ How we will help the world
 - Maximize accessibility
 - Build vibrant community of user/developers
 - Develop implicit educational methods
-- The long term potential of a generative plan is difficult to constrain
+## Potential Broader Impacts
+ The long term potential of a generative plan is difficult to constrain
   - **Meager success:**
     - New useful tool 
     - Small body of research
