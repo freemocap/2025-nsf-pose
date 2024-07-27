@@ -299,7 +299,7 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
   - Handles anything not covered by IRS definition of Charitable Activities
   - `SkellyTech, LLC.`
     - Will convert to C-corp as appropriate
-  - 
+
 
 #### Governance
 - Crib `numpy`'s notes
@@ -320,10 +320,10 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
     - Timeline: Immediate
   - Decisions related to [Skelly Enhancement Proposals]
     - Touches core software artifacts
-    - Timeline: Early proposal
+    - Timeline: Early proposal period
   - Community Free tier for cloud services
     - Touches organization finances
-    - Timeline: Late proposal (optimistic)
+    - Timeline: Late proposal period (optimistic)
   - (Later) Salary Base Blocks, overhead rates, Co-op dataset/model management
     - Touches coreorganization operations
     - Timeline: Beyond proposal scope
