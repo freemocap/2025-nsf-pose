@@ -11,6 +11,13 @@ How we will help the world
 
 ### Context of the OSE
 #### Context
+- The problem of universities
+  - Exclusionary by design
+  - Ever hungry corporate engine that driven by student debt
+    - Tuition room and board
+    - Overhead charges
+  - 'Education as a filter' \cite{arrow1970}
+    - Need for expansive training methods
 #### Vision
 - Guiding Principles and Long Term Vision for the OSE
   - Universal Design
