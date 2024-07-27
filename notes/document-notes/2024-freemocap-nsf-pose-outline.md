@@ -289,13 +289,67 @@ Describe the Ideal Perfect Future vision of...
 ## Proposed actvitities
 Activities to bring us from current status towards the Ideal Perfect status described above
 ### Ecosystem establishment and Growth
+#### User Engagement/Education
+- Model User as a dynamic trajectory though the >3d space with axes:
+  - User vs Developer
+  - Scientist vs Artist
+  - Novice vs Expert
+  - also - any definable vector 
+    - `Mentorship` vector
+      - Defined as another user's UserStateVector (USV)
+    - `Community` vector
+      - Defined as median USV of users within a given community (with XP level > `threshold`)
+  - Use rigid milestones, stochastic user-matching, and AI-analysis to determine each users's 'Status' relative to each sub-topic, sub-skill, sub-community:
+    - Proficiency [P]
+    - Interest [I]
+    - Experience [E]
+  - Mis-matches between P, I define 'gentle pressure' vectors
+  - Constant gentle pressure to increase `E` via:
+    - Using more advanced methods
+    - Gamifying improvement metric outputs (see `validation` and `diagnostics`)
+    - Diving deeper into technical and scientific underpinnnings
+  - PID controller with stochastic noise encouraging exploration into 'zones of proximal development' (ZoPD)
+
+- Simulacrum support - AI assistant (SkellyBot)
+  - AI modeled to provide a SIMULATION of real human support 
+  - Explicitly AI at all times, intended to provide infinitely duplicable simulation of replicable text based emotional labor
+  - SkellyBot
+    - Onboarding-Bot
+      - Goals:
+        - Primary: Introduce new users to software
+          - Onboarding tutorials
+          - WYLTKM-bot
+          - RTFM-bot
+        - Secondary: Encourage engagement with community
+          - Community Server spaces
+          - Community Activitities
+          - FreeMoCamp/Con
+    - ReadTheManualBot (RTFM-bot)
+      - Goals:
+        - Primary: Help them learn and run the software
+        - Secondary: Avoid 'paradox of active user' (offer quicker paths to victory)
+      - RAG model
+        - Docs (FreeMoCap Technical Docs)
+        - Logs (User current and past logs, Github Issues, Server `Help Requests` channel)
+        - Images (e.g. from cameras, videos, or screenshots)
+        - Data (`npy`, `csv`, `sql`, `json`, with helper readers)
+    - WouldYouLikeToKnowMoreBot (WYLTKM-Bot)
+      - RAG model
+        - Docs (FreeMoCap Educational Docs, blog, YT transcripts, Server chat records)
+        - Wikipedia
+        - Search Engine Request (SerPAPI)
+#### Community Engagement
 - FreeMoCamp/Con
-- Userbase analysis
-- Community Challenges
+- Community Collaboration Challenges
+
 ### Organization and Governance
 - Build administrative infrastructure
-#### Development
+- Developing SOPs
+- Establish Core maintainer actvitites
+- Develop `Skelly Enhancement Proposal` system
+ 
 ### Continuous Development, Integration, Evaluation Model 
+#### Development
   - Core:
     - Architecture
     - Functionality 
