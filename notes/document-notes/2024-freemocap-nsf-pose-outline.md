@@ -69,20 +69,32 @@ Describe the Ideal Perfect Future vision of...
     - Simulacrum support - AI assistant (SkellyBot)
       - AI modeled to provide a SIMULATION of real human support 
       - Explicitly AI at all times, intended to provide infinitely duplicable simulation of replicable text based emotional labor
-      - ReadTheManualBot (RTFM-bot)
-        - Goals:
-          - Primary: Help them learn and run the software
-          - Secondary: Avoid 'paradox of active user' (offer quicker paths to victory)
-        - RAG model
-          - Docs (FreeMoCap Technical Docs)
-          - Logs (User current and past logs, Github Issues, Server `Help Requests` channel)
-          - Images (e.g. from cameras, videos, or screenshots)
-          - Data (`npy`, `csv`, `sql`, `json`, with helper readers)
-      - WouldYouLikeToKnowMoreBot (WYLTKM-Bot)
-        - RAG model
-          - Docs (FreeMoCap Educational Docs, blog, YT transcripts, Server chat records)
-          - Wikipedia
-          - Search Engine Request (SerPAPI)
+      - SkellyBot
+        - Onboarding-Bot
+          - Goals:
+            - Primary: Introduce new users to software
+              - Onboarding tutorials
+              - WYLTKM-bot
+              - RTFM-bot
+            - Secondary: Encourage engagement with community
+              - Community Server spaces
+              - Community Activitities
+              - FreeMoCamp/Con
+        - ReadTheManualBot (RTFM-bot)
+          - Goals:
+            - Primary: Help them learn and run the software
+            - Secondary: Avoid 'paradox of active user' (offer quicker paths to victory)
+          - RAG model
+            - Docs (FreeMoCap Technical Docs)
+            - Logs (User current and past logs, Github Issues, Server `Help Requests` channel)
+            - Images (e.g. from cameras, videos, or screenshots)
+            - Data (`npy`, `csv`, `sql`, `json`, with helper readers)
+        - WouldYouLikeToKnowMoreBot (WYLTKM-Bot)
+          - RAG model
+            - Docs (FreeMoCap Educational Docs, blog, YT transcripts, Server chat records)
+            - Wikipedia
+            - Search Engine Request (SerPAPI)
+
 
 ### The FreeMoCap Foundation (FMC-F)
   - 501c3
