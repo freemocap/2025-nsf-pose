@@ -191,7 +191,11 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
       - via recombination of other plugins around `skellycam` package
   - Composed of various sub-skelly repos, each of which:
     - Can operate in a standalone format or as plug-in to core software
-    - Matches general architecture and CI/CD structure of parent `freemocap` software
+    - Matches general architecture and CI/CD structure of parent `freemocap` software, including:
+      - Standalone GUI/CLI
+      - `.github/workflows/`: CI/CD via GH Actions, including testing, diagnostics, etc
+      - `skelly[slug]/api/`: FastAPI endpoints
+      - `skelly[slug]/docs/`
     - Notables: 
       - SkellyCam (cameras)
       - SkellyTracker (2d tracking)
