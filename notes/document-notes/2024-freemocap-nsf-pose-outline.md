@@ -258,10 +258,8 @@ Describe the Ideal Perfect Future vision of...
 ### The FreeMoCap Foundation (FMC-F)
 - Economically self-sustaining combination research/software development institute 
 - 501c3 IRS certified public charity
-- **"Sustainability through replicability"**
-  - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
-  - Good for other people from wildly different domains (not relevant to FMC-F mission)
-  - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
+#### Organization
+#### Governance
 #### Responsibilities:
 - Support and development for core software(s)
 - Support Research in related fields (including training, mentorship, and grant support)
@@ -405,6 +403,10 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 ### Sustainability 
 #### Definitions, Strategies, and Goals 
 #### Metrics
+#### **"Sustainability through replicability"**
+  - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
+  - Good for other people from wildly different domains (not relevant to FMC-F mission)
+  - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
 ___ 
 
 
