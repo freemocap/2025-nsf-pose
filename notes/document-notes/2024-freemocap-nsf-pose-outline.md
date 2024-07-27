@@ -182,10 +182,12 @@ Activities to bring us from current status towards the Ideal Perfect status desc
         - Extends functionality from existing API
     - Templates provided per-sub-skelly-repo
       - Maintain consistent style-guide and consistent naming standards
+       
 #### Integration
   - Automated versioning/release cycle
   - `Git flow` version control model `CONTRIBUTING.md`
   - Backwards compatibility, deprecation and Long Term Support (LTS) versions
+  
 #### Evalution
 - Testing 
   - Automated tests framework
