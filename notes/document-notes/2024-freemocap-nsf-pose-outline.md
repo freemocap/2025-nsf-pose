@@ -33,19 +33,37 @@ How we will help the world
 - **Sustainability through accessibility**
   - The key to sustainability is a growing, active, diverse, and vibrant userbase
   - Universal design attracts the widest possible userbase
-  - **Education focus:**
-    - to avoid [paradox of the active user]
-    - foster long term user relationships
-    - encourage community engagement
-      - Push user-student into 'zone of proximal development'
-      - Provide easy access to resources (AI, static, community)
-    - (see **AI Simulacrum Mentorship**)
+
+##### Universal Access
+- **Education focus**
+  - to avoid [paradox of the active user]
+  - foster long term user relationships
+  - encourage community engagement
+    - Push user-student into 'zone of proximal development'
+    - Provide easy access to resources (AI, static, community)
+  - (see **AI Simulacrum Mentorship**)
 - **Maintain a True Minimum**
-  - Understand and maintain an option to run with the barest possible hardware
-  - Focus and maintain a [generic hardware] pipeline as the core path
-    - Using specific proprietary hardware (e.g. stereocams, kinect) can be developed as secondary routes and/or via a plugin system
-    - Clients may request development of a proprietary pipeline, in exchange for funds to support it
-  - (see **Evaluation/Diagnostics**)
+  - **Hardware: **
+    - Understand and maintain an option to run with the barest, most generic, and lowest-possible cost hardware,
+    - Focus and maintain a [generic hardware] pipeline as the core path
+      - Specialized tools (e.g. sterocam, eye trackiner, emg, forceplates) and proprietary options (e.g. iPhone, Basler/FLIR cameras, etc) added via plug-in system
+      - Developed by community and/or upon client request 
+  - **Software**    
+    - Maintain and understand requirements for different outcomes (specific to defined use cases)     
+      - Minimal requirements
+      - Recommended requiremnets
+    - (see **Evaluation/Diagnostics**)
+- Sliding scale pay options [HumbleBundleModel]
+  - Recommended cost relative to break-even.
+  - Give user option to allocate overage to different programs/departments
+    - (by necessity, the recommendations will be followed if at all possible, adjustments may be made to ensure long term stability of the FMC-Org.
+    - Its kinda like a voting system, but with money)
+    - Support for:
+      - New features
+      - Specific projects
+      - Scholarship/community grants program
+      - Unspecified
+  - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
 
 ##### No artificial scarcity
 - **"Knowledge is free, labor is unbelievable expensive"**
@@ -65,17 +83,7 @@ How we will help the world
   - Cloud storage
   - Camera hardware
  
-  - Sliding scale pay options [HumbleBundleModel]
-    - Recommended cost relative to break-even.
-    - Give user option to allocate overage to different programs/departments
-      - (by necessity, the recommendations will be followed if at all possible, adjustments may be made to ensure long term stability of the FMC-Org.
-      - Its kinda like a voting system, but with money)
-      - Support for:
-        - New features
-        - Specific projects
-        - Scholarship/community grants program
-        - Unspecified
-    - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
+
 - Societal or National Need for the OSE
   - Current model not fit for present and future needs
   - Need alternative models, organizations, infrastructures for science and education
