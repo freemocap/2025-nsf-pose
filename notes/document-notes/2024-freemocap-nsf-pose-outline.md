@@ -67,11 +67,18 @@ How we will help the world
 - Build vibrant community of user/developers
 - Develop implicit educational methods
 - The long term potential of a generative plan is difficult to constrain
-  - Meager success: New useful tool and small body of research
-  - Expected outcomes: 
-    - Create new sub-field around human movement, comprising a community and body of literature centered around integerated 'Laser Skeleton' research (Gestalt of vision + motor is greater than the sum of its parts)
+  - Meager success: 
+    - New useful tool 
+    - Small body of research
+    - Education tools and strategy
+  - **Expected outcomes:**
+    -  Support and sustain the growing community of `freemocap` users, loosely organized around a shared love of the measurement, investigation, analysis, and expression of human and animal movement (broadly construed), comprising:
+       -  **Researcher community**:  Researchers centered around integerated 'Laser Skeleton' research (Gestalt of vision + motor is greater than the sum of its parts), including sub-specialties of theory-driven and applied/clinical investigations
+       -  **Developer community** dedicated to the long term stability and development of the main artifactual vehicles of the FMC-OSE
+       -  **User community** of technically and geographically diverse set of end user communities dedicated to the specialized domains and cross-disciplinary bridges asscociated with the broad domain of topics, fields, and methods associated with the FMC-P.
+       -  
     - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
-  - Idealist future: Change the face of education and scientific research
+  - Idealist future: Iterative solutions on 'project-scale' strategy produces a vibrant ecosystem of ecosystem which fundamentally changes the face of education and scientific research.
  
 ## Long Term Vision
 - Describe the Ideal Perfect Future vision of FMC 
