@@ -525,14 +525,14 @@ Activities to bring us from current status towards the Ideal Perfect status desc
   - Backwards compatibility, deprecation and Long Term Support (LTS) versions
   
 #### Evalution
-- Automated Testing framework 
+##### Automated Testing framework 
   - Quick tests on commit to PR
   - Full tests on merge to `main`
   - Testing for:
     - stability (unit tests)
     - security (e.g. dependabot),
     - replicability (e.g. test datasets)
-- Validation framwork
+##### Validation framwork
   - Is the core tool providing accurate measurements of world?
   - External Validation
     - Against 'Gold Standard' marker-based mocap (e.g. Qualisys)
@@ -542,7 +542,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
       - Reprojection error (2d tracker validation)
       - Rigid body correction residuals (3d data validation)
   - Provide tutorials for running internal validation studies, providing both onboarding training, providing data/user confidence, and optionally getting them to offer their data/results to a 'community validation' datapool (see also, (Fed/Coop Datasets and Models))
-- Diagnostic framework
+##### Diagnostic framework
   - Automated system to measure perforamnce (speed, stability) on standard hardware/task benchmarks
     - Involves the standard `test` pipelines, but with the scale of the test data pumped up
   - Minimal requirements to maximize accessibility
@@ -561,6 +561,16 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 
 ### Sustainability 
 #### Definitions, Strategies, Goals, and Metrics
+
+- Community growth metrics
+  - Raw numbers (more users is good)
+  - Global distribution and spread should match popultion density
+  - Individual user trajectories
+    - Minimize 'bounce' (Single pings)
+    - Maximize 'velocity' (`extracted user growth` non-stagnant, e.g. `anti-paradox-of-active-user` protocols)
+- Software quality
+  - Generic validation metrics should be strictly monotonically increasing
+    - i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time
 #### **"Sustainability through replicability"**
   - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
   - Good for other people from wildly different domains (not relevant to FMC-F mission)
