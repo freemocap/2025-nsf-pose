@@ -133,8 +133,33 @@ Describe the Ideal Perfect Future vision of...
 Activities to bring us from current status towards the Ideal Perfect status described above
 ### Ecosystem establishment and Growth
 ### Organization and Governance
-### Continuous Integration and Development Model 
+### Continuous Development, Integration, Evaluation Model 
+- Development
+  - Core:
+    - Architecture
+    - Functionality 
+    - Observability
+    - Usability
+    - Accessibility
+  
+  - Bug Fixing
+    - GH Issues and Comminity server
+    - Encourage newcomers to assist with: 
+      - Triage
+      - RTFM requests
+      - Sleuthing
+  - Feature Development
+    - Roadmaps
+    - Skelly Enhancement Proposals (SEP's)
+      - Like PEP system
+      - Post in public forum (GH Discussion board? Bridge/sync with Community space)
+  - Add-on support
+
 ### Community Building
+
+### Sustainability 
+#### Definitions, Strategies, and Goals 
+#### Metrics
 ___ 
 
 # SCRATCH
