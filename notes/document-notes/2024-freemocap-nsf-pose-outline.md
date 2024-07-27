@@ -211,7 +211,10 @@ Describe the Ideal Perfect Future vision of...
     - User/Developers
     - Scientist/Artists
     - Student/Expert
-
+  - Develop active social community space where users can share progress and ask questions
+    - Currently - Discord server
+    - Eventually moving to Matrix/Element server w/ Discord/Slack bridge
+    
   - Nurture long term user support, measured (consentually) via interactions with software and community spaces
     - Model User as a dynamic trajectory though the >3d space with axes:
       - User vs Developer
@@ -222,13 +225,17 @@ Describe the Ideal Perfect Future vision of...
           - Defined as another user's UserStateVector (USV)
         - `Community` vector
           - Defined as median USV of users within a given community (with XP level > `threshold`)
-      - Use rigid milestones, stochastic use-matching, and AI-analysis to determine each users's 'Status' relative to each sub-topic, sub-skill, sub-community
-        - Proficiency
-        - Interest
-        - Experience
-      - Mis-matches define 'gentle pressure' vectors
+      - Use rigid milestones, stochastic user-matching, and AI-analysis to determine each users's 'Status' relative to each sub-topic, sub-skill, sub-community:
+        - Proficiency [P]
+        - Interest [I]
+        - Experience [E]
+      - Mis-matches between P, I define 'gentle pressure' vectors
+      - Constant gentle pressure to increase `E` via:
+        - Using more advanced methods
+        - Gamifying improvement metric outputs (see `validation` and `diagnostics`)
+        - Diving deeper into technical and scientific underpinnnings
       - PID controller with stochastic noise encouraging exploration into 'zones of proximal development' (ZoPD)
-    - Active social community space where users can share progress and ask questions
+
     - Simulacrum support - AI assistant (SkellyBot)
       - AI modeled to provide a SIMULATION of real human support 
       - Explicitly AI at all times, intended to provide infinitely duplicable simulation of replicable text based emotional labor
