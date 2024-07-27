@@ -167,6 +167,10 @@ Activities to bring us from current status towards the Ideal Perfect status desc
         - Data model change
   - Add-on support
     - Plug-in system
+      - Alternative to an existing core sub-skelly package
+        - Must interoperate with existing architecture invisibly
+      - Additional add-on extending core functionality 
+        - Extends functionality from existing API
     - Templates provided per-sub-skelly-repo
       - Maintain consistent style-guide and consistent naming standards
 #### Integration
