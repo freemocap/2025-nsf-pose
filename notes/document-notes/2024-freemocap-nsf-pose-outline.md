@@ -41,19 +41,29 @@ Describe the Ideal Perfect Future vision of...
 
 ### The FreeMoCap Project (FMC-P)
   (include tables crossing each list with `current`, `in development`, `planned`)
-  - Artifacts
-    - FreeMoCap Software(s)
-      - Core FreeMoCap Software(s)
-        - Composed of various sub-skelly repos, each of which:
-          - Can operate in a standalone format
-          - Matches general architecture and CI/CD structure of parent `freemocap` software
-    - Documentation and Educational material
-      -  Providing best-available educational materials, tutorials, and demos for related areas
-         - Tech (e.g. Computer vision, Cameras, CNNs, etc)
-         - Math (e.g. Linear algebra, timeseries analysis, computational geometry, kinematic/kinetic analysis)
-         - Visualization (e.g. data visualization, animation, etc)
-         - Science (e.g. human/animal movement, perception/action, etc )
-         - 
+#### Artifacts
+##### FreeMoCap Software(s)
+  - Core FreeMoCap Software(s)
+    - Composed of various sub-skelly repos, each of which:
+      - Can operate in a standalone format
+      - Matches general architecture and CI/CD structure of parent `freemocap` software
+##### Documentation and Educational material
+  -  Providing best-available educational materials, tutorials, and demos for related areas (link to existing educational material for general topics, focus on our specific use case)
+    - Tech (e.g. Computer vision, Cameras, CNNs, etc)
+    - Math (e.g. Linear algebra, timeseries analysis, computational geometry, kinematic/ kinetic analysis)
+    - Visualization (e.g. data visualization, animation, etc)
+    - Science (e.g. human/animal movement, perception/action, etc )
+  - Static Docs
+    - freemocap.org/documentation
+    - Tutorials
+    - Recorded lectures and live streams
+  - AI-assisted documentation
+    - SkellyBot
+      - Lives on freemocap.org chat
+      - Lives in Community server (summonable, requests consent before interacting with new users)
+      - Lives in local app (either connect to existing API via API key, run a local model, or use the FMC-F SkellyModel endpoint (requires account))
+      - See [Simulacrum Support]()
+  
   - Infrastructure Table:
       - Technical Capacities 
       - Infrastructure
