@@ -324,10 +324,16 @@ Activities to bring us from current status towards the Ideal Perfect status desc
     - Diving deeper into technical and scientific underpinnnings
   - PID controller with stochastic noise encouraging exploration into 'zones of proximal development' (ZoPD)
 
-- Simulacrum support - AI assistant (SkellyBot)
+#### AI-mediated pseudo mentorship support (SkellyBot)
   - AI modeled to provide a SIMULATION of real human support 
   - Explicitly AI at all times, intended to provide infinitely duplicable simulation of replicable text based emotional labor
-  - SkellyBot
+  - 100% transparancy to user re: 
+    - Data available
+    - Derived information (i.e. UserStatus)
+    - Computations, processes, prompts, etc
+  - Offer user direct control (i.e. they can explicity alter and edit their core data model to generate different support behavior from the AI)
+    - e.g. let them directly tell the machine their interests, expertise, etc
+  - SkellyBot sub-personas:
     - Onboarding-Bot
       - Goals:
         - Primary: Introduce new users to software
@@ -352,9 +358,60 @@ Activities to bring us from current status towards the Ideal Perfect status desc
         - Docs (FreeMoCap Educational Docs, blog, YT transcripts, Server chat records)
         - Wikipedia
         - Search Engine Request (SerPAPI)
+         
 #### Community Building
-- FreeMoCamp/Con
-- Community Collaboration Challenges
+##### Annual Workshop/Conference: FreeMoCamp/Con 💀⛺
+- FreeMoCamp: workshop/hackathon/training focus
+- FreeMoCon: Confrence style, talks, showing off
+- Inspirations:
+  - Neuromatch (for virtual component)
+  - Cold spring harbor (short term research project/workshop timeline)
+  - Get an example of a hackathon from the Endurance crew
+- In person & Virtual
+  - Held at YMCA summer camp, or similar
+    - All inclusive ticket - lodging and food handled by summer camp facilities
+  - Online component via dedicated Element space (with Slack/Discord bridges)
+  - ANYONE can view all online materials, and follow along activities (encouraging conversationin public server)
+  - Paid online participants may engage directly in the dedicated event space, and will get direct engagement with folks at the in-person event (for troubleshooting/planning/etc)
+  - Pricing
+    - Corpo pricing ->  100% standard price (Set high enough to make the lowest pay tiers make sense)
+    - Academic pricing -> 50% standard price
+    - Community members (defined by badges and community participation) -> 25% Standard price
+    - Additional **STEEP** discounts and scholarship programs for students, educators, researchers, artists, etc
+      - Minimum price w/o scholarship = break-even price per participant
+  - Combination hackathon, training workshop, and scientific conference on 'fully body movement research'
+- Participants in teams
+  - Plan and collect a data set
+  - Analyze and present results
+  - Encourage collaboration and data sharing between teams
+  - Offer training/presentation 'tracks' for
+    - Data collection
+      - Understand and use the core software
+    - Data analysis
+      - Analyze and computationally model data
+    - Data visualization (and animation/art)
+      - Create visualizations and animations from freemocap data
+
+##### Community Challenges
+
+- Offer a prompt for a kind of movement/activity to record
+  - Community works to record the best entry, submitted via Discord/Element/Freemocap.org
+    - Community votes in 'Eurovision style'
+      - i.e. each member has a fixed number of voting points to distribute among entries
+      - Maybe **Badges** provide additional voting points?
+
+##### Gamified documentation/software training
+
+- Offer **Badges** and stuff in discord for milestones, i.e.
+  - First contact - open the software
+  - First record - Anything recorded
+  - First success - Successful recording
+  - e.g. also calibration, data analysis, PR, etc
+- Apply badges in Discord/Element server (associated with a `freemocap.org` account?)
+  - Badges offer ability to send 'top level' messages to otherwise view-only channels (i.e technical spaces)
+    - Anyone can create a **thread** from a top-level message though
+    - The idea would be to create spaces where higher XP folk can talk about complicated stuff without distraction [WorkingInPublic]
+    - But also LowerXP folk can still see the conversations and ask questions (Maybe make it easy to summon SkellyBot to explain a message/conversation 🤔)
 
 ### Organization and Governance
 - Build administrative infrastructure
@@ -432,16 +489,15 @@ Activities to bring us from current status towards the Ideal Perfect status desc
           - Validation score on Min, Rec, Max settings
 
 
-### Community Building
+
 
 ### Sustainability 
-#### Definitions, Strategies, and Goals 
-#### Metrics
+#### Definitions, Strategies, Goals, and Metrics
 #### **"Sustainability through replicability"**
   - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
   - Good for other people from wildly different domains (not relevant to FMC-F mission)
   - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
-___ 
+
 
 
 
