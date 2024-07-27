@@ -76,7 +76,8 @@ How we will help the world
        -  **Researcher community**:  Researchers centered around integerated 'Laser Skeleton' research (Gestalt of vision + motor is greater than the sum of its parts), including sub-specialties of theory-driven and applied/clinical investigations
        -  **Developer community**:  Software developers and technologists edicated to the long term stability and development of the main artifactual vehicles of the FMC-OSE
        -  **User community** of technically and geographically diverse set of end user communities dedicated to the specialized domains and cross-disciplinary bridges asscociated with the broad domain of topics, fields, and methods associated with the FMC-P.
-       -  Metrics - 
+       -  Metrics - Prism/Pokemon power chart of community composition, noting specialists relative to generalists
+          -  tie to `Working in Public` 'toys', 'stadiums', 'clubs', 'federations' (goal is federations)
     - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
   - Idealist future: Iterative solutions on 'project-scale' strategy produces a vibrant ecosystem of ecosystem which fundamentally changes the face of education and scientific research.
 
