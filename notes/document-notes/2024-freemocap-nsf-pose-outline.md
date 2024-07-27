@@ -60,10 +60,16 @@ How we will help the world
     - Not saying we should burn it all to the ground
     - It's already burning
     - We need to build a better ship
-      - f-ing ASAP
-
+      - & f-ing ASAP plz thx
+## Objectives and Long term vision
+- Make FreeMoCap the best mocap option available
+- Maximize accessibility
+- Build vibrant community of user/developers
+- Develop implicit educational methods
+- Change the face of education and scientific research
+ 
 ## Long Term Vision
-Describe the Ideal Perfect Future vision of... 
+- Describe the Ideal Perfect Future vision of FMC 
 
 ## Guiding Principles 
 ### Universal Design
