@@ -304,7 +304,15 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
 #### Governance
 - Crib `numpy`'s notes
 - Follow Open Finances and Open Everything procedures (e.g. Backyard Brains)
-
+- Community guidance on various core computational constants
+  - Community collaboration spotlight winners (Eurovision style voting of 'members', i.e. people with >0XP)
+  - Community Free tier for cloud services
+  - Decisions related to [Skelly Enhancement Proposals]
+  - (Later) Salary Base Blocks and other financial decisions
+- Benevolent Dictator for a Set Period of Time (BDFaSPoT) Model 
+  - Like the classic `Benevolent Dictator for Life`(BDFL) model, but transitions to community-DAO style management over multi-year, tailorable timespan
+    - Retains flexibility and adaptability needed in a projects' early stage, before a cohesive group identity and organizing infrastructure has developed
+    - 
 #### Responsibilities:
 - Support and development for core software(s)
 - Support Research in related fields (including training, mentorship, and grant support)
