@@ -47,7 +47,13 @@ Describe the Ideal Perfect Future vision of...
         - Composed of various sub-skelly repos, each of which:
           - Can operate in a standalone format
           - Matches general architecture and CI/CD structure of parent `freemocap` software
-          - 
+    - Documentation and Educational material
+      -  Providing best-available educational materials, tutorials, and demos for related areas
+         - Tech (e.g. Computer vision, Cameras, CNNs, etc)
+         - Math (e.g. Linear algebra, timeseries analysis, computational geometry, kinematic/kinetic analysis)
+         - Visualization (e.g. data visualization, animation, etc)
+         - Science (e.g. human/animal movement, perception/action, etc )
+         - 
   - Infrastructure Table:
       - Technical Capacities 
       - Infrastructure
