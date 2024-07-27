@@ -3,16 +3,15 @@
 ## Introduction
 Gap/Need/Hero statements
 
-### Intellectual Merit
+## Intellectual Merit
 How we will advance knowledge
 
-### Broader Impact
+## Broader Impacts
 How we will help the world
 
-### Context of the OSE
-#### Context
-##### Sociotechnical landscape
-###### Technogical context
+## Context of the OSE
+### Current Context
+#### Technogical context
   - Capacities
     - Cutting Edge (Established methods)
     - Bleeding Edge (Promising advances)
@@ -23,11 +22,11 @@ How we will help the world
     - MMPose
     - Deeplabcut
     - etc
-###### Social context
+#### Social context
   - Corporate mistrust
   - Privacy violations
   - Worker/social exploitation
-###### Ethical context
+#### Ethical context
   - Risk of future corporate conglomoration of technology
   - Need for decentralized systems
     - Clowdstrike outages
@@ -47,14 +46,24 @@ How we will help the world
   - Need for expansive training methods
 - The 'banking model' of education
   - Paolo friere
-##### 'The open source community *is* what the scientific community pretends to be'
-  - The problem of cottage industries
-  - The problem of publication (cite that guy's blog)
-  - The story of Grease Pencil
-  
-#### Guiding Principles and Long Term Vision for the OSE
+##### The problem of cottage industries
+- Current system does not reward necessary activites to build and sustain an OSE
+##### The problem of publication (cite that guy's blog)
+- The story of Grease Pencil
 
-##### Universal Design
+### Need and Gap
+  - Current model not fit for present and future needs
+  - Need alternative models, organizations, infrastructures for science and education
+    - Generative and self sustaining
+      - Von Neumann machine - Sustainibility through replicability 
+  - Two Loops theory of social progress
+    - Not saying we should burn it all to the ground
+    - It's already burning
+    - We need to build a better ship
+      - f-ing ASAP
+
+### Guiding Principles 
+#### Universal Design
 - "When anyone can use it, everyone benefits"
 - Same tool for 0XP as for professional
 - "The [aspirational goal] of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
@@ -62,7 +71,7 @@ How we will help the world
   - The key to sustainability is a growing, active, diverse, and vibrant userbase
   - Universal design attracts the widest possible userbase
 
-##### Universal Access
+#### Universal Access
 - **Education focus**
   - to avoid [paradox of the active user]
   - foster **long term user relationships**
@@ -105,7 +114,7 @@ How we will help the world
           - Unspecified
       - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
 
-##### No artificial scarcity
+#### No artificial scarcity
 - **"Knowledge is free, labor is unbelievable expensive"**
 - Anything that can be duplicated infinitely is free for everyone
   - Software
@@ -123,15 +132,13 @@ How we will help the world
   - Cloud storage
   - Camera hardware
  
-##### Community Focus
+#### Community Focus
  - Emphasize that the core of the FMC-P is the community of users
  - The software artifacts are the fruit of the garden
  - Develop lateral connections, encourage growth, exploration, community support 
 
 
-
-
-##### Aggressively open source
+#### Aggressively open source
 - **"The open source community *is* what the scientific community pretends to be"**
 - FOSS as a matter of moral imperative centered on the premises of Univerisal Design and Universal Access
   - Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'
@@ -143,20 +150,8 @@ How we will help the world
   - Encourage and allow non-FOSS aligned activities through the `For-Profit` entity via B2B connections with external and spin-off entitities
     - Charge according to degree of mis-alignment with core values
 
-#### Societal or National Need for the OSE
-  - Current model not fit for present and future needs
-  - Need alternative models, organizations, infrastructures for science and education
-    - Generative and self sustaining
-      - Von Neumann machine - Sustainibility through replicability 
-  - Two Loops theory of social progress
-    - Not saying we should burn it all to the ground
-    - It's already burning
-    - We need to build a better ship
-      - f-ing ASAP
-#### Anticipated Broader Impacts of the OSE
-  - Lots, probably!
-  - 
-## Long Term Vision for
+
+## Long Term Vision
 Describe the Ideal Perfect Future vision of... 
 
 ### The FreeMoCap Project (FMC-P)
