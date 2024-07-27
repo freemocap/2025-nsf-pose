@@ -41,6 +41,13 @@ Describe the Ideal Perfect Future vision of...
 
 ### The FreeMoCap Project (FMC-P)
   (include tables crossing each list with `current`, `in development`, `planned`)
+  - Artifacts
+    - FreeMoCap Software(s)
+      - Core FreeMoCap Software(s)
+        - Composed of various sub-skelly repos, each of which:
+          - Can operate in a standalone format
+          - Matches general architecture and CI/CD structure of parent `freemocap` software
+          - 
   - Infrastructure Table:
       - Technical Capacities 
       - Infrastructure
