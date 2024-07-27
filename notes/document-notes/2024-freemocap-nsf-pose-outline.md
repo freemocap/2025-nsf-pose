@@ -248,7 +248,21 @@ Describe the Ideal Perfect Future vision of...
 - Handle security, privacy of data, codebase, and user info
 - Pay salaries of a core set of maintainer/developers
 - Offer contract work to the FreeMoCap Community
-  
+- Manage finances 
+  - see (Revenue Streams)
+  - Things covered under 'charitable activities' IRS definition are handled by FMC-F
+  - Non-charitable activities handled by subsidiary for-profit (Skellytech)
+
+#### Licensing Model
+- AGPLv3 for all repos owned by FMC-Foundation
+  - "Its a dart frog party, and everyone is invited!"
+  - AGPLv3 as protection from exploitation by proprietary softwares
+  - reference 'open source misses the point'
+- Exclusive sub-licensing rights to SkellyTech
+  - SkellyTech handles B2B license agreement, whereby we offer software using non-AGPLv3 license
+    - Cost dependent on 'distance' from AGPLv3 (AGPL -> GPL -> LGPL -> Apache/MIT -> ... -> Proprietary)
+  - Can offer sub-license agreement for existing software, or to create custom software solutions
+   
 #### Revenue streams
   - Federated/Co-op models and datasets
     - Federated datasets
