@@ -149,7 +149,8 @@ Describe the Ideal Perfect Future vision of...
       - SkellyViewer (Viusualization and Observability)
       - SkellyBlender (Animation output via Blender addon)
       - SkellyMetrics (Analysis pipelines and 'report' building)
-      - SkellyBot
+      - SkellyBot (AI and LLM support)
+    - 
 ##### Documentation and Educational material
   -  Providing best-available educational materials, tutorials, and demos for related areas (link to existing educational material for general topics, focus on our specific use case)
     - Tech (e.g. Computer vision, Cameras, CNNs, etc)
