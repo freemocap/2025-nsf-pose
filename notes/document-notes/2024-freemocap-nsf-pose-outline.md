@@ -72,13 +72,7 @@ How we will help the world
     - Small body of research
     - Education tools and strategy
   - **Expected outcomes:**
-    -  Support and sustain the growing community of `freemocap` users, loosely organized around a shared love of the measurement, investigation, analysis, and expression of human and animal movement (broadly construed), comprising:
-       -  **Researcher community**:  Researchers centered around integerated 'Laser Skeleton' research (Gestalt of vision + motor is greater than the sum of its parts), including sub-specialties of theory-driven and applied/clinical investigations
-       -  **Developer community**:  Software developers and technologists edicated to the long term stability and development of the main artifactual vehicles of the FMC-OSE
-       -  **User community** of technically and geographically diverse set of end user communities dedicated to the specialized domains and cross-disciplinary bridges asscociated with the broad domain of topics, fields, and methods associated with the FMC-P.
-       -  Metrics - Prism/Pokemon power chart of community composition, noting specialists relative to generalists
-          -  tie to `Working in Public` 'toys', 'stadiums', 'clubs', 'federations' (goal is federations)
-          -  We are a 'stadium' that wants to be a `stratified federation` (i.e. federation with XP leveling)
+    -  Support and sustain the growing community of `freemocap` users, loosely organized around a shared love of the measurement, investigation, analysis, and expression of human and animal movement (broadly construed) XP leveling)
     - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
   - Idealist future:
     -  Iterative solutions on 'project-scale' strategy produces a vibrant ecosystem of ecosystem which fundamentally changes the face of education and scientific research.
@@ -232,8 +226,14 @@ How we will help the world
   - Develop active social community space where users can share progress and ask questions
     - Currently - Discord server
     - Eventually moving to Matrix/Element server w/ Discord/Slack bridge
-    
   - Nurture long term user support, actively encourage growth via semi-automated interactions with software and community spaces
+  - The FreeMoCap Community userbase comprises the following heavily overlapping sub-communities:
+       -  **Researcher community**:  Researchers centered around integerated 'Laser Skeleton' research (Gestalt of vision + motor is greater than the sum of its parts), including sub-specialties of theory-driven and applied/clinical investigations. 
+       -  **Developer community**:  Software developers and technologists dedicated to the long term stability and development of the main artifactual vehicles of the FMC-OSE
+       -  **User community** of technically and geographically diverse set of end user communities dedicated to the specialized domains and cross-disciplinary bridges asscociated with the broad domain of topics, fields, and methods associated with the FMC-P.
+       -  Metrics - Prism/Pokemon power chart of community composition, noting specialists relative to generalists
+          -  tie to `Working in Public` 'toys', 'stadiums', 'clubs', 'federations' (goal is federations)
+          -  We are a 'stadium' that wants to be a `stratified federation` (i.e. federation with
 
 
 
