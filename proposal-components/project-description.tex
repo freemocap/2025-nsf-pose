@@ -1,6 +1,7 @@
 \documentclass[11pt]{article}
 \usepackage[letterpaper,margin=1in]{geometry}
-\usepackage{natbib}
+\usepackage[backend=biber,style=apa]{biblatex}
+\addbibresource{references.bib}
 
 \begin{document}
 \pagestyle{empty} 
@@ -14,7 +15,6 @@ This is the body content.
 
 \newpage
 % Bibliography section
-\bibliographystyle{apalike}
-\bibliography{references}
+\printbibliography
 
 \end{document}
