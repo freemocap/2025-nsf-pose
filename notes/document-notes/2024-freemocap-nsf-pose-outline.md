@@ -304,14 +304,30 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
 #### Governance
 - Crib `numpy`'s notes
 - Follow Open Finances and Open Everything procedures (e.g. Backyard Brains)
-- Community guidance on various core computational constants
-  - Community collaboration spotlight winners (Eurovision style voting of 'members', i.e. people with >0XP)
-  - Community Free tier for cloud services
-  - Decisions related to [Skelly Enhancement Proposals]
-  - (Later) Salary Base Blocks and other financial decisions
+  - **"Sustainability through trust, trust through transparency"**
 - Benevolent Dictator for a Set Period of Time (BDFaSPoT) Model 
   - Like the classic `Benevolent Dictator for Life`(BDFL) model, but transitions to community-DAO style management over multi-year, tailorable timespan
     - Retains flexibility and adaptability needed in a projects' early stage, before a cohesive group identity and organizing infrastructure has developed
+    - Allows controlled transition plan to more community-driven, decentralized model
+- Transition plan based on relative weighting of Board vs Community voting on key elements (see below)
+  - Present: 100% Board (No operating mechanisms that allow for direct community input)
+  - Eventual: 50% Board, 50% Community (FMC-F President is tie-breaker)
+    - In case of true deadlock FMC-C can Hard Fork, but lets hope it doesn't come to that
+- Staged transition to Community guidance on various core computational constants (of increasing risk)
+  - Community collaboration spotlight winners (Eurovision style voting of 'members', i.e. people with >0XP)
+    - Develop and test basic mechanisms of community voting
+      - Associated management of communication, moderation, etc
+    - Timeline: Immediate
+  - Decisions related to [Skelly Enhancement Proposals]
+    - Touches core software artifacts
+    - Timeline: Early proposal
+  - Community Free tier for cloud services
+    - Touches organization finances
+    - Timeline: Late proposal (optimistic)
+  - (Later) Salary Base Blocks, overhead rates, Co-op dataset/model management
+    - Touches coreorganization operations
+    - Timeline: Beyond proposal scope
+- 
     - 
 #### Responsibilities:
 - Support and development for core software(s)
