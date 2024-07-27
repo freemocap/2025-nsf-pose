@@ -223,8 +223,8 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
       - Lives on freemocap.org chat
       - Lives in Community server (summonable, requests consent before interacting with new users)
       - Lives in local app (either connect to existing API via API key, run a local model, or use the FMC-F SkellyModel endpoint (requires account))
-      - See [Simulacrum Support]()  
-#### Data/Model Assets
+      - See AI-assisted-psuedo-mentorship
+#### Datasets and Derived Models 
   - See `FMC-F/Revenue/Federated and co-op datasets and models
 
 
