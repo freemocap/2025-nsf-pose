@@ -1,12 +1,13 @@
-
 # *POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project*
 
 ## Project Description
 
 ### Introduction
+
 ### Objectives (like specific aims)
+
 - Make FreeMoCap the best mocap option available
-- Maximize accessibility 
+- Maximize accessibility
 - Build vibrant community of user/developers
 - Develop implicit educational methods
 - Change the face of education and scientific research
@@ -55,12 +56,15 @@
       - Provide easy access to resources (AI, static, community)
 
 ##### Universal Access
+
 ###### No artificial scarcity
+
 - "Knowledge is free, labor is unbelievable expensive"
 - Anything that can be duplicated infinitely is free for everyone
 
   - Software, documentation, tutorial/educational material, etc
 - Anything that is finite (or costs us money) can be charged
+
   - e.g. server side processing and cloud storage
   - Sliding scale pay options [HumbleBundleModel]
     - Recommended cost relative to break-even.
@@ -75,7 +79,8 @@
     - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
 
 ##### Aggressively open source
-- FOSS as a matter of moral imperative centered on 
+
+- FOSS as a matter of moral imperative centered on
   - Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'
   - See "why open source misses the point"
 
@@ -238,10 +243,12 @@
 #### Community building
 
 - Users
-  - Students
-  - Artists
-  - Scientists
-  - Clinicians
+  - Students: Want to learn
+  - Artists:  Want to create
+  - Scientists: Want to understand
+  - Clinicians: Want to heal
+  - Engineers: Want to build
+  - Athletes/Performers: Want to perform
 - Intellectual Content Creators
   - Software developer
     - Core
@@ -251,7 +258,7 @@
     - Artistic
       - Animation
       - Video Games
-      - Performance (dance)
+      - Performance (dance, athletics)
   - Community helpers
     - Moderation
     - Troubleshooting and technical support

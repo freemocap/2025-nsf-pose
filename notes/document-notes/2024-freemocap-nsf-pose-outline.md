@@ -229,7 +229,7 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
 
 
 ### The FreeMoCap Community (FMC-C)
-  - Broad and deep user base, integrating (>3d space):
+  - Broad and deep user base, integrating
     - User/Developers
     - Scientist/Artists
     - Student/Expert
@@ -243,8 +243,44 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
        -  **User community** of technically and geographically diverse set of end user communities dedicated to the specialized domains and cross-disciplinary bridges asscociated with the broad domain of topics, fields, and methods associated with the FMC-P.
        -  Metrics - Prism/Pokemon power chart of community composition, noting specialists relative to generalists
           -  tie to `Working in Public` 'toys', 'stadiums', 'clubs', 'federations' (goal is federations)
-          -  We are a 'stadium' that wants to be a `stratified federation` (i.e. federation with
-
+          -  We are a 'stadium' that wants to be a `stratified federation` (i.e. federation with XP Levels) 
+    - ** Types/motivations of Users**
+      - Students: Want to learn
+      - Artists:  Want to create
+      - Scientists: Want to understand
+      - Clinicians: Want to heal
+      - Engineers: Want to build
+      - Athletes/Performers: Want to perform
+    - **Intellectual Content Creators**
+      - Software developer
+        - Core
+        - Visualization
+        - Analysis
+      - Creator Users
+        - Artistic
+          - Animation
+          - Video Games
+          - Performance (dance, athletics)
+      - Educator Users
+        - Science teachers
+          - Scientific and clinical underpinnnings
+          - Physics, computational geometry 
+        - Tech teachers
+          - Camera technology
+          - Computer vision (ML-based and classical)
+          - Applied technologies (motion capture, eye tracking)
+        - Coaches, trainers, physical therapists
+          - Use to teach the recorded patient about their movement to improver performance assist in a clinical rehabilitation, assessment, or diagnosis.
+      - Community helpers
+        - Moderation
+        - Troubleshooting and technical support
+        - Encouraging newcomers
+    - OS Community building components:
+      - recruitment
+      - motivation
+      - mentoring
+      - managing
+      - mediating disputes
 
 
 ### The FreeMoCap Foundation (FMC-F)
