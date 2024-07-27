@@ -257,9 +257,11 @@ Describe the Ideal Perfect Future vision of...
 
 ### The FreeMoCap Foundation (FMC-F)
 - Economically self-sustaining combination research/software development institute 
-- 501c3 IRS certified public charity
 #### Organization
+- 501c3 IRS certified public charity
+- Follow bylaws
 #### Governance
+- Crib `numpy`'s notes
 #### Responsibilities:
 - Support and development for core software(s)
 - Support Research in related fields (including training, mentorship, and grant support)
