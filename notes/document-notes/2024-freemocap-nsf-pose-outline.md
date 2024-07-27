@@ -338,7 +338,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
         - Docs (FreeMoCap Educational Docs, blog, YT transcripts, Server chat records)
         - Wikipedia
         - Search Engine Request (SerPAPI)
-#### Community Engagement
+#### Community Building
 - FreeMoCamp/Con
 - Community Collaboration Challenges
 
