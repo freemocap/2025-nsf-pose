@@ -126,9 +126,30 @@ Describe the Ideal Perfect Future vision of...
 #### Artifacts
 ##### FreeMoCap Software(s)
 - Core FreeMoCap Software(s)
+    - Fully integrated FOSS platform for Laser Skeleton research/recording
+      - Fully-body mocap 
+        - realtime, animator and/or science focus
+      - 3d Gaze
+        - Webcam eye tracker
+        - Plugin support for Pupil labs
+        - VR/HMD support
+      - Integrated laser skeleton
+        - Matthis papers
+      - Analysis and visualization suite
+        - Blender, threeJS, R-studio support, skellymetrics reports
+    - Can also serve as a generic Computer Vision platform
+      - via recombination of other plugins around `skellycam` package
   - Composed of various sub-skelly repos, each of which:
     - Can operate in a standalone format
     - Matches general architecture and CI/CD structure of parent `freemocap` software
+    - Notables: 
+      - SkellyCam (cameras)
+      - SkellyTracker (2d tracking)
+      - SkellyForge (3d reconstruction)
+      - SkellyViewer (Viusualization and Observability)
+      - SkellyBlender (Animation output via Blender addon)
+      - SkellyMetrics (Analysis pipelines and 'report' building)
+      - SkellyBot
 ##### Documentation and Educational material
   -  Providing best-available educational materials, tutorials, and demos for related areas (link to existing educational material for general topics, focus on our specific use case)
     - Tech (e.g. Computer vision, Cameras, CNNs, etc)
