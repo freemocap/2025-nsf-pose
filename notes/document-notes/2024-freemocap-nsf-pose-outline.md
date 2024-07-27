@@ -525,34 +525,36 @@ Activities to bring us from current status towards the Ideal Perfect status desc
   - Backwards compatibility, deprecation and Long Term Support (LTS) versions
   
 #### Evalution
-- Testing 
-  - Automated tests framework
-    - Quick tests on commit to PR
-    - Full tests on merge to `main`
-    - Testing for:
-      - stability (unit tests)
-      - security (e.g. dependabot),
-      - replicability (e.g. test datasets)
-  - Validation
-    - Is the core tool providing accurate measurements of world?
-    - External Validation
-      - Against 'Gold Standard' marker-based mocap (e.g. Qualisys)
-      - Ideally using standard mocap validation techniques from clinical biomechanics (ISB?)
-    - Internal Validation 
-      - Validation within a given dataset via error residuals,i.e. 
-        - Reprojection error (2d tracker validation)
-        - Rigid body correction residuals (3d data validation)
-  - Diagnostics
-    - Minimal requirements to maximize accessibility
-      - Understanding and clearly defining 'minimum  specs' to achieve viable output
-      - Strive to decrease these minimums while remining mindful of trade-offs
-      - Minimum reqs also define max speed, relevant to realtime applications 
-    - High-water marks and benchmarks
-      - What is the best performance possible with unconstrained time and resources?
-        - Speed (real-time processing)
-          - FPS on standardized PCs at Min, Rec, Max setttings
-        - Accuracy (scientific applications)
-          - Validation score on Min, Rec, Max settings
+- Automated Testing framework 
+  - Quick tests on commit to PR
+  - Full tests on merge to `main`
+  - Testing for:
+    - stability (unit tests)
+    - security (e.g. dependabot),
+    - replicability (e.g. test datasets)
+- Validation framwork
+  - Is the core tool providing accurate measurements of world?
+  - External Validation
+    - Against 'Gold Standard' marker-based mocap (e.g. Qualisys)
+    - Ideally using standard mocap validation techniques from clinical biomechanics (ISB?)
+  - Internal Validation 
+    - Validation within a given dataset via error residuals,i.e. 
+      - Reprojection error (2d tracker validation)
+      - Rigid body correction residuals (3d data validation)
+  - Provide tutorials for running internal validation studies, providing both onboarding training, providing data/user confidence, and optionally getting them to offer their data/results to a 'community validation' datapool (see also, (Fed/Coop Datasets and Models))
+- Diagnostic framework
+  - Automated system to measure perforamnce (speed, stability) on standard hardware/task benchmarks
+    - Involves the standard `test` pipelines, but with the scale of the test data pumped up
+  - Minimal requirements to maximize accessibility
+    - Understanding and clearly defining 'minimum  specs' to achieve viable output
+    - Strive to decrease these minimums while remining mindful of trade-offs
+    - Minimum reqs also define max speed, relevant to realtime applications 
+  - High-water marks and benchmarks
+    - What is the best performance possible with unconstrained time and resources?
+      - Speed (real-time processing)
+        - FPS on standardized PCs at Min, Rec, Max setttings
+      - Accuracy (scientific applications)
+        - Validation score on Min, Rec, Max settings
 
 
 
