@@ -136,12 +136,14 @@ How we will help the world
   - Documentation
   - Static documentation/tutorial/educational material, etc
 - Anything that is finite (or costs us money) can be charged, e.g.:
-  - Human labor
+  - **Human labor**
     - Service models
       - Setup/planning
       - Dedicated technical support
     - Custom Software
-  - Server side processing
+  - **Cloud Services (SkellyCloud)**
+    - Offer 'free' tier, tie to open finances, allow community to set primary constants relative to a fixed % of the FMC-F annual budget
+    - Server side processing
     - Mocap data
     - AI LLM
   - Cloud storage
