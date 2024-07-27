@@ -286,8 +286,21 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
 ### The FreeMoCap Foundation (FMC-F)
 - Economically self-sustaining combination research/software development institute 
 #### Organization
-- 501c3 IRS certified public charity
-- Follow bylaws
+- Non-profit (primary) organization handles 'charitable activities'
+  - `FreeMoCap Foundation, Inc.`
+    - Federally recognized 501c3 IRS certified public charity
+    - Incoporated as non-profit corporation in Massachusetts
+    - Board: 
+      - President, Clerk, Treasurer
+    - C-Suite:
+      - CEO, COO, CTO, CFO
+  - Follow bylaws, mission, etc laid out in Articles of Incorporation  
+- For-profit organization handles other activitites
+  - Handles anything not covered by IRS definition of Charitable Activities
+  - `SkellyTech, LLC.`
+    - Will convert to C-corp as appropriate
+  - 
+
 #### Governance
 - Crib `numpy`'s notes
 - Follow Open Finances and Open Everything procedures (e.g. Backyard Brains)
