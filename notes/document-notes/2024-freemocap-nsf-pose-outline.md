@@ -465,8 +465,8 @@ Activities to bring us from current status towards the Ideal Perfect status desc
         - Wikipedia
         - Search Engine Request (SerPAPI)
          
-#### Community Building
-##### Annual Workshop/Conference: FreeMoCamp/Con 💀⛺
+### Community Building
+#### Annual Workshop/Conference: FreeMoCamp/Con 💀⛺
 - FreeMoCamp: workshop/hackathon/training focus
 - FreeMoCon: Confrence style, talks, showing off
 - Inspirations:
@@ -498,7 +498,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
     - Data visualization (and animation/art)
       - Create visualizations and animations from freemocap data
 
-##### Community Challenges
+#### Community Challenges
 
 - Offer a prompt for a kind of movement/activity to record
   - Community works to record the best entry, submitted via Discord/Element/Freemocap.org
@@ -506,7 +506,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
       - i.e. each member has a fixed number of voting points to distribute among entries
       - Maybe **Badges** provide additional voting points?
 
-##### Gamified documentation/software training
+#### Gamified documentation/software training
 
 - Offer **Badges** and stuff in discord for milestones, i.e.
   - First contact - open the software
@@ -617,7 +617,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 
 
 
-#### Security and Privacy
+### Security and Privacy
 - Fully offline local processing option
   - Users can always run totally dark in no-internet environments
 - Google Cloud Platform for secrets management
