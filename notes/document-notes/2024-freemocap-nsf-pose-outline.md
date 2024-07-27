@@ -38,7 +38,6 @@ How we will help the world
 ##### Universal Access
 - **Education focus**
   - to avoid [paradox of the active user]
-  
   - foster **long term user relationships**
   - encourage community engagement
     - Push user-student into 'zone of proximal development'
