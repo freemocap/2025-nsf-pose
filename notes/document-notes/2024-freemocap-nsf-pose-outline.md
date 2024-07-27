@@ -11,6 +11,33 @@ How we will help the world
 
 ### Context of the OSE
 #### Context
+##### Sociotechnical landscape
+###### Technogical context
+  - Capacities
+    - Cutting Edge (Established methods)
+    - Bleeding Edge (Promising advances)
+    - Likely futures 
+  - Related projects
+    - Michael Black 
+    - R. James Cotton 
+    - MMPose
+    - Deeplabcut
+    - etc
+###### Social context
+  - Corporate mistrust
+  - Privacy violations
+  - Worker/social exploitation
+###### Ethical context
+  - Risk of future corporate conglomoration of technology
+  - Need for decentralized systems
+    - Clowdstrike outages
+    - Openpose dead-project status
+  - Rise of AI 
+    - Liklihood of future violations
+  - Need for decentralized user-directed  foss 
+  - Inaccessiblity of science and technogy
+    - Growing Gaps 
+      - (See NSF Strategic plans)
 ##### The problem of universities
 - Exclusionary by design
 - Ever hungry corporate engine that driven by student debt
@@ -24,7 +51,7 @@ How we will help the world
   - The problem of cottage industries
   - The problem of publication (cite that guy's blog)
   - The story of Grease Pencil
-  - 
+  
 #### Guiding Principles and Long Term Vision for the OSE
 
 ##### Universal Design
@@ -386,33 +413,5 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 #### Metrics
 ___ 
 
-# SCRATCH
-- Sociotechnical landscape
-- Technogical context
-  - Capacities
-    - Cutting Edge (Established methods)
-    - Bleeding Edge (Promising advances)
-    - Likely futures 
-  - Related projects
-    - Michael Black 
-    - R. James Cotton 
-    - MMPose
-    - Deeplabcut
-    - etc
-- Social context
-  - Corporate mistrust
-  - Privacy violations
-  - Worker/social exploitation
-- Ethical context
-  - Future conglomoration 
-  - Need for decentralized systems
-    - Clowdstrike outages
-    - Openpose dead-project status
-  - Rise of AI 
-    - Liklihood of future violations
-  - Need for decentralized user-directed  foss 
-  - Inaccessiblity of science and technogy
-  - Growing Gaps 
-    - (See NSF Strategic plans)
 
 
