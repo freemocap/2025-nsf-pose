@@ -18,6 +18,7 @@ How we will help the world
     - Overhead charges
   - 'Education as a filter' \cite{arrow1970}
     - Need for expansive training methods
+- 
 - 'The open source community *is* what the scientific community pretends to be'
   - The problem of cottage industries
   - The story of Grease Pencil
