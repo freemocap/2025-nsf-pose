@@ -78,8 +78,10 @@ How we will help the world
        -  **User community** of technically and geographically diverse set of end user communities dedicated to the specialized domains and cross-disciplinary bridges asscociated with the broad domain of topics, fields, and methods associated with the FMC-P.
        -  Metrics - Prism/Pokemon power chart of community composition, noting specialists relative to generalists
           -  tie to `Working in Public` 'toys', 'stadiums', 'clubs', 'federations' (goal is federations)
+          -  We are a 'stadium' that wants to be a `stratified federation` (i.e. federation with XP leveling)
     - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
-  - Idealist future: Iterative solutions on 'project-scale' strategy produces a vibrant ecosystem of ecosystem which fundamentally changes the face of education and scientific research.
+  - Idealist future:
+    -  Iterative solutions on 'project-scale' strategy produces a vibrant ecosystem of ecosystem which fundamentally changes the face of education and scientific research.
 
 ## Guiding Principles 
 ### Universal Design
