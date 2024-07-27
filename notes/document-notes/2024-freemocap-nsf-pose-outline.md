@@ -290,6 +290,8 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
 - Follow bylaws
 #### Governance
 - Crib `numpy`'s notes
+- Follow Open Finances and Open Everything procedures (e.g. Backyard Brains)
+
 #### Responsibilities:
 - Support and development for core software(s)
 - Support Research in related fields (including training, mentorship, and grant support)
@@ -561,7 +563,6 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 
 ### Sustainability 
 #### Definitions, Strategies, Goals, and Metrics
-
 - Community growth metrics
   - Raw numbers (more users is good)
   - Global distribution and spread should match popultion density
@@ -570,10 +571,20 @@ Activities to bring us from current status towards the Ideal Perfect status desc
     - Maximize 'velocity' (`extracted user growth` non-stagnant, e.g. `anti-paradox-of-active-user` protocols)
 - Software quality
   - Generic validation metrics should be strictly monotonically increasing
-    - i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time
+    - i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time (see `Validation`)
 #### **"Sustainability through replicability"**
   - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
   - Good for other people from wildly different domains (not relevant to FMC-F mission)
   - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
 
 
+
+#### Security and Privacy
+- Fully offline local processing option
+  - Users can always run totally dark in no-internet environments
+- Google Cloud Platform for secrets management
+  - Following industry standard based on Google Cloud Platform recommendations
+- Matrix homeserver for privacy, security, consistency
+  - Affiliate with large and vibrant open source community around the `Matrix` specification
+    - Let them figure out the encryption/security/privacy stuff
+- Full instruction set on how to duplicate infrastructure with documentation and tutorials
