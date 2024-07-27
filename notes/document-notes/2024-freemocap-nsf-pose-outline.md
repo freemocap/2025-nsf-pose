@@ -499,5 +499,3 @@ Activities to bring us from current status towards the Ideal Perfect status desc
   - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
 
 
-
-
