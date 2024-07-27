@@ -71,7 +71,7 @@ Describe the Ideal Perfect Future vision of...
       - Documentation and covert education
   
 ### The FreeMoCap Community (FMC-C)
-  - Broad and deep user base, integrating (<3d space):
+  - Broad and deep user base, integrating (>3d space):
     - User/Developers
     - Scientist/Artists
     - Student/Expert
