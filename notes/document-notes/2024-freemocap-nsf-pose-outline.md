@@ -134,7 +134,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 ### Ecosystem establishment and Growth
 ### Organization and Governance
 ### Continuous Development, Integration, Evaluation Model 
-- Development
+#### Development
   - Core:
     - Architecture
     - Functionality 
@@ -148,12 +148,54 @@ Activities to bring us from current status towards the Ideal Perfect status desc
       - Triage
       - RTFM requests
       - Sleuthing
-  - Feature Development
-    - Roadmaps
+  - Roadmaps
     - Skelly Enhancement Proposals (SEP's)
       - Like PEP system
       - Post in public forum (GH Discussion board? Bridge/sync with Community space)
+      - Topics
+        - Core
+        - Feature request
+        - Quality of Life request
+        - Protocol change request (i.e. style guide, naming conventions)
+        - Data model change
   - Add-on support
+    - Plug-in system
+    - Templates provided per-sub-skelly-repo
+      - Maintain consistent style-guide and consistent naming standards
+#### Integration
+  - Automated versioning/release cycle
+  - `Git flow` version control model `CONTRIBUTING.md`
+  - Backwards compatibility, deprecation and Long Term Support (LTS) versions
+#### Evalution
+- Testing 
+  - Automated tests framework
+    - Quick tests on commit to PR
+    - Full tests on merge to `main`
+    - Testing for:
+      - stability (unit tests)
+      - security (e.g. dependabot),
+      - replicability (e.g. test datasets)
+  - Validation
+    - Is the core tool providing accurate measurements of world?
+    - External Validation
+      - Against 'Gold Standard' marker-based mocap (e.g. Qualisys)
+      - Ideally using standard mocap validation techniques from clinical biomechanics (ISB?)
+    - Internal Validation 
+      - Validation within a given dataset via error residuals,i.e. 
+        - Reprojection error (2d tracker validation)
+        - Rigid body correction residuals (3d data validation)
+  - Diagnostics
+    - Minimal requirements to maximize accessibility
+      - Understanding and clearly defining 'minimum  specs' to achieve viable output
+      - Strive to decrease these minimums while remining mindful of trade-offs
+      - Minimum reqs also define max speed, relevant to realtime applications 
+    - High-water marks and benchmarks
+      - What is the best performance possible with unconstrained time and resources?
+        - Speed (real-time processing)
+          - FPS on standardized PCs at Min, Rec, Max setttings
+        - Accuracy (scientific applications)
+          - Validation score on Min, Rec, Max settings
+
 
 ### Community Building
 
