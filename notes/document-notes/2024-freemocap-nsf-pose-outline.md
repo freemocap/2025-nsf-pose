@@ -66,7 +66,12 @@ How we will help the world
 - Maximize accessibility
 - Build vibrant community of user/developers
 - Develop implicit educational methods
-- Change the face of education and scientific research
+- The long term potential of a generative plan is difficult to constrain
+  - Meager success: New useful tool and small body of research
+  - Expected outcomes: 
+    - Create new sub-field around human movement, comprising a community and body of literature centered around integerated 'Laser Skeleton' research (Gestalt of vision + motor is greater than the sum of its parts)
+    - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
+  - Idealist future: Change the face of education and scientific research
  
 ## Long Term Vision
 - Describe the Ideal Perfect Future vision of FMC 
