@@ -38,11 +38,15 @@ How we will help the world
 ##### Universal Access
 - **Education focus**
   - to avoid [paradox of the active user]
+  
   - foster **long term user relationships**
   - encourage community engagement
     - Push user-student into 'zone of proximal development'
     - Provide easy access to resources (AI, static, community)
   - (see **AI Simulacrum Mentorship**)
+  - Covert education:
+    - Using the thing should teach you how it works
+    - ZoPD & WYLTKM-bot
 - **Maintain a True Minimum**
   - **Hardware**
     - Understand and maintain an option to run with the barest, most generic, and lowest-possible cost hardware,
@@ -143,7 +147,7 @@ Describe the Ideal Perfect Future vision of...
       - Lives in local app (either connect to existing API via API key, run a local model, or use the FMC-F SkellyModel endpoint (requires account))
       - See [Simulacrum Support]()
   
-  - Infrastructure Table:
+  - Infrastructure Table (cross each with `current`, `in development`, `planning`)
       - Technical Capacities 
       - Infrastructure
       - Tools and Frameworks
