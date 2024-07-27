@@ -62,8 +62,11 @@ How we will help the world
     - We need to build a better ship
       - f-ing ASAP
 
-### Guiding Principles 
-#### Universal Design
+## Long Term Vision
+Describe the Ideal Perfect Future vision of... 
+
+## Guiding Principles 
+### Universal Design
 - "When anyone can use it, everyone benefits"
 - Same tool for 0XP as for professional
 - "The [aspirational goal] of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
@@ -71,7 +74,7 @@ How we will help the world
   - The key to sustainability is a growing, active, diverse, and vibrant userbase
   - Universal design attracts the widest possible userbase
 
-#### Universal Access
+### Universal Access
 - **Education focus**
   - to avoid [paradox of the active user]
   - foster **long term user relationships**
@@ -114,7 +117,7 @@ How we will help the world
           - Unspecified
       - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
 
-#### No artificial scarcity
+### No artificial scarcity
 - **"Knowledge is free, labor is unbelievable expensive"**
 - Anything that can be duplicated infinitely is free for everyone
   - Software
@@ -132,32 +135,31 @@ How we will help the world
   - Cloud storage
   - Camera hardware
  
-#### Community Focus
+### Community Focus
  - Emphasize that the core of the FMC-P is the community of users
  - The software artifacts are the fruit of the garden
  - Develop lateral connections, encourage growth, exploration, community support 
 
 
-#### Aggressively open source
+### Aggressively open source
 - **"The open source community *is* what the scientific community pretends to be"**
 - FOSS as a matter of moral imperative centered on the premises of Univerisal Design and Universal Access
   - Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'
   - See "why open source misses the point"
 - Encourage conversations around moral and ethical contexts of current context of the project and society at large
-- **Moral intentionality without Zealotry**
+- **Morality without Zealotry**
   - We have our conversations clearly, but do not exclude those who misalign provided they aren't operating in opposition to our values
   - More about being aware, explicit, and intentional around moral and ethical decisions
   - Encourage and allow non-FOSS aligned activities through the `For-Profit` entity via B2B connections with external and spin-off entitities
     - Charge according to degree of mis-alignment with core values
 
 
-## Long Term Vision
-Describe the Ideal Perfect Future vision of... 
 
-### The FreeMoCap Project (FMC-P)
-  (include tables crossing each list with `current`, `in development`, `planned`)
-#### Artifacts
-##### FreeMoCap Software(s)
+## The FreeMoCap Project (FMC)
+  - (include tables crossing each list with `current`, `in development`, `planned`)
+ 
+### Artifacts
+#### FreeMoCap Software(s)
 - Core FreeMoCap Software(s)
     - Fully integrated FOSS platform for Laser Skeleton research/recording
       - Fully-body mocap 
@@ -183,8 +185,8 @@ Describe the Ideal Perfect Future vision of...
       - SkellyBlender (Animation output via Blender addon)
       - SkellyMetrics (Analysis pipelines and 'report' building)
       - SkellyBot (AI and LLM support)
-    - 
-##### Documentation and Educational material
+     
+#### Documentation and Educational material
   -  Providing best-available educational materials, tutorials, and demos for related areas (link to existing educational material for general topics, focus on our specific use case)
     - Tech (e.g. Computer vision, Cameras, CNNs, etc)
     - Math (e.g. Linear algebra, timeseries analysis, computational geometry, kinematic/ kinetic analysis)
@@ -199,14 +201,11 @@ Describe the Ideal Perfect Future vision of...
       - Lives on freemocap.org chat
       - Lives in Community server (summonable, requests consent before interacting with new users)
       - Lives in local app (either connect to existing API via API key, run a local model, or use the FMC-F SkellyModel endpoint (requires account))
-      - See [Simulacrum Support]()
-  
-  - Infrastructure Table (cross each with `current`, `in development`, `planning`)
-      - Technical Capacities 
-      - Infrastructure
-      - Tools and Frameworks
-      - Documentation and covert education
-  
+      - See [Simulacrum Support]()  
+#### Data/Model Assets
+  - See `FMC-F/Revenue/Federated and co-op datasets and models
+
+
 ### The FreeMoCap Community (FMC-C)
   - Broad and deep user base, integrating (>3d space):
     - User/Developers
