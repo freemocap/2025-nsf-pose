@@ -96,14 +96,13 @@ How we will help the world
   - Cloud storage
   - Camera hardware
  
+##### Community Focus
+ - Emphasize that the core of the FMC-P is the community of users
+ - The software artifacts are the fruit of the garden
+ - Develop lateral connections, encourage growth, exploration, community support 
 
-- Societal or National Need for the OSE
-  - Current model not fit for present and future needs
-  - Need alternative models, organizations, infrastructures for science and education
-    - Generative and self sustaining
-      - Von Neumann machine - Sustainibility through replicability 
-  - Two Loops theory of social progress
-- Anticipated Broader Impacts of the OSE
+
+
 
 ##### Aggressively open source
 - **"The open source community *is* what the scientific community pretends to be"**
@@ -117,7 +116,19 @@ How we will help the world
   - Encourage and allow non-FOSS aligned activities through the `For-Profit` entity via B2B connections with external and spin-off entitities
     - Charge according to degree of mis-alignment with core values
 
-
+#### Societal or National Need for the OSE
+  - Current model not fit for present and future needs
+  - Need alternative models, organizations, infrastructures for science and education
+    - Generative and self sustaining
+      - Von Neumann machine - Sustainibility through replicability 
+  - Two Loops theory of social progress
+    - Not saying we should burn it all to the ground
+    - It's already burning
+    - We need to build a better ship
+      - f-ing ASAP
+#### Anticipated Broader Impacts of the OSE
+  - Lots, probably!
+  - 
 ## Long Term Vision for
 Describe the Ideal Perfect Future vision of... 
 
@@ -140,7 +151,7 @@ Describe the Ideal Perfect Future vision of...
     - Can also serve as a generic Computer Vision platform
       - via recombination of other plugins around `skellycam` package
   - Composed of various sub-skelly repos, each of which:
-    - Can operate in a standalone format
+    - Can operate in a standalone format or as plug-in to core software
     - Matches general architecture and CI/CD structure of parent `freemocap` software
     - Notables: 
       - SkellyCam (cameras)
@@ -224,10 +235,35 @@ Describe the Ideal Perfect Future vision of...
 
 
 ### The FreeMoCap Foundation (FMC-F)
-  - 501c3
-  - Indpendently support FreeMoCap Project/Community
-  - Handle security, privacy of data, codebase,  and user info
-  - Paying a core set of maintainer/developers
+- Economically self-sustaining combination research/software development institute 
+- 501c3 IRS certified public charity
+- **"Sustainability through replicability"**
+  - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
+  - Good for other people from wildly different domains (not relevant to FMC-F mission)
+  - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
+#### Responsibilities:
+- Support and development for core software(s)
+- Support Research in related fields (including training, mentorship, and grant support)
+  - Neuroscience (human and non-human)
+    - Motor control (mocap)
+    - Visual/oculomotor neuroscience (eye tracking)
+    - Developmental studies
+  - Biomechanics
+  - Applied clinical research
+    - Injury rehabilitation
+    - Gait and posture
+    - Age-related
+    - Developmental
+  - Robotics
+  - etc
+- Manage annual workshop and conference 
+  - `FreeMoCamp` is like summer camp, hackathon, workshop, education/training focus
+  - `FreeMoCon` more of a conference vibe
+  - Pair them up, so `FreeMoCamp` runs during the week and leads straight into `FreeMoCon` on the weekend
+- Handle security, privacy of data, codebase, and user info
+- Pay salaries of a core set of maintainer/developers
+- Offer contract work to the FreeMoCap Community
+  
 #### Revenue streams
   - Federated/Co-op models and datasets
     - Federated datasets
@@ -235,8 +271,8 @@ Describe the Ideal Perfect Future vision of...
     - ML/AI model(s)
       - Train our own CNN Tracker and LLM via 'Federated learning' scheme
       - Architecture allows any user to train/fine-tune the FMC Base Models using their private data, OPTIONALLY contribute updated model weights to the FMC-Org (e.g. see [`Flower`](https://flower.ai))
-  - For Profit sub-entitie(s) 
-    - `Skellytech`
+  - For Profit sub-entity
+    - `Skellytech, LLC`
       - B2B connections and sub-licensing of:
         - Core-software 
         - Derivative models (co-op data ownership)
@@ -268,9 +304,13 @@ Describe the Ideal Perfect Future vision of...
 ## Proposed actvitities
 Activities to bring us from current status towards the Ideal Perfect status described above
 ### Ecosystem establishment and Growth
+- FreeMoCamp/Con
+- Userbase analysis
+- Community Challenges
 ### Organization and Governance
-### Continuous Development, Integration, Evaluation Model 
+- Build administrative infrastructure
 #### Development
+### Continuous Development, Integration, Evaluation Model 
   - Core:
     - Architecture
     - Functionality 
