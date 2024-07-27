@@ -170,7 +170,7 @@ How we will help the world
 
 
 ## The FreeMoCap Project (FMC)
-  - (include tables crossing each list with `current`, `in development`, `planned`)
+Table 1 - (Items below crossed with `current`, `in development`, `planned`)
  
 ### Artifacts
 #### FreeMoCap Software(s)
