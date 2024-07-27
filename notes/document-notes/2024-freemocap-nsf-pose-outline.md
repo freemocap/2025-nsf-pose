@@ -174,11 +174,12 @@ How we will help the world
  
 ### Artifacts
 #### FreeMoCap Software(s)
-- Core FreeMoCap Software(s)
+- Core FreeMoCap Software(s) (FMC-Core)
     - Fully integrated FOSS platform for Laser Skeleton research/recording
       - Fully-body mocap 
         - realtime, animator and/or science focus
-      - 3d Gaze
+      - Face mesh tracking
+      - 3d gaze and eye tracking
         - Webcam eye tracker
         - Plugin support for Pupil labs
         - VR/HMD support
