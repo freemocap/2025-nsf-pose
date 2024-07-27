@@ -211,14 +211,18 @@ Describe the Ideal Perfect Future vision of...
     - User/Developers
     - Scientist/Artists
     - Student/Expert
-    - Any definable vector 
-      - `Mentorship` vector
-        - Defined as another user's UserStateVector (USV)
-      - `Community` vector
-        - Defined as median USV of users within a given community (with XP level > `threshold`)
+
   - Nurture long term user support, measured (consentually) via interactions with software and community spaces
-    - Model as a trajectory though the 3d space defined above
-      - User state on each level: 
+    - Model User as a dynamic trajectory though the >3d space with axes:
+      - User vs Developer
+      - Scientist vs Artist
+      - Novice vs Expert
+      - also - any definable vector 
+        - `Mentorship` vector
+          - Defined as another user's UserStateVector (USV)
+        - `Community` vector
+          - Defined as median USV of users within a given community (with XP level > `threshold`)
+      - Use rigid milestones, stochastic use-matching, and AI-analysis to determine each users's 'Status' relative to each sub-topic, sub-skill, sub-community
         - Proficiency
         - Interest
         - Experience
