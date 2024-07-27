@@ -11,23 +11,72 @@ How we will help the world
 
 ### Context of the OSE
 #### Context
-- The problem of universities
-  - Exclusionary by design
-  - Ever hungry corporate engine that driven by student debt
-    - Tuition room and board
-    - Overhead charges
-  - 'Education as a filter' \cite{arrow1970}
-    - Need for expansive training methods
-  - The 'banking model'
-- 'The open source community *is* what the scientific community pretends to be'
+##### The problem of universities
+- Exclusionary by design
+- Ever hungry corporate engine that driven by student debt
+  - Tuition room and board
+  - Overhead charges
+- 'Education as a filter' \cite{arrow1970}
+  - Need for expansive training methods
+- The 'banking model' of education
+  - Paolo friere
+##### 'The open source community *is* what the scientific community pretends to be'
   - The problem of cottage industries
   - The problem of publication (cite that guy's blog)
   - The story of Grease Pencil
-#### Vision
-- Guiding Principles and Long Term Vision for the OSE
-  - Universal Design
-  - Knowledge is Free
-  - No artificial scarcity
+  - 
+#### Guiding Principles and Long Term Vision for the OSE
+##### Universal Design
+- "When anyone can use it, everyone benefits"
+- Same tool for 0XP as for professional
+- "The [aspirational goal] of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
+- **Sustainability through accessibility**
+  - The key to sustainability is a growing, active, diverse, and vibrant userbase
+  - Universal design attracts the widest possible userbase
+  - **Education focus:**
+    - to avoid [paradox of the active user]
+    - foster long term user relationships
+    - encourage community engagement
+      - Push user-student into 'zone of proximal development'
+      - Provide easy access to resources (AI, static, community)
+    - (see **AI Simulacrum Mentorship**)
+- **Maintain a True Minimum**
+  - Understand and maintain an option to run with the barest possible hardware
+  - Focus and maintain a [generic hardware] pipeline as the core path
+    - Using specific proprietary hardware (e.g. stereocams, kinect) can be developed as secondary routes and/or via a plugin system
+    - Clients may request development of a proprietary pipeline, in exchange for funds to support it
+  - (see **Evaluation/Diagnostics**)
+
+
+##### No artificial scarcity
+- **"Knowledge is free, labor is unbelievable expensive"**
+- Anything that can be duplicated infinitely is free for everyone
+  - Software
+  - Documentation
+  - Static documentation/tutorial/educational material, etc
+- Anything that is finite (or costs us money) can be charged
+  - Human labor
+    - Service models
+      - Setup/planning
+      - Dedicated technical support
+    - Custom Software
+  - Server side processing
+    - Mocap data
+    - AI LLM
+  - Cloud storage
+  - Camera hardware
+ 
+  - Sliding scale pay options [HumbleBundleModel]
+    - Recommended cost relative to break-even.
+    - Give user option to allocate overage to different programs/departments
+      - (by necessity, the recommendations will be followed if at all possible, adjustments may be made to ensure long term stability of the FMC-Org.
+      - Its kinda like a voting system, but with money)
+      - Support for:
+        - New features
+        - Specific projects
+        - Scholarship/community grants program
+        - Unspecified
+    - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
 - Societal or National Need for the OSE
   - Current model not fit for present and future needs
   - Need alternative models, organizations, infrastructures for science and education
@@ -36,6 +85,12 @@ How we will help the world
   - Two Loops theory of social progress
 - Anticipated Broader Impacts of the OSE
 
+##### Aggressively open source
+- FOSS as a matter of moral imperative centered on the premises of Univerisal Design and Universal Access
+  - Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'
+  - See "why open source misses the point"
+
+
 ## Long Term Vision for
 Describe the Ideal Perfect Future vision of... 
 
@@ -43,10 +98,10 @@ Describe the Ideal Perfect Future vision of...
   (include tables crossing each list with `current`, `in development`, `planned`)
 #### Artifacts
 ##### FreeMoCap Software(s)
-  - Core FreeMoCap Software(s)
-    - Composed of various sub-skelly repos, each of which:
-      - Can operate in a standalone format
-      - Matches general architecture and CI/CD structure of parent `freemocap` software
+- Core FreeMoCap Software(s)
+  - Composed of various sub-skelly repos, each of which:
+    - Can operate in a standalone format
+    - Matches general architecture and CI/CD structure of parent `freemocap` software
 ##### Documentation and Educational material
   -  Providing best-available educational materials, tutorials, and demos for related areas (link to existing educational material for general topics, focus on our specific use case)
     - Tech (e.g. Computer vision, Cameras, CNNs, etc)
