@@ -26,6 +26,7 @@ How we will help the world
   - The story of Grease Pencil
   - 
 #### Guiding Principles and Long Term Vision for the OSE
+
 ##### Universal Design
 - "When anyone can use it, everyone benefits"
 - Same tool for 0XP as for professional
@@ -37,33 +38,42 @@ How we will help the world
 ##### Universal Access
 - **Education focus**
   - to avoid [paradox of the active user]
-  - foster long term user relationships
+  - foster **long term user relationships**
   - encourage community engagement
     - Push user-student into 'zone of proximal development'
     - Provide easy access to resources (AI, static, community)
   - (see **AI Simulacrum Mentorship**)
 - **Maintain a True Minimum**
-  - **Hardware: **
+  - **Hardware**
     - Understand and maintain an option to run with the barest, most generic, and lowest-possible cost hardware,
     - Focus and maintain a [generic hardware] pipeline as the core path
       - Specialized tools (e.g. sterocam, eye trackiner, emg, forceplates) and proprietary options (e.g. iPhone, Basler/FLIR cameras, etc) added via plug-in system
       - Developed by community and/or upon client request 
   - **Software**    
     - Maintain and understand requirements for different outcomes (specific to defined use cases)     
-      - Minimal requirements
-      - Recommended requiremnets
+      - Minimal requirements (to get a viable output)
+      - Recommended requirements
+        - Default default (for first-timers)
+        - Per use case
+          - Max speed (e.g. real-time, long, high-res, high-fps recordings)
+          - Max accuracy (e.g. scientists, clincians, artistic/atheltic performance)
+      - Maximum requirements
+        - Specs beyond which you won't see an improvement in results 
+        - Determined by understand technical bottlenecks
     - (see **Evaluation/Diagnostics**)
-- Sliding scale pay options [HumbleBundleModel]
-  - Recommended cost relative to break-even.
-  - Give user option to allocate overage to different programs/departments
-    - (by necessity, the recommendations will be followed if at all possible, adjustments may be made to ensure long term stability of the FMC-Org.
-    - Its kinda like a voting system, but with money)
-    - Support for:
-      - New features
-      - Specific projects
-      - Scholarship/community grants program
-      - Unspecified
-  - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
+  - **Cost**
+    - Methods to avoid price-barrier for paid aspects of FMC-F Activities (see #no artificial scarcity, # revenue streams)
+    - [HumbleBundleModel] - Sliding scale pay options 
+      - Recommended cost relative to break-even.
+      - Give user option to allocate overage to different programs/departments
+        - (by necessity, the recommendations will be followed if at all possible, adjustments may be made to ensure long term stability of the FMC-Org.
+        - Its kinda like a voting system, but with money)
+        - Support for:
+          - New features
+          - Specific projects
+          - Scholarship/community grants program
+          - Unspecified
+      - Users requesting at-or-below cost must submit a request, which can be evaluated and supported via the 'communal support' scholarship/money bucket [CommunityGrantSystem]
 
 ##### No artificial scarcity
 - **"Knowledge is free, labor is unbelievable expensive"**
@@ -93,9 +103,16 @@ How we will help the world
 - Anticipated Broader Impacts of the OSE
 
 ##### Aggressively open source
+- **"The open source community *is* what the scientific community pretends to be"**
 - FOSS as a matter of moral imperative centered on the premises of Univerisal Design and Universal Access
   - Identification of strategic advantage within the contexts of FOSS being the 'right thing to do'
   - See "why open source misses the point"
+- Encourage conversations around moral and ethical contexts of current context of the project and society at large
+- **Moral intentionality without Zealotry**
+  - We have our conversations clearly, but do not exclude those who misalign provided they aren't operating in opposition to our values
+  - More about being aware, explicit, and intentional around moral and ethical decisions
+  - Encourage and allow non-FOSS aligned activities through the `For-Profit` entity via B2B connections with external and spin-off entitities
+    - Charge according to degree of mis-alignment with core values
 
 
 ## Long Term Vision for
