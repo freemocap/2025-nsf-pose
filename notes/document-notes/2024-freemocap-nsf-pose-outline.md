@@ -135,7 +135,7 @@ How we will help the world
   - Software
   - Documentation
   - Static documentation/tutorial/educational material, etc
-- Anything that is finite (or costs us money) can be charged
+- Anything that is finite (or costs us money) can be charged, e.g.:
   - Human labor
     - Service models
       - Setup/planning
@@ -305,8 +305,8 @@ How we will help the world
     - first, dropship standard cameras and packages (low-to-high quality)
     - later, develop custom cameras (including education focused cameras)
   - Donation drives 
-    - Direct pushes
-    - On checkout
+    - Direct donation pushes
+    - Ask for addon donation on checkout when purchasing other stuff (Humble Bundle model)
   - Clients (Contracting from FMC community)
     - Custom code/software
     - Project planning and consultation 
@@ -315,6 +315,8 @@ How we will help the world
   - Annual Workshop (FreeMoCamp)
   - Annual Conference (FreeMoCon)
   - Server-side processing
+    - Processing users' data using high-end hardware (more than they are likely to have available)
+    - AI/LLM application useage     
   - Cloud data storage
 
 
