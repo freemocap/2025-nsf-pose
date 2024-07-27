@@ -212,7 +212,7 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
   -  Providing best-available educational materials, tutorials, and demos for related areas (link to existing educational material for general topics, focus on our specific use case)
     - Tech (e.g. Computer vision, Cameras, CNNs, etc)
     - Math (e.g. Linear algebra, timeseries analysis, computational geometry, kinematic/ kinetic analysis)
-    - Visualization (e.g. data visualization, animation, etc)
+    - Visualization (e.g. data visualization, animation, video game development, etc)
     - Science (e.g. human/animal movement, perception/action, etc )
   - Static Docs
     - freemocap.org/documentation
