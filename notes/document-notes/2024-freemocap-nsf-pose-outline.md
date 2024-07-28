@@ -616,16 +616,16 @@ Activities to bring us from current status towards the Ideal Perfect status desc
     - Ten-year plan milestone:
       - Calculate forecasts based on various optimistic/realistic/pessimistic parameters
       - MILESTONE(S): 10 year operational window at each level
-#### Sustainability plan 
-Virtue ethics approach centered around 
-- **"Sustainability through quality"**
+#### Sustainability plan: a virtue ethics approach
+##### **"Sustainability through quality"**
   - Generic validation metrics should be strictly monotonically increasing
     - i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time (see `Validation`)
-#### **"Sustainability through replicability"**
+##### **"Sustainability through replicability"**
   - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
   - Good for other people from wildly different domains (not relevant to FMC-F mission)
   - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
-#### ****
+##### **Sustainability through revenue**
+Other big FOSS orgs - Patchwork financials
 
 
 ### Security and Privacy
