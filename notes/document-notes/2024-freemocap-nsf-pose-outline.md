@@ -506,7 +506,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
       - i.e. each member has a fixed number of voting points to distribute among entries
       - Maybe **Badges** provide additional voting points?
 
-##  ## Gamified documentation/software training
+## Gamified documentation/software training
 
 - Offer **Badges** and stuff in discord for milestones, i.e.
   - First contact - open the software
@@ -521,8 +521,13 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 
 ### Organization and Governance
 - Build administrative infrastructure
-- Developing SOPs
+  - Financial planning and forecasting
+  - Legal definitions, B2B contracts, Co-op Datasets & Model ownership and dividend payouts.
+- Developing Standard Operating Procedures
+  - Operational 
+  - Organizational   
 - Establish Core maintainer actvitites
+  - Build team from relevant expertise
 - Develop `Skelly Enhancement Proposal` system
  
 ### Continuous Development, Integration, Evaluation Model 
