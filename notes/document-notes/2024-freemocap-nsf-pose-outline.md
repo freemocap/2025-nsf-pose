@@ -569,16 +569,24 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 
 ### Sustainability 
 #### Definitions, Strategies, Goals, and Metrics
-- Community growth metrics
+###### Community growth metrics
   - Raw numbers (more users is good)
-  - Global distribution and spread should match popultion density
+  
+  - Community make-up
+    - Topics of interest
+    - Expertise and background
+    - Demographics
+      - Young appeal - Good for education and outreach goals
+      - Older reach - Good for professional appeal/software quality
+      - Geography -  Global distribution and spread should match popultion density    
+      - Racial/economic/gender distributions should match population statistics 
   - Individual user trajectories
     - Minimize 'bounce' (Single pings)
     - Maximize 'velocity' (`extracted user growth` non-stagnant, e.g. `anti-paradox-of-active-user` protocols)
-  - Organizational stabilty metrics
-    - Ten-year plan milestone:
-      - Calculate forecasts based on various optimistic/realistic/pessimistic parameters
-      - MILESTONE(S): 10 year operational window at each level
+###### Organizational stabilty metrics
+  - Ten-year plan milestone:
+    - Calculate forecasts based on various optimistic/realistic/pessimistic parameters
+    - MILESTONE(S): 10 year operational window at each level
 #### Sustainability plan: a virtue ethics approach
 ##### **"Sustainability through quality"**
   - Generic validation metrics should be strictly monotonically increasing
