@@ -506,7 +506,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
       - i.e. each member has a fixed number of voting points to distribute among entries
       - Maybe **Badges** provide additional voting points?
 
-#### Gamified documentation/software training
+##  ## Gamified documentation/software training
 
 - Offer **Badges** and stuff in discord for milestones, i.e.
   - First contact - open the software
