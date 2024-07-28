@@ -613,9 +613,12 @@ Activities to bring us from current status towards the Ideal Perfect status desc
     - Minimize 'bounce' (Single pings)
     - Maximize 'velocity' (`extracted user growth` non-stagnant, e.g. `anti-paradox-of-active-user` protocols)
   - Organizational stabilty metrics
-    - Ten-year plan: 
-      - Calculate forecasts on 
-- Software quality
+    - Ten-year plan milestone:
+      - Calculate forecasts based on various optimistic/realistic/pessimistic parameters
+      - MILESTONE(S): 10 year operational window at each level
+#### Sustainability plan 
+Virtue ethics approach centered around 
+- **"Sustainability through quality"**
   - Generic validation metrics should be strictly monotonically increasing
     - i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time (see `Validation`)
 #### **"Sustainability through replicability"**
