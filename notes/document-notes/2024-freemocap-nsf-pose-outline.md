@@ -367,43 +367,6 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
     - Cost dependent on 'distance' from AGPLv3 (AGPL -> GPL -> LGPL -> Apache/MIT -> ... -> Proprietary)
   - Can offer sub-license agreement for existing software, or to create custom software solutions
    
-#### Revenue streams
-  - Federated/Co-op models and datasets
-    - Federated datasets
-      - e.g. Users able to 'donate' their data, while retaining ownership (earning divdends)
-    - ML/AI model(s)
-      - Train our own CNN Tracker and LLM via 'Federated learning' scheme
-      - Architecture allows any user to train/fine-tune the FMC Base Models using their private data, OPTIONALLY contribute updated model weights to the FMC-Org (e.g. see [`Flower`](https://flower.ai))
-  - For Profit sub-entity
-    - `Skellytech, LLC`
-      - B2B connections and sub-licensing of:
-        - Core-software 
-        - Derivative models (co-op data ownership)
-      - Any arrangement that does not fall under the 'charitable activities' allowed by 501c3 guidelines
-    - Spin-off companies (FreeMoCap as tech incubator)
-      - Incubator support for FMCF member/students who want to start businesses or organizations based on freemocap related technology and tools
-      - Offer umbrella support (we support them with our org infrastructure, e.g. grant support), or
-      - Launchpad support (pathway to independence)
-      - Offer exit (any time) and re-entry (if possoible) mechanisms
-  - Manage grants, both for org (e.g. NSF POSE) and individual research grants for members of FMCF (e.g. R01's and F32's)
-    - Offering extremly low overhead costs, relative to universities. e.g. 10-15%
-  - Selling hardware/cameras
-    - first, dropship standard cameras and packages (low-to-high quality)
-    - later, develop custom cameras (including education focused cameras)
-  - Donation drives 
-    - Direct donation pushes
-    - Ask for addon donation on checkout when purchasing other stuff (Humble Bundle model)
-  - Clients (Contracting from FMC community)
-    - Custom code/software
-    - Project planning and consultation 
-    - Technical support
-    - Direct teaching/training
-  - Annual Workshop (FreeMoCamp)
-  - Annual Conference (FreeMoCon)
-  - Server-side processing
-    - Processing users' data using high-end hardware (more than they are likely to have available)
-    - AI/LLM application useage     
-  - Cloud data storage
 
 
 ## Proposed actvitities
@@ -626,6 +589,43 @@ Activities to bring us from current status towards the Ideal Perfect status desc
   - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
 ##### **Sustainability through revenue**
 Other big FOSS orgs - Patchwork financials
+###### Revenue streams
+  - Federated/Co-op models and datasets
+    - Federated datasets
+      - e.g. Users able to 'donate' their data, while retaining ownership (earning divdends)
+    - ML/AI model(s)
+      - Train our own CNN Tracker and LLM via 'Federated learning' scheme
+      - Architecture allows any user to train/fine-tune the FMC Base Models using their private data, OPTIONALLY contribute updated model weights to the FMC-Org (e.g. see [`Flower`](https://flower.ai))
+  - For Profit sub-entity
+    - `Skellytech, LLC`
+      - B2B connections and sub-licensing of:
+        - Core-software 
+        - Derivative models (co-op data ownership)
+      - Any arrangement that does not fall under the 'charitable activities' allowed by 501c3 guidelines
+    - Spin-off companies (FreeMoCap as tech incubator)
+      - Incubator support for FMCF member/students who want to start businesses or organizations based on freemocap related technology and tools
+      - Offer umbrella support (we support them with our org infrastructure, e.g. grant support), or
+      - Launchpad support (pathway to independence)
+      - Offer exit (any time) and re-entry (if possoible) mechanisms
+  - Manage grants, both for org (e.g. NSF POSE) and individual research grants for members of FMCF (e.g. R01's and F32's)
+    - Offering extremly low overhead costs, relative to universities. e.g. 10-15%
+  - Selling hardware/cameras
+    - first, dropship standard cameras and packages (low-to-high quality)
+    - later, develop custom cameras (including education focused cameras)
+  - Donation drives 
+    - Direct donation pushes
+    - Ask for addon donation on checkout when purchasing other stuff (Humble Bundle model)
+  - Clients (Contracting from FMC community)
+    - Custom code/software
+    - Project planning and consultation 
+    - Technical support
+    - Direct teaching/training
+  - Annual Workshop (FreeMoCamp)
+  - Annual Conference (FreeMoCon)
+  - Server-side processing
+    - Processing users' data using high-end hardware (more than they are likely to have available)
+    - AI/LLM application useage     
+  - Cloud data storage
 
 
 ### Security and Privacy
