@@ -612,6 +612,9 @@ Activities to bring us from current status towards the Ideal Perfect status desc
   - Individual user trajectories
     - Minimize 'bounce' (Single pings)
     - Maximize 'velocity' (`extracted user growth` non-stagnant, e.g. `anti-paradox-of-active-user` protocols)
+  - Organizational stabilty metrics
+    - Ten-year plan: 
+      - Calculate forecasts on 
 - Software quality
   - Generic validation metrics should be strictly monotonically increasing
     - i.e. global measure of 'goodness' of mocap data should ALWAYS increase over time (see `Validation`)
@@ -619,7 +622,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
   - Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
   - Good for other people from wildly different domains (not relevant to FMC-F mission)
   - Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
-
+#### ****
 
 
 ### Security and Privacy
