@@ -64,9 +64,11 @@ How we will help the world
   - ...does not reward necessary activites to build and sustain an OSE
   - ...is not equipped to address present and rising societal needs and challenges
 
-##### The problem of cottage industries
-
-- The problem of publication (cite that guy's blog)
+##### On gardens and cottages
+- Need for interoperable research and communication methods, 
+  - 'Cottage Industry' model is siloed, inefficient, 
+  - 'Garden Ecosystem' for development of self-supportive ecosystem (like 3-sisters from Braiding Sweetgrass)
+- The problem of publication ([Dan Goodman stuff](http://neural-reckoning.org/video_metascience_peer_review.html))
 - The story of Grease Pencil
 
 ### Need and Gap
