@@ -133,7 +133,7 @@ How we will help the world
     - minimize 'time to skelly' [TTS]
     - Inside out education
       - Greased rail to the good stuff
-      - Educational routes from their towards whichever sub-field draws the user [Plot-hook]
+      - Educational routes from their towards whichever sub-field draws the user [Plot-hook-strategy]
 - **Education focus**
   - to avoid [paradox of the active user]
   - foster **long term user relationships**
