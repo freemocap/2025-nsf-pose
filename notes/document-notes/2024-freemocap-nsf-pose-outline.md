@@ -35,7 +35,6 @@ How we will help the world
 - Privacy violations
 - Worker/social exploitation
 - Economic Disparity -> Access Disparity (and many many other disparities)
-- 
 - Need for new models of scientific research and higher education
   - Needs be self-sustaining
   - Generative (for scale)
