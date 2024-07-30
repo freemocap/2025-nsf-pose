@@ -34,6 +34,13 @@ How we will help the world
 - Corporate mistrust
 - Privacy violations
 - Worker/social exploitation
+- Economic Disparity -> Access Disparity (and many many other disparities)
+- 
+- Need for new models of scientific research and higher education
+  - Needs be self-sustaining
+  - Generative (for scale)
+  - As Autonomous As Possible (allow the fewest to do the most)
+  - Topic/software/hardware agnostic, adaptable, extensible, maintainable, and replicable
 
 #### Ethical context
 
@@ -146,7 +153,7 @@ How we will help the world
         - Determined by understand technical bottlenecks
     - (see **Evaluation/Diagnostics**)
   - **Cost**
-    - Methods to avoid price-barrier for paid aspects of FMC-F Activities (see #no artificial scarcity, # revenue streams)
+    - Methods to avoid price-barrier for paid aspects of [FMC-F] Activities (see #no artificial scarcity, # revenue streams)
     - [HumbleBundleModel] - Sliding scale pay options
       - Recommended cost relative to break-even.
       - Give user option to allocate overage to different programs/departments
@@ -173,7 +180,7 @@ How we will help the world
       - Dedicated technical support
     - Custom Software
   - **Cloud Services (SkellyCloud)**
-    - Offer 'free' tier, tie to open finances, allow community to set primary constants relative to a fixed % of the FMC-F annual budget
+    - Offer 'free' tier, tie to open finances, allow community to set primary constants relative to a fixed % of the [FMC-F] annual budget
     - Server side processing
       - Mocap data
       - AI LLM
@@ -256,12 +263,12 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
   - SkellyBot
     - Lives on freemocap.org chat
     - Lives in Community server (summonable, requests consent before interacting with new users)
-    - Lives in local app (either connect to existing API via API key, run a local model, or use the FMC-F SkellyModel endpoint (requires account))
+    - Lives in local app (either connect to existing API via API key, run a local model, or use the [FMC-F] SkellyModel endpoint (requires account))
     - See AI-assisted-psuedo-mentorship
 
 #### Datasets and Derived Models
 
-- See `FMC-F/Revenue/Federated and co-op datasets and models
+- See `[FMC-F]/Revenue/Federated and co-op datasets and models
 
 ### The FreeMoCap Community (FMC-C)
 
@@ -318,7 +325,7 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
     - managing
     - mediating disputes
 
-### The FreeMoCap Foundation (FMC-F)
+### The FreeMoCap Foundation ([FMC-F])
 
 - Economically self-sustaining combination research/software development institute
 
@@ -349,7 +356,7 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
     - Allows controlled transition plan to more community-driven, decentralized model
 - Transition plan based on relative weighting of Board vs Community voting on key elements (see below)
   - Present: 100% Board (No operating mechanisms that allow for direct community input)
-  - Eventual: 50% Board, 50% Community (FMC-F President is tie-breaker)
+  - Eventual: 50% Board, 50% Community ([FMC-F] President is tie-breaker)
     - In case of true deadlock FMC-C can Hard Fork, but lets hope it doesn't come to that
 - Staged transition to reliance on Community guidance to set various core computational constants (of increasing risk)
   - Community collaboration spotlight winners (Eurovision style voting of 'members', i.e. people with >0XP)
@@ -392,12 +399,12 @@ Table 1 - (Items below crossed with `current`, `in development`, `planned`)
 - Offer contract work to the FreeMoCap Community
 - Manage finances
   - see (Revenue Streams)
-  - Things covered under 'charitable activities' IRS definition are handled by FMC-F
+  - Things covered under 'charitable activities' IRS definition are handled by [FMC-F]
   - Non-charitable activities handled by subsidiary for-profit (Skellytech)
 
 #### Licensing Model
 
-- AGPLv3 for all repos owned by FMC-Foundation
+- AGPLv3 for all repos owned by [FMC-F]oundation
   - "Its a dart frog party, and everyone is invited!"
   - AGPLv3 as protection from exploitation by proprietary softwares
   - reference 'open source misses the point'
@@ -657,9 +664,9 @@ Activities to bring us from current status towards the Ideal Perfect status desc
 
 ##### **"Sustainability through replicability"**
 
-- Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to FMC-F
-- Good for other people from wildly different domains (not relevant to FMC-F mission)
-- Could spawn sub-orgs from with FMC-F (optionally existing within FMC-F umbrella, either as non-profit or for-profit org)
+- Maintain organizational documents, Standard Operating Procedures (SOPs), and eductional outreach to encourage others to create organizations with similar stucture to [FMC-F]
+- Good for other people from wildly different domains (not relevant to [FMC-F] mission)
+- Could spawn sub-orgs from with [FMC-F] (optionally existing within [FMC-F] umbrella, either as non-profit or for-profit org)
 
 ##### **Sustainability through revenue**
 
