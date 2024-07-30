@@ -46,6 +46,7 @@ How we will help the world
   - Likelihood of future violations
   - Need for fast development of FOSS tools before corpo tech dominates
 - Need for decentralized user-directed  FOSS projects
+  - With accompanying  organizational **structures to support**
 - Inaccessiblity of science and technogy
   - Growing Gaps
     - (See NSF Strategic plans)
@@ -66,22 +67,25 @@ How we will help the world
   - ...is not equipped to address present and rising societal needs and challenges
 
 ##### On gardens and cottages
-- Need for interoperable research and communication methods, 
-  - 'Cottage Industry' model is siloed, inefficient, 
+
+- Need for interoperable research and communication methods,
+  - 'Cottage Industry' model is siloed, inefficient,
   - 'Garden Ecosystem' for development of self-supportive ecosystem (like 3-sisters from Braiding Sweetgrass)
 - The problem of publication ([Dan Goodman stuff](http://neural-reckoning.org/video_metascience_peer_review.html))
 - The story of Grease Pencil
 
 ### Need and Gap
+
 - Current model not fit for present and future needs
 - Need alternative models, organizations, infrastructures for science and education
+
   - Generative and self sustaining
     - Von Neumann machine - Sustainibility through replicability
   - As Autonomous As Possible (allow the fewest to do the most)
   - Topic/software/hardware agnostic
   - Multi-scale adaptable, extensible, maintainable, and replicable [SEP]
-
 - Two Loops theory of social progress
+
   - Not saying we should burn it all to the ground
     - It's already burning
   - We need to build a better ship
@@ -90,9 +94,10 @@ How we will help the world
 ## Objectives and Long term vision
 
 ### Aspirational Goals
+
 - Make FreeMoCap the best motion capture option available at any price
   - Bench mark agaist modern gold-standard techniques and proprietary softwares [Validation], [Diagnostics]
-  - "We define the floor" 
+  - "We define the floor"
 - Maximize accessibility
   - "We follow a “Universal Design” development philosophy, with the goal of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance." (freemocap.org)
 - Community co-ownership and self-governance
@@ -119,6 +124,7 @@ How we will help the world
 ## Guiding Principles
 
 ### Universal Design
+
 - "When anyone can use it, everyone benefits"
 - Same tool for 0XP as for professional
 - "The [aspirational goal] of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
@@ -127,9 +133,10 @@ How we will help the world
   - Universal design attracts the widest possible userbase
 
 ### Universal Access
+
 - **Maximize access to maximize impact**
   - Free software, so econimically maximum possible userbase
-  - Quick as possible route from "Just heard of this" to "Oh look, a skeleton!" 
+  - Quick as possible route from "Just heard of this" to "Oh look, a skeleton!"
     - minimize 'time to skelly' [TTS]
     - Inside out education
       - Greased rail to the good stuff
