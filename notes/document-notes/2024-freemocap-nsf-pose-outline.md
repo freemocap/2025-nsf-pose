@@ -135,8 +135,14 @@ How we will help the world
       - Greased rail to the good stuff
       - Educational routes from their towards whichever sub-field draws the user [Plot-hook-strategy]
 - **Education focus**
+  - Core design built around:
+    - Progressive Disclosure [WYLTKM]-bot
+    - Modern best practices
+    - Empirically measured user workflow data
+      - [SkellyBot-Local]
   - to avoid [paradox of the active user]
-  - foster **long term user relationships**
+    - [User-State-Model-Trajectory-Control]
+  - foster **long term user relationships** []
   - encourage community engagement
     - Push user-student into 'zone of proximal development'
     - Provide easy access to resources (AI, static, community)
