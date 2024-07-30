@@ -35,11 +35,6 @@ How we will help the world
 - Privacy violations
 - Worker/social exploitation
 - Economic Disparity -> Access Disparity (and many many other disparities)
-- Need for new models of scientific research and higher education
-  - Needs be self-sustaining
-  - Generative (for scale)
-  - As Autonomous As Possible (allow the fewest to do the most)
-  - Topic/software/hardware agnostic, adaptable, extensible, maintainable, and replicable
 
 #### Ethical context
 
@@ -78,21 +73,28 @@ How we will help the world
 - The story of Grease Pencil
 
 ### Need and Gap
-
 - Current model not fit for present and future needs
 - Need alternative models, organizations, infrastructures for science and education
   - Generative and self sustaining
     - Von Neumann machine - Sustainibility through replicability
+  - As Autonomous As Possible (allow the fewest to do the most)
+  - Topic/software/hardware agnostic
+  - Multi-scale adaptable, extensible, maintainable, and replicable [SEP]
+
 - Two Loops theory of social progress
   - Not saying we should burn it all to the ground
-  - It's already burning
+    - It's already burning
   - We need to build a better ship
     - & f-ing ASAP plz thx
 
 ## Objectives and Long term vision
 
-- Make FreeMoCap the best mocap option available
+### Aspirational Goals
+- Make FreeMoCap the best motion capture option available at any price
+  - Bench mark agaist modern gold-standard techniques and proprietary softwares [Validation], [Diagnostics]
+  - "We define the floor" 
 - Maximize accessibility
+  - "
 - Build vibrant community of user/developers
 - Develop implicit educational methods
 
