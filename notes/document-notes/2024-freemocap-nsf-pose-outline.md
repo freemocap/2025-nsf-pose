@@ -58,9 +58,8 @@ How we will help the world
 - 'Higher Education as a filter' \cite{arrow1970}
   - "Purpose of education is to let purchasers of labor know the value prop of a student"
     - 🤢 🤮
-- The 'banking model' of education (perjorative) \cite{friere1070}
-  - 
-  - Paolo friere
+- The 'banking model' of education (perjorative) \cite{friere1967}
+  - Education as a transactional process of certification
 - Current systems of academic research and education:
   - ...does not reward necessary activites to build and sustain an OSE
   - ...is not equipped to address present and rising societal needs and challenges
