@@ -127,20 +127,20 @@ How we will help the world
   - Universal design attracts the widest possible userbase
 
 ### Universal Access
-- Maximize access to maximize impact
-- Free software, so econimically maximum possible userbase
+- **Maximize access to maximize impact**
+  - Free software, so econimically maximum possible userbase
   - Quick as possible route from "Just heard of this" to "Oh look, a skeleton!" 
     - minimize 'time to skelly' [TTS]
     - Inside out education
       - Greased rail to the good stuff
-      - Educational routes from their towards whichever sub-field draws the user (Plot-hooks)
+      - Educational routes from their towards whichever sub-field draws the user [Plot-hook]
 - **Education focus**
   - to avoid [paradox of the active user]
   - foster **long term user relationships**
   - encourage community engagement
     - Push user-student into 'zone of proximal development'
     - Provide easy access to resources (AI, static, community)
-  - (see **AI Simulacrum Mentorship**)
+  - (see **AI Simulacrum Pseudo Mentorship**[AiSPM])
   - Covert education:
     - Using the thing should teach you how it works
     - [ZoPD] & [WYLTKM]-bot
