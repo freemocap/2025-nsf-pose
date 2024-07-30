@@ -94,9 +94,13 @@ How we will help the world
   - Bench mark agaist modern gold-standard techniques and proprietary softwares [Validation], [Diagnostics]
   - "We define the floor" 
 - Maximize accessibility
-  - "
-- Build vibrant community of user/developers
-- Develop implicit educational methods
+  - "We follow a “Universal Design” development philosophy, with the goal of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance." (freemocap.org)
+- Community co-ownership and self-governance
+  - [BDFaSPoT]
+- Covert Education
+  - [Anti-paradox of active user]
+  - "Using the thing teaches you how it works
+  - [WYLTKM]-Bot
 
 ## Potential Broader Impacts
 
@@ -115,7 +119,6 @@ How we will help the world
 ## Guiding Principles
 
 ### Universal Design
-
 - "When anyone can use it, everyone benefits"
 - Same tool for 0XP as for professional
 - "The [aspirational goal] of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance"
@@ -124,7 +127,13 @@ How we will help the world
   - Universal design attracts the widest possible userbase
 
 ### Universal Access
-
+- Maximize access to maximize impact
+- Free software, so econimically maximum possible userbase
+  - Quick as possible route from "Just heard of this" to "Oh look, a skeleton!" 
+    - minimize 'time to skelly' [TTS]
+    - Inside out education
+      - Greased rail to the good stuff
+      - Educational routes from their towards whichever sub-field draws the user (Plot-hooks)
 - **Education focus**
   - to avoid [paradox of the active user]
   - foster **long term user relationships**
