@@ -19,7 +19,7 @@ Open in browser: http://localhost:8000
 
 ## Document Proper
 
-- [Project Description Outline](/document-proper/2024-freemocap-nsf-pose-outline.md) 👈✨
+- [Project Description Outline](/notes/document-notes/2024-freemocap-nsf-pose-outline.md) 👈✨
 
 ## Notes and Resources
 
