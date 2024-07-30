@@ -101,7 +101,7 @@ How we will help the world
 - **Expected outcomes:**
   - Support and sustain the growing community of `freemocap` users, loosely organized around a shared love of the measurement, investigation, analysis, and expression of human and animal movement (broadly construed) XP leveling)
   - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
-- Idealist future:
+- **Idealist future:**
   - Iterative solutions on 'project-scale' strategy produces a vibrant ecosystem of ecosystem which fundamentally changes the face of education and scientific research.
 
 ## Guiding Principles
@@ -126,13 +126,13 @@ How we will help the world
   - (see **AI Simulacrum Mentorship**)
   - Covert education:
     - Using the thing should teach you how it works
-    - ZoPD & WYLTKM-bot
+    - [ZoPD] & [WYLTKM]-bot
 - **Maintain a True Minimum**
   - **Hardware**
     - Understand and maintain an option to run with the barest, most generic, and lowest-possible cost hardware,
     - Focus and maintain a [generic hardware] pipeline as the core path
       - Specialized tools (e.g. sterocam, eye trackiner, emg, forceplates) and proprietary options (e.g. iPhone, Basler/FLIR cameras, etc) added via plug-in system
-      - Developed by community and/or upon client request
+      - Developed by FMC-C and/or upon [client] request
   - **Software**
     - Maintain and understand requirements for different outcomes (specific to defined use cases)
       - Minimal requirements (to get a viable output)
