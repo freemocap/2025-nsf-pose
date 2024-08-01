@@ -119,7 +119,7 @@ How we will help the world
   - Support and sustain the growing community of `freemocap` users, loosely organized around a shared love of the measurement, investigation, analysis, and expression of human and animal movement (broadly construed) 
   - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
 - **Idealist future:**
-  - Iterative solutions on 'project-scale' strategy produces a vibrant ecosystem of ecosystem which fundamentally changes the face of education and scientific research.
+  - Iterative solutions on 'project-scale' strategy produces a vibrant **ecosystem of ecosystems** which fundamentally changes the face of education and scientific research.
 
 ## Guiding Principles
 
