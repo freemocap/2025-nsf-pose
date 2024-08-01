@@ -743,4 +743,7 @@ Other big FOSS orgs - Patchwork financials
 - Matrix homeserver for privacy, security, consistency
   - Affiliate with large and vibrant open source community around the `Matrix` specification
     - Let them figure out the encryption/security/privacy stuff
-- Full instruction set on how to duplicate infrastructure with documentation and tutorials
+- Full instruction set on how to duplicate technical and organizational infrastructure with documentation and tutorials
+   - Promotes replication/duplication by aligned parties
+   - Invites discussion, critique, analysis, and collaborative improvement
+   - Build federated network of operationally interoperable organizations
