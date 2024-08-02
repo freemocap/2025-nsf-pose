@@ -55,7 +55,7 @@ How we will help the world
 
 - Exclusionary by design
 - Ever hungry corporate engine driven by student debt
-  - Tuition room and board
+  - Tuition, room, and board deeply immoral and malignant
   - ~60% Overhead charges
 - 'Higher Education as a filter' \cite{arrow1970}
   - "Purpose of education is to let purchasers of labor know the value prop of a student"
