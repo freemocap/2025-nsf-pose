@@ -1,0 +1,50 @@
+% Based on template #1 from https://www.overleaf.com/project/66b0e99eef0dfa4776e66478
+
+\documentclass[11pt]{article} 
+
+%\usepackage{times} % uncomment for Times Roman;
+\usepackage{bm} % If you want bold math, but without the bloat of AMS packages
+\usepackage{color} % doh
+\usepackage{hyperref} % LaTeX cross references become hyperlinks in pdf output
+\usepackage{graphicx} % For figure insertion
+\usepackage{vmargin} % To set page size
+
+% Set up bibliography: https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX
+\usepackage[backend=biber]{biblatex}
+\addbibresource{../references.bib}
+
+
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
+
+\setpapersize{USletter}
+\setmarginsrb{1in}{1in}{1in}{1in}{0pt}{0mm}{0pt}{0mm}
+
+%
+% Pseudodot: break up "clickable" strings like "Data.gov" which you can
+
+% Use this trick in case research.gov misreads text such as "Data.gov" as a clickable hyperlink
+% (even when it isn't).
+%
+\newcommand{\pseudodot}{{\lower 2.4pt\hbox{$\cdot$}}} % to avoid tripping URL scanners: e.g. Data\pseudodot{}gov ('Data.gov')
+
+\begin{document}
+\pagestyle{empty} 
+\setlength{\baselineskip}{12.6pt} 
+
+\section{Introduction\label{sec:intro}}
+
+hi  \cite{matthis_gaze_2018}
+\footnote{I'm a footnote}
+
+
+\subsection{Subsection}
+ Wow \cite{cao_openpose_2018}
+
+
+\section{Broader Impacts\label{sec:BI}}
+
+Broder impocts
+
+\newpage
+\printbibliography
+\end{document}
