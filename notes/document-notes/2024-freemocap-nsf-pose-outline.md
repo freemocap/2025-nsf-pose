@@ -1,16 +1,39 @@
 # *POSE: PHASE II: The Free Motion Capture (FreeMoCap) Project*
 
-## Introduction
+## Introduction (Gap/Need/Hero statements)
 
-Gap/Need/Hero statements
+- Current model not fit for present and future needs
+- Need alternative models, organizations, infrastructures for science and education
 
-## Intellectual Merit
+  - Generative and self sustaining
+    - Von Neumann machine - Sustainibility through replicability
+  - As Autonomous As Possible (allow the fewest to do the most)
+  - Topic/software/hardware agnostic
+  - Multi-scale adaptable, extensible, maintainable, and replicable [SEP]
+- Two Loops theory of social progress
 
-How we will advance knowledge
+  - Not saying we should burn it all to the ground
+    - It's already burning
+  - We need to build a better ship
+    - & f-ing ASAP plz thx
+
+## Intellectual Merit (How we advance knowledge)
+
+- Enablabling tech-forward integrative research
+- Rosetta Stones and Systems Engineers
+- Training nextgen technowizards and cross-disciplinarians
 
 ## Broader Impacts
 
-How we will help the world
+- **Meager success:**
+  - New useful tool
+  - New body of research realted to human/animation perceptuomotor control
+  - Education tools and strategy
+- **Expected outcomes:**
+  - Support and sustain the growing community of `freemocap` users, loosely organized around a shared love of the measurement, investigation, analysis, and expression of human and animal movement (broadly construed) 
+  - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
+- **Idealist future:**
+  - Iterative solutions on 'project-scale' strategy produces a vibrant **ecosystem of ecosystems** which fundamentally changes the face of education and scientific research.
 
 ## Context of the OSE
 
@@ -74,22 +97,7 @@ How we will help the world
 - The problem of publication ([Dan Goodman stuff](http://neural-reckoning.org/video_metascience_peer_review.html))
 - The story of Grease Pencil
 
-### Need and Gap
 
-- Current model not fit for present and future needs
-- Need alternative models, organizations, infrastructures for science and education
-
-  - Generative and self sustaining
-    - Von Neumann machine - Sustainibility through replicability
-  - As Autonomous As Possible (allow the fewest to do the most)
-  - Topic/software/hardware agnostic
-  - Multi-scale adaptable, extensible, maintainable, and replicable [SEP]
-- Two Loops theory of social progress
-
-  - Not saying we should burn it all to the ground
-    - It's already burning
-  - We need to build a better ship
-    - & f-ing ASAP plz thx
 
 ## Objectives and Long term vision
 
@@ -107,19 +115,6 @@ How we will help the world
   - "Using the thing teaches you how it works
   - [WYLTKM]-Bot
 
-## Potential Broader Impacts
-
- The long term potential of a generative plan is difficult to constrain
-
-- **Meager success:**
-  - New useful tool
-  - Small body of research
-  - Education tools and strategy
-- **Expected outcomes:**
-  - Support and sustain the growing community of `freemocap` users, loosely organized around a shared love of the measurement, investigation, analysis, and expression of human and animal movement (broadly construed) 
-  - Sustainable organization and vibrant ecosystem existing as a proof-of-concept alternative organizational approach to broadscale academic research, education, and training
-- **Idealist future:**
-  - Iterative solutions on 'project-scale' strategy produces a vibrant **ecosystem of ecosystems** which fundamentally changes the face of education and scientific research.
 
 ## Guiding Principles
 
@@ -543,7 +538,7 @@ Activities to bring us from current status towards the Ideal Perfect status desc
       - i.e. each member has a fixed number of voting points to distribute among entries
       - Maybe **Badges** provide additional voting points?
 
-## Gamified documentation/software training
+#### Gamified documentation/software training
 
 - Offer **Badges** and stuff in discord for milestones, i.e.
   - First contact - open the software
