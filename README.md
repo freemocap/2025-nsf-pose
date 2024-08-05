@@ -2,8 +2,8 @@
 
 ## Document Proper
 
-- [Project Description Outline](/notes/document-notes/2024-freemocap-nsf-pose-outline.md)
-- [Project Description LaTeX](/document/project-description/project-description.tex) 👈✨
+- [Project Description Outline](/notes/document-notes/2024-freemocap-nsf-pose-outline.md) 👈✨
+- [Project Description LaTeX](/document/project-description/project-description.tex) 
 ## Notes and Resources
 
 1. [Official Resources](notes/official_resources.md)
