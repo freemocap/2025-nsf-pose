@@ -106,7 +106,7 @@
 - Make FreeMoCap the best motion capture option available at any price
   - Bench mark agaist modern gold-standard techniques and proprietary softwares [Validation], [Diagnostics]
   - "We define the floor"
-- Maximize accessibility
+- Universal access, all levels accessible and performant
   - "We follow a “Universal Design” development philosophy, with the goal of creating a system that serves the needs of a professional research scientist while remaining intuitive to a 13-year-old with no technical training and no outside assistance." (freemocap.org)
 - Community co-ownership and self-governance
   - [BDFaSPoT]
