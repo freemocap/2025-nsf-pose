@@ -1,0 +1,53 @@
+{
+  "input": {
+    "files": [],
+    "opts": {
+      "execute": false,
+      "pdf": true,
+      "tex": false,
+      "typst": false,
+      "docx": false,
+      "md": false,
+      "xml": false,
+      "meca": false,
+      "cff": false,
+      "site": false,
+      "html": false,
+      "all": false,
+      "doiBib": false,
+      "watch": false,
+      "force": false,
+      "checkLinks": false,
+      "strict": false,
+      "ci": false,
+      "maxSizeWebp": 1572864
+    }
+  },
+  "exports": [
+    {
+      "format": "pdf",
+      "output": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\_build\\exports\\project-description_0.pdf",
+      "articles": [
+        {
+          "file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
+          "level": 0
+        }
+      ],
+      "$file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
+      "$project": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose"
+    },
+    {
+      "template": "plain_latex",
+      "format": "pdf",
+      "output": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\_build\\exports\\project-description_1.pdf",
+      "articles": [
+        {
+          "file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
+          "level": 0
+        }
+      ],
+      "$file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
+      "$project": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose"
+    }
+  ]
+}
