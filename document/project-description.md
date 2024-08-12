@@ -142,7 +142,7 @@ Our plan comprises 3 inter-woven foci -
 
 ## Planned Activitites and Objectives}
 
-### Ecosustem establishment and growth
+### Ecosystem establishment and growth
 ### Userbase Analysis/Engagement
 ### AI Psuedo-Mentorship (SkellyBot)
 
