@@ -10,7 +10,7 @@ The current system is a built around a massive concentration of resources within
 
 To face the rising challenges and seize the opportunities, we must develop new institutional structures based on a commitment to the values of _Universal Access_ and _Universal Design_. 
 
-%% A little more about these institutions and what they will need to look like, etc. bridgeing the 'scale gap' and all that - need for focus of purpose and expansive impact 
+{A little more about these institutions and what they will need to look like, etc. bridgeing the 'scale gap' and all that - need for focus of purpose and expansive impact}
 
 In this proposal, we present a potential model of an Open Source Ecosystem (OSE) as a prototype organization structured in service of these needs. 
 
@@ -39,7 +39,7 @@ Our plan comprises 3 inter-woven foci -
 
 
 
-\subsection{Intellectual Merit\label{sec:IM}}
+### Intellectual Merit\label{sec:IM}}
 % How we will advance knowledge 
  
 - Enablabling tech-forward integrative research
@@ -59,7 +59,7 @@ Our plan comprises 3 inter-woven foci -
 
 ## Objectives} 
 
-\subsubsection{\textbf{FreeMoCap Software [FMC-S]}}
+#### \textbf{FreeMoCap Software [FMC-S]}}
 \textbf{Aspirational Goals}
 \begin{itemize}
   \item \textbf{All Levels Accessible.} FreeMoCap is usable by a 13-year old with no technical training and no outside assistance.
@@ -92,86 +92,86 @@ Our plan comprises 3 inter-woven foci -
 \newpage
 
 ## Current Context}
-\subsection{Technological Context}
-\subsection{Social Context}
-\subsection{Ethical Context}
-\subsubsection{The Problem of Universities}
-\subsubsection{The Problem of Journals}
-\subsubsection{On Gardens and Cottage Industries}
-\subsection{Need and Gap}
+### Technological Context}
+### Social Context}
+### Ethical Context}
+#### The Problem of Universities}
+#### The Problem of Journals}
+#### On Gardens and Cottage Industries}
+### Need and Gap}
 
 ## Objectives and Long term vision}
-\subsection{Aspirational Goals}
-\subsubsection{FreeMoCap => Best MoCap (monotonically increasing performance)}
-\subsubsection{All-levels accessible (universal access)}
-\subsubsection{Covert Education}
-\subsubsection{Generative Organzational Structure}
+### Aspirational Goals}
+#### FreeMoCap => Best MoCap (monotonically increasing performance)}
+#### All-levels accessible (universal access)}
+#### Covert Education}
+#### Generative Organzational Structure}
 
 
 ## Guiding Principles}
-\subsection{Universal Design / Universal Access}
-\subsection{No artificial scarcity}
-\subsection{Community Focus}
-\subsection{Aggressively Open Source}
+### Universal Design / Universal Access}
+### No artificial scarcity}
+### Community Focus}
+### Aggressively Open Source}
 
 
 ## The FreeMoCap Project (FMC)}
 
-\subsection{Artifacts}
+### Artifacts}
 
-\subsubsection{FreeMoCap Softwares}
+#### FreeMoCap Softwares}
 \paragraph{FreeMoCap Core Software (FMC-Core)}
 \paragraph{Sub-Skelly Softwares}
 
-\subsubsection{Documentation and Educational Material}
+#### Documentation and Educational Material}
 
-\subsubsection{Datasets and derived models}
+#### Datasets and derived models}
 
 
-\subsection{The FreeMoCap Community (FMC-C)}
+### The FreeMoCap Community (FMC-C)}
 
-\subsection{The FreeMoCap Foundation (FMC-F)}
-\subsubsection{Organization}
-\subsubsection{Governance}
-\subsubsection{Responsibilities}
-\subsubsection{Licensing Model}
+### The FreeMoCap Foundation (FMC-F)}
+#### Organization}
+#### Governance}
+#### Responsibilities}
+#### Licensing Model}
 
 ## Planned Activitites and Objectives}
 
-\subsection{Ecosustem establishment and growth}
-\subsubsection{Userbase Analysis/Engagement}
-\subsubsection{AI Psuedo-Mentorship (SkellyBot)}
+### Ecosustem establishment and growth}
+#### Userbase Analysis/Engagement}
+#### AI Psuedo-Mentorship (SkellyBot)}
 
-\subsection{Community Building}
-\subsubsection{Annual Workshop/Conference: FreeMoCamp/Con}
-\subsubsection{Community Challenges}
-\subsubsection{Community Grants Program}
-\subsubsection{Gamification and acheivement-based badges}
+### Community Building}
+#### Annual Workshop/Conference: FreeMoCamp/Con}
+#### Community Challenges}
+#### Community Grants Program}
+#### Gamification and acheivement-based badges}
 
-\subsection{Organization and Governance}
-\subsubsection{Build admin infrastrcutre}
-\subsubsection{Develop SOPs}
-\subsubsection{Establish core maintainer roles and support}
-\subsubsection{Develop 'Skelly Enhancement Proposal'[SEP] system}
+### Organization and Governance}
+#### Build admin infrastrcutre}
+#### Develop SOPs}
+#### Establish core maintainer roles and support}
+#### Develop 'Skelly Enhancement Proposal'[SEP] system}
 
-\subsection{Continuous Development, integration, Evaluation}
-\subsubsection{Development}
-\subsubsection{Integration}
-\subsubsection{Evaluation}
+### Continuous Development, integration, Evaluation}
+#### Development}
+#### Integration}
+#### Evaluation}
 \paragraph{Tests.}
 \paragraph{Validation.}
 \paragraph{Diagnostics.}
 
-\subsection{Sustainability}
-\subsubsection{Goals and Metrics}
+### Sustainability}
+#### Goals and Metrics}
 \paragraph{Growth}
 \paragraph{Stability}
 \paragraph{Performance}
 \paragraph{Revenue}
 
-\subsection{Security and Privacy}
-\subsection{Security}
-\subsection{Privacy}
+### Security and Privacy}
+### Security}
+### Privacy}
 
 \newpage
 \printbibliography
