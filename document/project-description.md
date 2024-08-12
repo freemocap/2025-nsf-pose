@@ -84,7 +84,9 @@ Our plan comprises 3 inter-woven foci -
       - FreeMoCamp/Con
  - Organizational 
     - Setting up FMC-F
-    - Define and support core m
+    - Define and support core maintainer team
+    - Set up necessary legal whosits and organizational SOP's
+    - Establish timeline of abdication of power from original maintainer -> FMC-F -> FMC-F/C
 
 \newpage
 
