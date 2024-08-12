@@ -2,7 +2,6 @@
 exports: 
   - format: pdf
   - template: plain_latex
-
 ---
 
 # 2024 FMC NSF POSE - Project Description (15pgs)
