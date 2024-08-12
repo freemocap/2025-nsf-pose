@@ -15,6 +15,6 @@ exports:
 
 ## Objectives
 
-### FMC-Artifacts [FMC-A]: Core FreeMoCap artifacts of the FreeMoCap OSE, esp the FMC-Softwares [FMC-S], FMC-Documentation [FMC-D]
-### FMC-Community [FMC-C]: The Community of FreeMoCap User/Developers
-### FMC-Foundation[FMC-F]: The organizational structure which supports the FMC-Project
+### FMC-Core: Core FreeMoCap artifacts of the FreeMoCap OSE
+### FMC-Community: The Community of FreeMoCap User/Developers
+### FMC-Foundation: The organizational structure which supports the FMC-Project
