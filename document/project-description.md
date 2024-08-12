@@ -65,7 +65,6 @@ Our plan comprises 3 inter-woven foci -
 
 ### \textbf{FreeMoCap Software [FMC-S]}}
 #### \textbf{Aspirational Goals}
-
   1. \textbf{All Levels Accessible.} FreeMoCap is usable by a 13-year old with no technical training and no outside assistance.
   1. \textbf{FreeMoCap == Best MoCap} FreeMoCap is the best motion capture software available for any application at any price
 
