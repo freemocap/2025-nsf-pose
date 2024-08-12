@@ -1,11 +1,10 @@
 ---
-title: 2024 FMC NSF POSE - Project Description (15pgs)
 exports: 
   - format: pdf
-  - template: ieee-typst
+  - template: jsm_plain_latex
   - outputs: exports/2024-fmc-nsf-pose-project-description.pdf
 ---
-
+# 2024 FMC NSF POSE - Project Description (15pgs)
 ## Introduction
  Context/Need/Gap/Hero Funnel. 
  sample citation: \cite{matthis_retinal_2022} 
