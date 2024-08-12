@@ -7,6 +7,7 @@ exports:
 ---
 
 
+
 ## Introduction
 
 ## Intellectual Merit
@@ -14,7 +15,7 @@ exports:
 ## Broader Impacts
 
 ## Objectives
-
-### FMC-Core: Core FreeMoCap artifacts of the FreeMoCap OSE
-### FMC-Community: The Community of FreeMoCap User/Developers
-### FMC-Foundation: The organizational structure which supports the FMC-Project
+## FreeMoCap [FMC] Project 
+### FMC-Development [FMC-D]: Core FreeMoCap artifacts of the FreeMoCap OSE
+### FMC-Community [FMC-C]: The Community of FreeMoCap User/Developers
+### FMC-Foundation [FMC-F]: The organizational structure which supports the FMC-Project
