@@ -8,13 +8,13 @@ Our current institutions of education and scientific research are inequitable, e
 
 The current system is a built around a massive concentration of resources within Ivory-tower institutions, with research occuring in siloed 'cottage industries' driven by student labor and debt within a gerontocratic ponzi-scheme competition based heirarchy predicated on the assumption of lateral competition predicated on assumptions of false scarcity. 
 
-To face the rising challenges and seize the opportunities, we must develop new institutional structures based on a commitment to the values of \textit{Universal Access} and \textit{Universal Design}. 
+To face the rising challenges and seize the opportunities, we must develop new institutional structures based on a commitment to the values of _Universal Access_ and _Universal Design_. 
 
 %% A little more about these institutions and what they will need to look like, etc. bridgeing the 'scale gap' and all that - need for focus of purpose and expansive impact 
 
 In this proposal, we present a potential model of an Open Source Ecosystem (OSE) as a prototype organization structured in service of these needs. 
 
-Specifically, we descripbe a plan to buttress and shape the burdgeoning community of users, developers, students, and educators forming around the \textbf{FreeMoCap Project (FMC)} into a self-sustaining and expansive Open Source Ecosystem (OSE). 
+Specifically, we descripbe a plan to buttress and shape the burdgeoning community of users, developers, students, and educators forming around the **FreeMoCap Project (FMC)** into a self-sustaining and expansive Open Source Ecosystem (OSE). 
 
 % - Current model not fit for present and future needs
 % - Need alternative models, organizations, infrastructures for science and education
