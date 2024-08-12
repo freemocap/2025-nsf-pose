@@ -2,7 +2,7 @@
 title: 2024 FMC NSF POSE - Project Description (15pgs)
 exports: 
   - format: pdf
-  - template: nsf_proposal
+  - template: ieee_typst
 ---
 
 ## Introduction
