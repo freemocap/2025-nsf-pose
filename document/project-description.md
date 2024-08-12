@@ -12,7 +12,7 @@ exports:
 
 Our current institutions of education and scientific research are inequitable, exclusionary by design, and ill-equipped to address the existential threats and transformative opportunities presented by the rise and spread of high technology through a globally interconnected world.
 
-The current system is a built around a massive concentration of resources within Ivory-tower institutions, with research occuring in siloed 'cottage industries' driven by student labor and debt within a gerontocratic ponzi-scheme competition based heirarchy predicated on the assumption of lateral competition amid false scarcity. 
+The current system is a built around a massive concentration of resources within Ivory-tower institutions, with research occuring in siloed 'cottage industries' driven by student labor and debt within a gerontocratic ponzi-scheme competition based heirarchy predicated on the assumption of lateral competition predicated on assumptions of false scarcity. 
 
 To face the rising challenges and seize the opportunities, we must develop new institutional structures based on a commitment to the values of \textit{Universal Access} and \textit{Universal Design}. 
 
