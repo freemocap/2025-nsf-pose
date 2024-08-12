@@ -46,7 +46,7 @@ Our plan comprises 3 inter-woven foci -
 - Rosetta Stones and Systems Engineers
 - Training nextgen technowizards and cross-disciplinarians
 
-## Broader Impacts\label{sec:BI}}
+## Broader Impacts
 - **Meager success:**
   - New useful tool
   - New body of research realted to human/animation perceptuomotor control
@@ -59,19 +59,16 @@ Our plan comprises 3 inter-woven foci -
 
 ## Objectives} 
 
-#### \textbf{FreeMoCap Software [FMC-S]}}
-\textbf{Aspirational Goals}
-\begin{itemize}
-  \item \textbf{All Levels Accessible.} FreeMoCap is usable by a 13-year old with no technical training and no outside assistance.
-  \item \textbf{FreeMoCap == Best MoCap} FreeMoCap is the best motion capture software available for any application at any price
-\end{itemize}
+#### **FreeMoCap Core Software [FMC-Core]**
+##### Aspirational Goals
+  - **All Levels Accessible.** FreeMoCap is usable by a 13-year old with no technical training and no outside assistance.
+  - **FreeMoCap == Best MoCap.** FreeMoCap is the best motion capture software available for any application at any price
 
-\textbf{Specific Activitites}
-\begin{itemize}
-  \item \textbf{Automate Everything} Develop a sophisticated, extensible, and fastidiously documented system of continuous developmenet, integration, testing, validation, and diagnostics
-  \item \textbf{Coherent poly-repo format} Develop and refine fractal polyrepo structure whereby the core software comprises a set of independent sub-repositories with a shared infrastructure with plugin and contribution templates
-  \item \textbf{Monotonically increasing performance} Automated disganostics and validation tests on each version bump, maximum performance tracked over time should never decrease. 
-  \item \textbf{Docs Docs Docs.} Manage docs repo like the rest of the codebase, and treat our documentation, educational content, tutorials, and onboarding material as a core artifact. 
+**Specific Activitites**
+  1.  **Automate Everything** Develop a sophisticated, extensible, and fastidiously documented system of continuous developmenet, integration, testing, validation, and diagnostics
+  1.  **Coherent poly-repo format** Develop and refine fractal polyrepo structure whereby the core software comprises a set of independent sub-repositories with a shared infrastructure with plugin and contribution templates
+  1.  **Monotonically increasing performance** Automated disganostics and validation tests on each version bump, maximum performance tracked over time should never decrease. 
+  1.  **Documentation as a core artifact** Manage docs repo like the rest of the codebase, and treat our documentation, educational content, tutorials, and onboarding material as a core artifact held to the same standards and following similar workflows as the FMC-Core software.
 \end{itemize}
 
  - Technical Objectives
@@ -81,89 +78,89 @@ Our plan comprises 3 inter-woven foci -
  - Community Development
     - Transition from Stadium to Federation \cite{egbahl2020}
     - User XP tracking and educational trajectory shaping
-    - Community support Activitites
-      - Community grants Program
-      - Community challenges program 
+    - Commun
+      - 
+      - Community 
       - FreeMoCamp/Con
  - Organizational 
     - Setting up FMC-F
-    - Define and support core maintainer team
+    - Define and support core m
 
 \newpage
 
-## Current Context}
+## C
 ### Technological Context}
 ### Social Context}
 ### Ethical Context}
-#### The Problem of Universities}
-#### The Problem of Journals}
-#### On Gardens and Cottage Industries}
+#### **lem of Universitie**
+#### **lem of Journal**
+#### **ns and Cottage Industrie**
 ### Need and Gap}
 
 ## Objectives and Long term vision}
 ### Aspirational Goals}
-#### FreeMoCap => Best MoCap (monotonically increasing performance)}
-#### All-levels accessible (universal access)}
-#### Covert Education}
-#### Generative Organzational Structure}
+#### **p => Best MoCap (monotonically increasing performance**
+#### **ls accessible (universal access**
+#### **ducatio**
+####
 
 
 ## Guiding Principles}
-### Universal Design / Universal Access}
+### Universal Design / 
 ### No artificial scarcity}
-### Community Focus}
+### C
 ### Aggressively Open Source}
 
 
-## The FreeMoCap Project (FMC)}
+## The FreeMoCap Project (FMC)
 
-### Artifacts}
 
-#### FreeMoCap Softwares}
-\paragraph{FreeMoCap Core Software (FMC-Core)}
+
+#
+
 \paragraph{Sub-Skelly Softwares}
 
-#### Documentation and Educational Material}
+#### **ation and Educational Materia**
 
-#### Datasets and derived models}
+#### ** and 
 
 
-### The FreeMoCap Community (FMC-C)}
+### The FreeMoCap Comm
 
-### The FreeMoCap Foundation (FMC-F)}
-#### Organization}
-#### Governance}
-#### Responsibilities}
-#### Licensing Model}
+### T
+#### **t
+#### **c**
+#### **bilitie**
+#
 
-## Planned Activitites and Objectives}
+## Planned Activitites a
 
-### Ecosustem establishment and growth}
-#### Userbase Analysis/Engagement}
-#### AI Psuedo-Mentorship (SkellyBot)}
+### Ecosustem establishm
+#### ** Analysis/Engagemen**
+#### **o-Mentorshi
 
-### Community Building}
-#### Annual Workshop/Conference: FreeMoCamp/Con}
-#### Community Challenges}
-#### Community Grants Program}
-#### Gamification and acheivement-based badges}
+### Community Build
+#### **orkshop/Conference: FreeMoCamp/Co**
+#### **y Challenge**
+#### **y Grants Progra**
+#### **tion and acheivement-based badge**
 
 ### Organization and Governance}
-#### Build admin infrastrcutre}
-#### Develop SOPs}
-#### Establish core maintainer roles and support}
-#### Develop 'Skelly Enhancement Proposal'[SEP] system}
+##
+#### **SOP**
+#### **h core maintainer roles and suppor**
+#### **'Skelly Enhancement Proposal'[SEP] syste**
 
 ### Continuous Development, integration, Evaluation}
-#### Development}
-#### Integration}
-#### Evaluation}
+#### **en**
+#### **io**
+#### **o**
 \paragraph{Tests.}
 \paragraph{Validation.}
 \paragraph{Diagnostics.}
 
 ### Sustainability}
-#### Goals and Metrics}
+#### **d Metric**
 \paragraph{Growth}
 \paragraph{Stability}
 \paragraph{Performance}
