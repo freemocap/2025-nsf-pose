@@ -1,32 +1,5 @@
-% Based on template #1 from https://www.overleaf.com/project/66b0e99eef0dfa4776e66478
-
-\documentclass[11pt]{article} 
-
-%\usepackage{times} % uncomment for Times Roman;
-\usepackage{bm} % If you want bold math, but without the bloat of AMS packages
-\usepackage{color} % doh
-\usepackage{hyperref} % LaTeX cross references become hyperlinks in pdf output
-\usepackage{graphicx} % For figure insertion
-\usepackage{vmargin} % To set page size
-
-% Set up bibliography: https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX
-\usepackage[backend=biber]{biblatex} 
-\addbibresource{../references.bib}
-
-
-\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue} 
-
-\setpapersize{USletter}
-\setmarginsrb{1in}{1in}{1in}{1in}{0pt}{0mm}{0pt}{0mm}
-
-\newcommand{\pseudodot}{{\lower 2.4pt\hbox{$\cdot$}}} % to avoid tripping URL scanners: e.g. Data\pseudodot{}gov ('Data.gov')
-
-\begin{document}
-\pagestyle{empty} 
-\setlength{\baselineskip}{12.6pt} 
-
-
-\section{Introduction\label{sec:intro}}
+# NSF POSE PHASE II: Building an Open Source Ecosystem for the Free Motion Capture (FreeMoCap) Project
+## Introduction\label{sec:intro}}
  Context/Need/Gap/Hero Funnel. 
  sample citation: \cite{matthis_retinal_2022} 
 %# Will probably need tightening and focusing on FMC/OSE
@@ -59,11 +32,11 @@ Specifically, we descripbe a plan to buttress and shape the burdgeoning communit
 %     - & f-ing ASAP plz thx
 
 Our plan comprises 3 inter-woven foci - 
-\begin{enumerate}
-  \item A core software platform and framework for the measurement, analysis, and visualization of human and animal movement (FMC-Core)
-  \item A broad and diverse userbase representing wide array of backgrounds, interests, experience levels, and geographic sprea (FMC-Community)
-  \item A self-sustaining organization to support a dedicated team of core maintainers who ensure the healthy growth and long-term stability of the ecosystem (FMC-Foundation)
-\end{enumerate}
+
+1. A core software platform and framework for the measurement, analysis, and visualization of human and animal movement (FMC-Core)
+2. A broad and diverse userbase representing wide array of backgrounds, interests, experience levels, and geographic sprea (FMC-Community)
+3. A self-sustaining organization to support a dedicated team of core maintainers who ensure the healthy growth and long-term stability of the ecosystem (FMC-Foundation)
+
 
 
 \subsection{Intellectual Merit\label{sec:IM}}
@@ -73,7 +46,7 @@ Our plan comprises 3 inter-woven foci -
 - Rosetta Stones and Systems Engineers
 - Training nextgen technowizards and cross-disciplinarians
 
-\section{Broader Impacts\label{sec:BI}}
+## Broader Impacts\label{sec:BI}}
 - **Meager success:**
   - New useful tool
   - New body of research realted to human/animation perceptuomotor control
@@ -84,7 +57,7 @@ Our plan comprises 3 inter-woven foci -
 - **Idealist future:**
   - Iterative solutions on 'project-scale' strategy produces a vibrant **ecosystem of ecosystems** which fundamentally changes the face of education and scientific research.
 
-\section{Objectives} 
+## Objectives} 
 
 \subsubsection{\textbf{FreeMoCap Software [FMC-S]}}
 \textbf{Aspirational Goals}
@@ -118,7 +91,7 @@ Our plan comprises 3 inter-woven foci -
 
 \newpage
 
-\section{Current Context}
+## Current Context}
 \subsection{Technological Context}
 \subsection{Social Context}
 \subsection{Ethical Context}
@@ -127,7 +100,7 @@ Our plan comprises 3 inter-woven foci -
 \subsubsection{On Gardens and Cottage Industries}
 \subsection{Need and Gap}
 
-\section{Objectives and Long term vision}
+## Objectives and Long term vision}
 \subsection{Aspirational Goals}
 \subsubsection{FreeMoCap => Best MoCap (monotonically increasing performance)}
 \subsubsection{All-levels accessible (universal access)}
@@ -135,14 +108,14 @@ Our plan comprises 3 inter-woven foci -
 \subsubsection{Generative Organzational Structure}
 
 
-\section{Guiding Principles}
+## Guiding Principles}
 \subsection{Universal Design / Universal Access}
 \subsection{No artificial scarcity}
 \subsection{Community Focus}
 \subsection{Aggressively Open Source}
 
 
-\section{The FreeMoCap Project (FMC)}
+## The FreeMoCap Project (FMC)}
 
 \subsection{Artifacts}
 
@@ -163,7 +136,7 @@ Our plan comprises 3 inter-woven foci -
 \subsubsection{Responsibilities}
 \subsubsection{Licensing Model}
 
-\section{Planned Activitites and Objectives}
+## Planned Activitites and Objectives}
 
 \subsection{Ecosustem establishment and growth}
 \subsubsection{Userbase Analysis/Engagement}
