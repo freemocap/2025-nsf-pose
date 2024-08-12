@@ -101,10 +101,9 @@ Our plan comprises 3 inter-woven foci -
 
 ## Objectives and Long term vision}
 ### Aspirational Goals}
-#### **p => Best MoCap (monotonically increasing performance**
-#### **ls accessible (universal access**
-#### **ducatio**
-####
+#### FreeMoCap => Best MoCap (monotonically increasing performance
+#### All levels accessible (universal access/design)
+#### Inside-out covert Education
 
 
 ## Guiding Principles}
