@@ -2,7 +2,7 @@
 title: 2024 FMC NSF POSE - Project Description (15pgs)
 ---
 
-# Introduction
+## Introduction
  Context/Need/Gap/Hero Funnel. 
  sample citation: \cite{matthis_retinal_2022} 
 %# Will probably need tightening and focusing on FMC/OSE
@@ -92,7 +92,7 @@ Our plan comprises 3 inter-woven foci -
 
 
 
-# Current Context
+## Current Context
 ### Technological Context
 ### Social Context
 ### Ethical Context
@@ -101,7 +101,7 @@ Our plan comprises 3 inter-woven foci -
 ### On Gardens and Cottage Industries
 ### Need and Gap
 
-# Objectives and Long term vision
+## Objectives and Long term vision
 ### Aspirational Goals
 ### FreeMoCap => Best MoCap (monotonically increasing performance)
 ### All-levels accessible (universal access)
@@ -109,14 +109,14 @@ Our plan comprises 3 inter-woven foci -
 ### Generative Organzational Structure
 
 
-# Guiding Principles
+## Guiding Principles
 ### Universal Design / Universal Access
 ### No artificial scarcity
 ### Community Focus
 ### Aggressively Open Source
 
 
-# The FreeMoCap Project (FMC)
+## The FreeMoCap Project (FMC)
 
 ### Artifacts
 
@@ -137,7 +137,7 @@ Our plan comprises 3 inter-woven foci -
 ### Responsibilities
 ### Licensing Model
 
-# Planned Activitites and Objectives}
+## Planned Activitites and Objectives}
 
 ### Ecosustem establishment and growth
 ### Userbase Analysis/Engagement
