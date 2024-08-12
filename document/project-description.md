@@ -107,10 +107,10 @@ Our plan comprises 3 inter-woven foci -
 
 
 ## Guiding Principles}
-### Universal Design / 
-### No artificial scarcity}
-### C
-### Aggressively Open Source}
+### Universal Design / Universal Access
+### No artificial scarcity
+### Community focus
+### Aggressively Open Source
 
 
 ## The FreeMoCap Project (FMC)
