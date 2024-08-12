@@ -99,10 +99,10 @@ Our plan comprises 3 inter-woven foci -
 ### Technological Context
 ### Social Context
 ### Ethical Context
-### The Problem of Universities
-### The Problem of Journals
-### On Gardens and Cottage Industries
-### Need and Gap
+#### The Problem of Universities
+#### The Problem of Journals
+#### On Gardens and Cottage Industries
+#### Need and Gap
 
 ## Objectives and Long term vision
 ### Aspirational Goals
