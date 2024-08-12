@@ -144,7 +144,7 @@ Our plan comprises 3 inter-woven foci -
 
 ### Ecosystem establishment and growth
 ### Userbase Analysis/Engagement
-### AI Psuedo-Mentorship (SkellyBot)
+### AI-simulacrum-based-psuedo-mentorship-model `aiSBPM` Model (SkellyBot)
 
 ### Community Building
 ### Annual Workshop/Conference: FreeMoCamp/Con
