@@ -1,9 +1,11 @@
 ---
+title: 2024 FMC NSF POSE - Project Description (15pgs)
+date: 2-2-3
 exports: 
   - format: pdf
   - template: plain_latex
 ---
-# 2024 FMC NSF POSE - Project Description (15pgs)
+
 ## Introduction
  Context/Need/Gap/Hero Funnel. 
  sample citation: \cite{matthis_retinal_2022} 
