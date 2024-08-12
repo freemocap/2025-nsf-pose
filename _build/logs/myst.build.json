@@ -26,28 +26,28 @@
   "exports": [
     {
       "format": "pdf",
-      "output": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\_build\\exports\\project-description_0.pdf",
+      "output": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose/_build/exports/project-description_0.pdf",
       "articles": [
         {
-          "file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
+          "file": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose/proposal-proper/project-description.md",
           "level": 0
         }
       ],
-      "$file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
-      "$project": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose"
+      "$file": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose/proposal-proper/project-description.md",
+      "$project": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose"
     },
     {
       "template": "plain_latex",
       "format": "pdf",
-      "output": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\_build\\exports\\project-description_1.pdf",
+      "output": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose/_build/exports/project-description_1.pdf",
       "articles": [
         {
-          "file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
+          "file": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose/proposal-proper/project-description.md",
           "level": 0
         }
       ],
-      "$file": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose\\document\\project-description.md",
-      "$project": "C:\\Users\\jonma\\github_repos\\freemocap_organization\\2024-nsf-pose"
+      "$file": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose/proposal-proper/project-description.md",
+      "$project": "/Users/jon/github_repos/freemocap_organization/2024-nsf-pose"
     }
   ]
 }
