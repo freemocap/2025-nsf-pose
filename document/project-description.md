@@ -2,7 +2,7 @@
 exports: 
   - format: docx
   - format: pdf
-    template: plain_latex
+    template: nsf-proposal-tex
     output: exports/fmc-nsf-pose-2024-project-description.pdf
 ---
 
