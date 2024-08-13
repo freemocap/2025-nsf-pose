@@ -2,7 +2,8 @@
 exports: 
   - format: docx
   - format: pdf
-    template: plain_latex
+    template: arxiv_nips
+    output: exports/fmc-nsf-pose-2024-project-description.pdf
 ---
 
 # 2024 FMC NSF POSE - Project Description (15pgs)
