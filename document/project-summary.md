@@ -10,6 +10,7 @@ exports:
 
 ## Introduction
 
+
 Our current institutions of education and scientific research are inequitable, exclusionary by design, and fundamentally ill-equipped to address the existential threats and transformative opportunities presented by the rise and spread of high technology through a globally interconnected world.
 
 
