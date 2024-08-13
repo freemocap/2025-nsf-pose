@@ -2,7 +2,7 @@
 exports: 
   - format: docx
   - format: pdf
-    template: lapreprint-typst
+    template: ieee-typst
     output: exports/fmc-nsf-pose-2024-project-description.pdf
 ---
 
