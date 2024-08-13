@@ -303,3 +303,5 @@ TSWLatexianTemp*
 .env
 temp/
 .DS_Store
+_build/
+!_build/t
