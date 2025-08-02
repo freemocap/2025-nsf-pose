@@ -10,6 +10,7 @@
 2. [Funding Opportunity Announcment (FOA) - Highlighted PDF](/notes/funding-opportunity-announcement-foa/2024_NSF_POSE_foa_nsf23556.pdf)
 
    1. [FOA Abridged](/notes/funding-opportunity-announcement-foa/pose_foa_abridged.md)
+   2. FOA 2025: https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/nsf24-606/solicitation 
 3. [POSE Youtube Video Notes](/notes/nsf-pose-youtube-video/pose-youtube-video.md)
 4. [NSF Strategic Plan](https://new.nsf.gov/about/performance/strategic-plan)
 
